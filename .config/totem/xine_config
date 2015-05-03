@@ -1,0 +1,8 @@
+# tiny small normal large very large huge 
+# 分別對應到剛剛的六個大小字型 
+subtitles.separate.subtitle_size:normal 
+# 這是剛剛自訂的字型名稱 
+subtitles.separate.font:wqy 
+# 字型編碼 
+subtitles.separate.src_encoding:gb2312 
+（大小可以根据自己需要调整，编码和名称必须对应起来） 

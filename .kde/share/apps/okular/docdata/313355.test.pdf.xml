@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/fighting/tmp/test.pdf">
+ <pageList/>
+ <generalInfo>
+  <history>
+   <oldPage viewport="2;C2:0.499628:1.00108:1"/>
+   <oldPage viewport="3;C2:0.499628:0.0010805:1"/>
+   <oldPage viewport="2;C2:0.499628:0.0612798:1"/>
+   <oldPage viewport="1;C2:0.499628:0.0330444:1"/>
+   <oldPage viewport="0;C2:0.499628:0.997839:1"/>
+   <oldPage viewport="1;C2:0.499628:1.00054:1"/>
+   <oldPage viewport="2;C2:0.499628:0.00488069:1"/>
+   <oldPage viewport="1;C2:0.499628:1.00054:1"/>
+   <oldPage viewport="2;C2:0.499628:1.00271:1"/>
+   <oldPage viewport="3;C2:0.499628:0.320367:1"/>
+   <current viewport="0;C2:0.499628:0.911399:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.51527"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

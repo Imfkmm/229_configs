@@ -1,0 +1,5 @@
+[General]
+beepOnNewMails=true
+
+[NewMailNotifierDialog]
+Size=503,335

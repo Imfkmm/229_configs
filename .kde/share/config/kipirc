@@ -1,0 +1,19 @@
+[ExpoBlending Settings]
+Auto Alignment=true
+align_image_stackBinary[$e]=
+enfuseBinary[$e]=
+
+[Panorama Settings]
+Celeste=false
+File Type=0
+GPano=false
+Horizon=true
+Save PTO=false
+autooptimiserBinary[$e]=
+cpcleanBinary[$e]=
+cpfindBinary[$e]=
+enblendBinary[$e]=
+makeBinary[$e]=
+nonaBinary[$e]=
+pano_modifyBinary[$e]=
+pto2mkBinary[$e]=

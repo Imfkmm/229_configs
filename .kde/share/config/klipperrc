@@ -1,0 +1,55 @@
+[$Version]
+update_info=klipper-kconfigxt.upd:KlipperNoSpacesInKeyNames
+
+[Action_0]
+Automatic=true
+Description=Youku
+Number of commands=1
+Regexp=http://.*youku\\.com/.*
+
+[Action_0/Command_0]
+Commandline[$e]=play %s
+Description=Play Youku
+Enabled=true
+Icon=
+Output=0
+
+[Action_1]
+Automatic=true
+Description=mp4
+Number of commands=1
+Regexp=http://.*\\.mp4
+
+[Action_1/Command_0]
+Commandline[$e]=mpv "%s"
+Description=Command Description
+Enabled=true
+Icon=mpv
+Output=0
+
+[Actions]
+EnableMagicMimeActions=false
+StripWhiteSpace=false
+
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjcAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAABPQAAAAEAAAAA
+
+[ConfigDialog]
+Height 1080=449
+Height 768=462
+Width 1366=761
+Width 1920=716
+
+[EditActionDialog]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAADAAEAAQAAAAAAAAAAAAAAAGT/////AAAAAQAAAAAAAAADAAAA5gAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAFgAAAAEAAAAA
+Height 1080=452
+Height 768=459
+Width 1366=417
+Width 1920=386
+
+[General]
+IgnoreSelection=true
+MaxClipItems=20
+Number of Actions=2
+URLGrabberEnabled=true
+Version=0.9.7

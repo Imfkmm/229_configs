@@ -1,0 +1,26 @@
+{
+   "background": {
+      "page": "html/background.html",
+      "persistent": true
+   },
+   "content_scripts": [ {
+      "css": [ "css/autowand.css" ],
+      "js": [ "lib/jquery.js", "js/namespaces.js", "js/url-tests.js", "js/content-script.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "img-src 'self' http://www.google-analytics.com http://www.wikiwand.com/  http://www.localwiki.com/ ; script-src 'self' chrome-extension://emffkefkbkpkgpdeeooapgaicgmcbolj/lib/google-analytics.js ; object-src 'self'",
+   "description": "Good old Wikipedia gets a great new look",
+   "homepage_url": "http://www.wikiwand.com",
+   "icons": {
+      "128": "images/icon128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDglPHhZuLFBzscGc6SCbT7/B2lK1/OHVRtEmwqiV7670JIKT2POfvNTgjE7DdY9nd6xYKqj4WiI5YTjJKA8riLkpgH0TNi+Xgt3YmquI7UYZP3d6JqjYOkucXRUR8FGyBowu+pW/TwAM8/oF/kZCsxSEMkrqYKHZufAjkVywrHzQIDAQAB",
+   "manifest_version": 2,
+   "name": "Wikiwand: Wikipedia Modernized",
+   "permissions": [ "http://*/*", "https://*/*", "cookies", "notifications", "contextMenus", "unlimitedStorage", "tabs", "webNavigation", "webRequest", "webRequestBlocking" ],
+   "short_name": "Wikiwand",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.5",
+   "web_accessible_resources": [ "*.png" ]
+}

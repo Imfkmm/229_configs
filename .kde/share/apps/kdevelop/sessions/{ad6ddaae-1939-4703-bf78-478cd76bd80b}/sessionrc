@@ -1,0 +1,92 @@
+SessionName=default
+SessionPrettyContents=test1
+
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\n\x00t\x00e\x00s\x00t\x001)
+
+[General Options]
+Open Projects=file:///home/fighting/tmp/projects/test1/test1.kdev4
+
+[Launch]
+Current Launch Config GroupName=Launch Configuration 0
+Current Launch Config Project=
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=New Application Launcher
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+Dependency Action=Nothing
+EnvironmentGroup=default
+Executable=file:///home/fighting/tmp/projects/test1/
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=test1,test1
+Use External Terminal=true
+Working Directory=
+isExecutable=false
+
+[Plugins]
+KDevCMakeDocumentationEnabled=false
+KDevCMakeManagerEnabled=false
+KDevManPageEnabled=true
+KDevNinjaBuilderEnabled=false
+KDevProjectManagerViewEnabled=true
+kdevappwizardEnabled=true
+kdevclassbrowserEnabled=true
+kdevcodeutilsEnabled=true
+kdevcontextbrowserEnabled=true
+kdevcvsEnabled=true
+kdevdocumentswitcherEnabled=true
+kdevdocumentviewEnabled=true
+kdevexecuteEnabled=true
+kdevexecuteplasmoidEnabled=true
+kdevexecutescriptEnabled=true
+kdevexternalscriptEnabled=true
+kdevfilemanagerEnabled=true
+kdevfiletemplatesEnabled=true
+kdevgdbEnabled=true
+kdevghproviderEnabled=true
+kdevgitEnabled=false
+kdevgrepviewEnabled=true
+kdevkdeproviderEnabled=true
+kdevkonsoleviewEnabled=true
+kdevoktetaEnabled=true
+kdevopenwithEnabled=true
+kdevpastebinEnabled=true
+kdevpatchreviewEnabled=true
+kdevpdbEnabled=true
+kdevproblemreporterEnabled=true
+kdevqthelpEnabled=true
+kdevquickopenEnabled=true
+kdevreviewboardEnabled=true
+kdevsnippetEnabled=true
+kdevswitchtobuddyEnabled=true
+kdevtestviewEnabled=true
+kdevvcschangesviewpluginEnabled=true
+
+[ProjectManagerView]
+splitterState=\x00\x00\x00ÿ\x00\x00\x00\x00\x00\x00\x00\x02\x00\x008@\x00\x00\x18ƒ\x01\x00\x00\x00\x03\x01\x00\x00\x00\x02
+
+[ProjectTreeView]
+Current=
+Expansion=
+HorizontalScroll=0
+Selection=
+VerticalScroll=0
+
+[Working File Sets][code_3388994]
+View 0=file:///home/fighting/tmp/projects/test1/main.cpp
+View 0 Type=Text
+View Count=1
+persistent=false
+
+[Working File Sets][code_3388994|Code]
+Active View=file:///home/fighting/tmp/projects/test1/main.cpp
+View 0=file:///home/fighting/tmp/projects/test1/main.cpp
+View 0 State=Cursor=9,1
+View Count=1

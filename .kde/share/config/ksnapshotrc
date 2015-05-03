@@ -1,0 +1,24 @@
+[GENERAL]
+delay=0
+filename[$e]=file://$HOME/study/control%20of%20mobile%20robots/lesson%204/pic476.png
+includeDecorations=true
+includePointer=false
+mode=2
+
+[KFileDialog Settings]
+Height 1080=600
+Height 768=660
+Recent Files[$e]=$HOME/study/korean/306.png,$HOME/study/control of mobile robots/lesson 4/pic475.png,$HOME/study/control of mobile robots/lesson 3/pic329.png,$HOME/study/control of mobile robots/lesson 3/pic328.png,$HOME/study/control of mobile robots/lesson 3/pic327.png,$HOME/study/control of mobile robots/lesson 3/pic326.png,$HOME/study/control of mobile robots/lesson 3/pic325.png,$HOME/study/control of mobile robots/lesson 3/pic324.png,$HOME/study/control of mobile robots/lesson 3/pic323.png,$HOME/study/control of mobile robots/lesson 3/pic322.png,$HOME/study/control of mobile robots/lesson 3/pic321.png,$HOME/study/control of mobile robots/lesson 3/pic320.png,$HOME/study/control of mobile robots/lesson 3/pic319.png,$HOME/study/control of mobile robots/lesson 3/pic318.png,$HOME/study/control of mobile robots/lesson 3/pic317.png,$HOME/study/control of mobile robots/lesson 3/pic316.png
+Recent URLs[$e]=$HOME/Pictures/,$HOME/tmp/,$HOME/study/korean/,$HOME/study/control of mobile robots/lesson 2/,$HOME/study/control of mobile robots/lesson 3/,$HOME/study/control of mobile robots/lesson 4/
+Width 1366=1056
+Width 1920=960
+
+[MainWindow]
+Height 1080=499
+Height 768=464
+Width 1366=906
+Width 1920=456
+
+[Open-with settings]
+CompletionMode=5
+History=mdcharm,haroopad

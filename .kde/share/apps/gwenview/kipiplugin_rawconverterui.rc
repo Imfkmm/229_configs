@@ -1,0 +1,18 @@
+<!DOCTYPE kpartgui SYSTEM 'kpartgui.dtd'>
+<gui version="1" name="kipiplugin_rawconverter">
+ <MenuBar>
+  <Menu name="Tools">
+   <text>&amp;Tools</text>
+   <Action group="kipi_tool_group" name="raw_converter_single"/>
+   <Action group="kipi_batch_group" name="raw_converter_batch"/>
+  </Menu>
+  <Menu name="Tools">
+   <text>&amp;Tools</text>
+   <Action group="kipi_tool_group" name="raw_converter_single"/>
+   <Action group="kipi_batch_group" name="raw_converter_batch"/>
+  </Menu>
+ </MenuBar>
+ <ToolBar name="mainToolBar">
+  <text>Main Toolbar</text>
+ </ToolBar>
+</gui>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/fighting/study/python/6.189/MIT6_189IAP11_mistakes.pdf">
+ <pageList>
+  <page number="0">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-07T00:01:46" uniqueName="okular-{863d93a9-4d43-4ea3-b8c1-5a131ee4294a}" author="zj" modifyDate="2014-12-07T00:01:46" color="#ffff00">
+      <boundary l="0.149665" r="0.325391" b="0.4317" t="0.40634"/>
+     </base>
+     <hl>
+      <quad dx="0.150229" cx="0.325688" dy="0.406389" bx="0.325688" cy="0.406389" ax="0.150229" by="0.417036" ay="0.417036" feather="1"/>
+      <quad dx="0.150229" cx="0.197248" dy="0.421473" bx="0.197248" cy="0.421473" ax="0.150229" by="0.432121" ay="0.432121" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-07T00:01:59" uniqueName="okular-{aef1aaab-5582-47c4-bdb4-7b6df32fb552}" author="zj" modifyDate="2014-12-07T00:01:59" color="#ffff00">
+      <boundary l="0.132539" r="0.906925" b="0.519885" t="0.492795"/>
+     </base>
+     <hl>
+      <quad dx="0.247706" cx="0.90711" dy="0.493345" bx="0.90711" cy="0.493345" ax="0.247706" by="0.50488" ay="0.50488" feather="1"/>
+      <quad dx="0.133028" cx="0.298165" dy="0.508429" bx="0.298165" cy="0.508429" ax="0.133028" by="0.519965" ay="0.519965" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-07T00:02:42" uniqueName="okular-{043798c4-70d0-42fc-be4c-f53f58d8ac0b}" author="zj" modifyDate="2014-12-07T00:02:42" color="#ffff00">
+      <boundary l="0.312733" r="0.715562" b="0.620173" t="0.609222"/>
+     </base>
+     <hl>
+      <quad dx="0.313073" cx="0.715596" dy="0.609583" bx="0.715596" cy="0.609583" ax="0.313073" by="0.620231" ay="0.620231" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="1">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-07T00:05:34" uniqueName="okular-{e1b1c8c3-a809-4d46-b731-c4fe5f2f0724}" author="zj" modifyDate="2014-12-07T00:05:34" color="#ffff00">
+      <boundary l="0.226359" r="0.755026" b="0.469741" t="0.458213"/>
+     </base>
+     <hl>
+      <quad dx="0.227064" cx="0.755734" dy="0.45874" bx="0.755734" cy="0.45874" ax="0.227064" by="0.470275" ay="0.470275" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-07T00:05:46" uniqueName="okular-{1d3cf047-52e3-4035-8266-fed7b77af8ad}" author="zj" modifyDate="2014-12-07T00:05:46" color="#ffff00">
+      <boundary l="0.132539" r="0.906925" b="0.48415" t="0.458213"/>
+     </base>
+     <hl>
+      <quad dx="0.83945" cx="0.90711" dy="0.45874" bx="0.90711" cy="0.45874" ax="0.83945" by="0.470275" ay="0.470275" feather="1"/>
+      <quad dx="0.133028" cx="0.66055" dy="0.473824" bx="0.66055" cy="0.473824" ax="0.133028" by="0.484472" ay="0.484472" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-07T00:05:53" uniqueName="okular-{19295ef1-db54-4a83-90f4-e10401534d49}" author="zj" modifyDate="2014-12-07T00:05:53" color="#ffff00">
+      <boundary l="0.132539" r="0.906925" b="0.500288" t="0.473775"/>
+     </base>
+     <hl>
+      <quad dx="0.66055" cx="0.90711" dy="0.473824" bx="0.90711" cy="0.473824" ax="0.66055" by="0.485359" ay="0.485359" feather="1"/>
+      <quad dx="0.133028" cx="0.348624" dy="0.488909" bx="0.348624" cy="0.488909" ax="0.133028" by="0.500444" ay="0.500444" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499628:0.982421:1"/>
+   <oldPage viewport="1;C2:0.499628:0.0100865:1"/>
+   <oldPage viewport="0;C2:0.499628:0.999135:1"/>
+   <oldPage viewport="1;C2:0.499628:0.98415:1"/>
+   <oldPage viewport="2;C2:0.499628:0.0037464:1"/>
+   <current viewport="1;C2:0.499628:0.920749:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.40712"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

@@ -1,0 +1,197 @@
+[ng-cloak],
+.ng-hide {
+  display: none !important;
+}
+.page {
+  width: 210px;
+  position: relative;
+  font-size: 12px;
+  overflow: hidden;
+  background: #f3f3f3;
+}
+.section {
+  padding: 10px;
+}
+.section-title {
+  display: block;
+  text-align: left;
+  margin-bottom: 5px;
+  color: #888;
+  font-size: 13px;
+  text-shadow: 0 1px 0 white;
+}
+.section-title.text-danger {
+  color: #a94442!important;
+}
+.block-alert {
+  margin-bottom: 0;
+  padding: 10px;
+  font-size: 12px;
+}
+.btn-default {
+  background-color: white!important;
+}
+.btn-default:hover {
+  text-decoration: none;
+  background-color: #EEE!important;
+}
+hr {
+  margin: 5px 0;
+  border-color: #ddd;
+}
+.menu.page .block-list {
+  margin-bottom: 10px;
+}
+.menu.page .block-list li {
+  margin: 0;
+  margin-left: 5px;
+}
+.menu.page .block-list label {
+  display: block;
+  font-weight: normal;
+  cursor: pointer;
+}
+.menu.page .block-list label input[type=checkbox] {
+  float: left;
+  margin-right: 5px;
+}
+.menu.page .block-list label span {
+  line-height: 18px;
+}
+.menu.page .current-domain {
+  margin-bottom: 5px;
+  font-size: 13px;
+  line-height: 20px;
+}
+.menu.page .current-domain .domain-icon {
+  float: left;
+  margin-top: 2px;
+}
+.menu.page .current-domain img.domain-icon {
+  max-width: 16px;
+  max-height: 16px;
+}
+.menu.page .current-domain i.domain-icon {
+  font-size: 14px;
+}
+.menu.page .current-domain span {
+  display: block;
+  margin-left: 20px;
+  overflow: hidden;
+}
+.menu.page .add.btn i {
+  line-height: inherit;
+  font-size: 14px;
+}
+.menu.page .left-btn {
+  display: inline-block;
+  padding-left: 10px;
+  margin-bottom: -33px;
+  text-align: left!important;
+  background-color: transparent!important;
+}
+.menu.page .left-btn i {
+  line-height: inherit;
+  font-size: 14px;
+}
+.menu.page .right-btn {
+  border-color: #ccc;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.menu.page .right-btn i {
+  line-height: inherit;
+  font-size: 14px;
+}
+.menu.page .mode.section .tips-box {
+  position: relative;
+}
+.menu.page .mode.section .tips-box .tips {
+  position: absolute;
+  z-index: 100;
+  background: black;
+  width: 100%;
+  border-radius: 5px;
+  bottom: 5px;
+  opacity: 0.9;
+}
+.menu.page .mode.section .tips-box .tips .content {
+  color: white;
+  margin: 10px 10px;
+}
+.menu.page .mode.section .modes {
+  position: relative;
+}
+.menu.page .mode.section .modes .btn-danger {
+  background-color: #888;
+  border: 1px solid #777;
+}
+.menu.page .mode.section .modes .btn-danger:hover {
+  background-color: #777;
+}
+.menu.page ul.nav-menu {
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+  list-style: none;
+}
+.menu.page ul.nav-menu li {
+  padding: 0;
+  margin: 0;
+}
+.menu.page ul.nav-menu a {
+  display: block;
+  line-height: 40px;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: -1px;
+  padding-left: 10px;
+  color: #444 !important;
+}
+.menu.page ul.nav-menu a i.icon {
+  font-size: 14px;
+  margin-right: 2px;
+  margin-bottom: -2px;
+  margin-top: 1px;
+}
+.menu.page ul.nav-menu a i.icon-next {
+  display: block;
+  line-height: 39px;
+  margin-right: 10px;
+}
+.menu.page ul.nav-menu a .badge {
+  margin-top: 11px;
+  margin-right: 10px;
+  font-weight: normal;
+  background-color: #f43531;
+}
+.menu.page .footer {
+  padding: 10px 10px;
+}
+.menu.page .footer .account {
+  float: left;
+  display: block;
+  line-height: 20px;
+  max-width: 150px;
+  overflow: hidden;
+  text-shadow: 0 1px 1px white;
+}
+.conflict.page ul li {
+  padding: 5px 0;
+  color: #444;
+}
+.conflict.page ul li img {
+  float: left;
+  width: 16px;
+  height: 16px;
+}
+.conflict.page ul li a {
+  display: block;
+  margin-left: 20px;
+  line-height: 16px;
+  overflow-x: hidden;
+  line-break: normal;
+}
+.conflict.page button {
+  margin-top: 10px;
+}

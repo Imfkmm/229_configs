@@ -1,0 +1,56 @@
+[General Settings]
+First Time=false
+Last Document Size=791,367
+Open Images in the Same Window=false
+
+[KFileDialog Settings]
+Height 768=655
+Recent Files[$e]=pic137.png,$HOME/study/graduationproj/proposal/translation/pic142.png
+Recent URLs[$e]=$HOME/study/graduationproj/proposal/translation/
+Width 1366=1056
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAUaAAAAaPwBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAADwAAAUaAAACDAEAAAUAAAUaAAACBAAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAAAAArj/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[MainWindow][Toolbar Tool Box]
+ToolButtonStyle=IconOnly
+
+[MimeType Properties Version 1.2-3]
+Configurable Color Depth=image/png,image/bmp,image/x-pcx,image/x-rgb,image/x-xpixmap
+Configurable Quality Setting=image/jp2,image/jpeg,image/x-webp
+Maximum Color Depth=image/x-eps:32,image/x-portable-bitmap:1,image/x-portable-graymap:8,image/x-xbitmap:1
+
+[Recent Dirs]
+dir[$e]=file://$HOME/study/graduationproj/proposal/translation/,file://$HOME/study/graduationproj/%E5%BC%80%E9%A2%98%E6%8A%A5%E5%91%8A/translation/,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/.kde/share/icons/Nitrux/apps/48/0ad.svg
+File2[$e]=$HOME/study/graduationproj/proposal/translation/pic142.png
+Name1[$e]=0ad.svg
+Name2[$e]=pic142.png
+
+[Text Settings]
+Font Size=6
+
+[Tool Settings]
+Last Used Tool=6
+Tool Widget Brush Col=0
+Tool Widget Brush Row=0
+Tool Widget Eraser Size Col=0
+Tool Widget Eraser Size Row=1
+Tool Widget Fill Style Col=0
+Tool Widget Fill Style Row=0
+Tool Widget Line Width Col=0
+Tool Widget Line Width Row=0
+Tool Widget Opaque/Transparent Col=0
+Tool Widget Opaque/Transparent Row=0
+Tool Widget Spraycan Size Col=0
+Tool Widget Spraycan Size Row=0
+
+[Undo/Redo Settings]
+Max Limit=500
+Max Limit Size Limit=16777216
+Min Limit=10

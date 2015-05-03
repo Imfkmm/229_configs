@@ -1,0 +1,4 @@
+MdCharm Version: 1.2.0
+MdCharm Revision: 2371e3c0f8a47c99ba386fa8d9daf28ed45f7861
+Program File Location: /usr/bin
+OS Version: Linux

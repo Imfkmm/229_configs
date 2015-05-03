@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[en_US]=vpn
+Comment=vpn
+Exec=echo "ticktick" | sudo -S /usr/sbin/vpn-connect
+GenericName[en_US]=vpn
+GenericName=vpn
+Hidden=false
+Icon=system-run
+MimeType=
+Name[en_US]=vpn
+Name=vpn
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

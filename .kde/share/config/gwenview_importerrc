@@ -1,0 +1,9 @@
+[MainWindow]
+Height 768=500
+Width 1366=835
+
+[UrlForBaseUrl]
+0key=camera:/
+0value=camera:/USB%2520PTP%2520Class%2520Camera@usb:003,003/store_00010001
+1key=file:///media/fighting/Lenovo_Suite/
+1value=file:///media/fighting/Lenovo_Suite

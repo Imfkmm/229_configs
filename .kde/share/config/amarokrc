@@ -1,0 +1,71 @@
+[$Version]
+update_info=amarok.upd:1
+
+[Analyzer Applet]
+Current Analyzer=Blocky
+Height=120
+
+[Collection Browser]
+TreeCategory=3,1
+View Mode=NormalCollections
+
+[Collection Folders]
+2=./fighting/Music
+
+[File Browser]
+Current Directory=file:///home/fighting
+
+[General]
+Browser Path=root list
+First Run=false
+HiddenOnExit=true
+
+[General Options]
+PlayFirstRunJingle=false
+
+[KFileDialog Settings]
+Height 768=655
+Recent Files[$e]=CDImage.ape,$HOME/Music/listening-to-music/聆听音乐 配套CD Introductory CD for Listening To Music 5E and Listening To Western Music/CDImage.ape
+Recent URLs[$e]=$HOME/Music/listening-to-music/聆听音乐 配套CD Introductory CD for Listening To Music 5E and Listening To Western Music/,$HOME/Music/
+Width 1366=1056
+
+[MainWindow]
+Height 768=512
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAOOAAABqPwBAAAAA/sAAAAkAE0AZQBkAGkAYQAgAFMAbwB1AHIAYwBlAHMAIABkAG8AYwBrAQAAAAAAAADOAAAAzgEAAAX7AAAAGABDAG8AbgB0AGUAeAB0ACAAZABvAGMAawEAAADRAAAB7AAAAZYBAAAF+wAAABoAUABsAGEAeQBsAGkAcwB0ACAAZABvAGMAawEAAALAAAAAzgAAAM4BAAAFAAAAAAAAAagAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYATQBhAGkAbgBUAG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAFMAbABpAG0AIABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=910
+
+[Playback]
+Master Volume=50
+
+[Playlist Search]
+MatchAlbum=true
+MatchArtist=true
+MatchTrack=true
+ShowOnlyMatches=false
+
+[Podcast View]
+Merged View=false
+
+[Podcasts]
+AutoUpdate Interval=30
+Maximum Simultaneous Downloads=4
+Maximum Simultaneous Updates=4
+
+[Recently Played]
+Display Names=信乐团 - 死了都要爱
+Last Played Dates=2014-11-30T00:15:03
+Urls=file:///home/fighting/Music/%E4%BF%A1%E4%B9%90%E5%9B%A2%20-%20%E6%AD%BB%E4%BA%86%E9%83%BD%E8%A6%81%E7%88%B1.mp3
+
+[Saved Playlists View]
+Merged View=false
+
+[ScriptManager]
+LastUpdateCheck=1428053701
+
+[StatSyncing]
+checkedFields=rating,firstplay,lastplay,playcount,label
+excludedLabels=
+providerEnabledStatuses=true,false,false,false,false
+providerIds=localCollection,2791-35df,b4fe-5315,,9cf7-cfdf
+providerNames=Local Collection,7.5 GiB Removable Media (not activated),GRMCULFRER_ (not activated),Kubuntu 14.10 amd64 (not activated),Kubuntu 14.10 amd64 (not activated)

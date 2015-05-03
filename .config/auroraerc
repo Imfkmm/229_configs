@@ -1,0 +1,9 @@
+[Engine]
+EngineType=qml
+ThemeName=kwin4_decoration_qml_breeze
+
+[kwin4_decoration_qml_breeze]
+BorderSize=1
+ButtonSize=1
+animateButtons=true
+titleShadow=true

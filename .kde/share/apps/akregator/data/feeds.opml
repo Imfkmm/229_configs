@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <text/>
+ </head>
+ <body>
+  <outline isOpen="false" id="1255644623" text="KDE">
+   <outline title="KDE Dot News" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://www.kde.org/dotkdeorg.rdf" fetchInterval="0" type="rss" id="310361561" archiveMode="globalDefault" maxArticleNumber="0" text="KDE Dot News"/>
+   <outline title="Linux.com" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="https://www.linux.com/rss/feeds.php" fetchInterval="0" type="rss" id="1495130252" archiveMode="globalDefault" maxArticleNumber="0" text="Linux.com"/>
+   <outline title="Planet KDE" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://planetkde.org/rss20.xml" fetchInterval="0" type="rss" id="552277601" archiveMode="globalDefault" maxArticleNumber="0" text="Planet KDE"/>
+   <outline title="Planet KDE PIM" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://pim.planetkde.org/rss20.xml" fetchInterval="0" type="rss" id="1995862207" archiveMode="globalDefault" maxArticleNumber="0" text="Planet KDE PIM"/>
+   <outline title="KDE Apps" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://www.kde.org/dot/kde-apps-content.rdf" fetchInterval="0" type="rss" id="430736776" archiveMode="globalDefault" maxArticleNumber="0" text="KDE Apps"/>
+   <outline title="KDE Look" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://www.kde.org/kde-look-content.rdf" fetchInterval="0" type="rss" id="1462049857" archiveMode="globalDefault" maxArticleNumber="0" text="KDE Look"/>
+   <outline isOpen="false" id="832722086" text="Hungarian feeds">
+    <outline title="KDE.HU" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://kde.hu/rss.xml" fetchInterval="0" type="rss" id="362150693" archiveMode="globalDefault" maxArticleNumber="0" text="KDE.HU"/>
+   </outline>
+   <outline isOpen="false" id="549895764" text="Spanish feeds">
+    <outline title="Planet KDE España" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://planet.kde-espana.es/" fetchInterval="0" type="rss" id="304535405" archiveMode="globalDefault" maxArticleNumber="0" text="Planet KDE España"/>
+   </outline>
+  </outline>
+  <outline isOpen="false" id="997019813" text="Kubuntu">
+   <outline title="Planet Ubuntu" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://planet.ubuntu.com/rss20.xml" fetchInterval="0" type="rss" id="118313233" archiveMode="globalDefault" maxArticleNumber="0" text="Planet Ubuntu"/>
+   <outline title="Ubuntu Fridge" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://feeds.feedburner.com/ubuntu-fridge" fetchInterval="0" type="rss" id="44213679" archiveMode="globalDefault" maxArticleNumber="0" text="Ubuntu Fridge"/>
+   <outline title="Kubuntu.org News" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://www.kubuntu.org/news/feed" fetchInterval="0" type="rss" id="876566530" archiveMode="globalDefault" maxArticleNumber="0" text="Kubuntu.org News"/>
+   <outline title="Kubuntu Wire" useCustomFetchInterval="false" version="RSS" maxArticleAge="0" description="" htmlUrl="" xmlUrl="http://wire.kubuntu.org/?feed=rss2" fetchInterval="0" type="rss" id="1729732677" archiveMode="globalDefault" maxArticleNumber="0" text="Kubuntu Wire"/>
+  </outline>
+ </body>
+</opml>
+

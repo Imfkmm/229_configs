@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main(int argc, char **argv) {
+    char Yourname[10];
+    std:cout << "Please input yourname:" << std::endl;
+    std::cin >> Yourname;
+    std::cout << "Hello, world, " << Yourname << std::endl;
+    return 0;
+}

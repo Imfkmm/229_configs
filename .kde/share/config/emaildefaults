@@ -1,0 +1,9 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=fighting@zhangjun.xyz
+FullName=fighting
+Organization=
+ReplyAddr=
+ServerType=

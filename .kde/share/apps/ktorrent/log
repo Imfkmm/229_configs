@@ -1,0 +1,1212 @@
+Fri May 1 14:04:28 2015: Bound to ::
+Fri May 1 14:04:28 2015: Cannot bind to port 0.0.0.0:6881 : Address already in use
+Fri May 1 14:04:28 2015: Bound to TCP port 6881
+Fri May 1 14:04:28 2015: Cannot open /home/fighting/.kde/share/apps/ktorrent/groups : No such file or directory
+Fri May 1 14:04:28 2015: Loading /home/fighting/.kde/share/apps/ktorrent/tor0/
+Fri May 1 14:04:28 2015: Encoding : UTF-8
+Fri May 1 14:04:29 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:04:29 2015: Switching to tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545
+Fri May 1 14:04:29 2015: Loading /home/fighting/.kde/share/apps/ktorrent/tor1/
+Fri May 1 14:04:29 2015: Encoding : UTF-8
+Fri May 1 14:04:29 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:04:29 2015: Switching to tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545
+Fri May 1 14:04:29 2015: Started update timer
+Fri May 1 14:04:29 2015: Suppressing sleep
+Fri May 1 14:04:29 2015: Loading file /home/fighting/Downloads/torrents/[NHD].Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi.torrent
+Fri May 1 14:04:29 2015: Encoding : UTF-8
+Fri May 1 14:04:29 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:04:29 2015: Switching to tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545
+Fri May 1 14:04:29 2015: Cannot open /home/fighting/.kde/share/apps/ktorrent/tor2/webseeds to load webseeds
+Fri May 1 14:04:29 2015: Codec: UTF-8 1
+Fri May 1 14:04:29 2015: QM Starting: Saving.Private.Ryan.1998.720p.BluRay.DTS.x264-FANDANGO
+Fri May 1 14:04:29 2015: FreeBytes 170.30 GiB
+Fri May 1 14:04:29 2015: Downloaded 0 B
+Fri May 1 14:04:29 2015: Remaining 17.46 GiB
+Fri May 1 14:04:29 2015: Starting download Saving.Private.Ryan.1998.720p.BluRay.DTS.x264-FANDANGO
+Fri May 1 14:04:29 2015: Stopped update timer
+Fri May 1 14:04:29 2015: Stopped suppressing sleep
+Fri May 1 14:04:51 2015: Error : Data files are missing
+Fri May 1 14:04:51 2015: QM Starting: Kung.Fu.Jungle.2014.1080p.WEB-DL.H264.AAC-CHDTV.ts
+Fri May 1 14:04:51 2015: FreeBytes 170.30 GiB
+Fri May 1 14:04:51 2015: Downloaded 0 B
+Fri May 1 14:04:51 2015: Remaining 2.27 GiB
+Fri May 1 14:04:51 2015: Starting download Kung.Fu.Jungle.2014.1080p.WEB-DL.H264.AAC-CHDTV.ts
+Fri May 1 14:04:53 2015: Error : Data file is missing
+Fri May 1 14:04:53 2015: Started update timer
+Fri May 1 14:04:53 2015: Suppressing sleep
+Fri May 1 14:04:53 2015: Stopped update timer
+Fri May 1 14:04:53 2015: Stopped suppressing sleep
+Fri May 1 14:04:56 2015: Cannot open /home/fighting/.kde/share/apps/ktorrent/tor2/webseeds to save webseeds
+Fri May 1 14:04:56 2015: Started update timer
+Fri May 1 14:04:56 2015: Suppressing sleep
+Fri May 1 14:04:56 2015: Stopped update timer
+Fri May 1 14:04:56 2015: Stopped suppressing sleep
+Fri May 1 14:11:31 2015: Loading file /home/fighting/Downloads/torrents/[NHD].Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi.torrent
+Fri May 1 14:11:31 2015: Encoding : UTF-8
+Fri May 1 14:11:31 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:11:31 2015: Switching to tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545
+Fri May 1 14:11:31 2015: Cannot open /home/fighting/.kde/share/apps/ktorrent/tor2/webseeds to load webseeds
+Fri May 1 14:11:31 2015: Codec: UTF-8 18
+Fri May 1 14:12:18 2015: QM Starting: Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi
+Fri May 1 14:12:18 2015: FreeBytes 146.38 GiB
+Fri May 1 14:12:18 2015: Downloaded 0 B
+Fri May 1 14:12:18 2015: Remaining 7.93 GiB
+Fri May 1 14:12:18 2015: Starting download Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi
+Fri May 1 14:12:18 2015: Pre-allocating diskspace
+Fri May 1 14:12:18 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi.mkv (8506149704 bytes)
+Fri May 1 14:12:18 2015: file_size = 8506149704
+Fri May 1 14:12:18 2015: Started update timer
+Fri May 1 14:12:18 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi.nfo (8231 bytes)
+Fri May 1 14:12:18 2015: file_size = 8231
+Fri May 1 14:12:18 2015: PreallocationThread has finished
+Fri May 1 14:12:18 2015: Suppressing sleep
+Fri May 1 14:12:18 2015: preallocFinished  1
+Fri May 1 14:12:18 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-vnmUbSb96eqJ&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=1763060417&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:12:18 2015: Request sent
+Fri May 1 14:12:18 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:12:31 2015: FreeBytes 146.38 GiB
+Fri May 1 14:12:31 2015: Downloaded 0 B
+Fri May 1 14:12:31 2015: Remaining 7.93 GiB
+Fri May 1 14:12:31 2015: Cannot open /home/fighting/.kde/share/apps/ktorrent/tor1/webseeds to save webseeds
+Fri May 1 14:12:40 2015: Cannot open /home/fighting/.kde/share/apps/ktorrent/tor0/webseeds to save webseeds
+Fri May 1 14:12:40 2015: Deleting empty directory : /home/fighting/Saving.Private.Ryan.1998.720p.BluRay.DTS.x264-FANDANGO/
+Fri May 1 14:12:40 2015: Error : Cannot delete /home/fighting/Saving.Private.Ryan.1998.720p.BluRay.DTS.x264-FANDANGO/: No such file or directory
+Fri May 1 14:12:46 2015: Saving 0 chunk downloads
+Fri May 1 14:12:46 2015: Paused Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi
+Fri May 1 14:12:48 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-vnmUbSb96eqJ&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=1763060417&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:12:48 2015: Request sent
+Fri May 1 14:12:48 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:12:48 2015: Loading 0 active chunk downloads
+Fri May 1 14:12:48 2015: Unpaused Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi
+Fri May 1 14:13:14 2015: Saving 0 chunk downloads
+Fri May 1 14:13:14 2015: Paused Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi
+Fri May 1 14:13:18 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-vnmUbSb96eqJ&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=1763060417&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:13:18 2015: Request sent
+Fri May 1 14:13:18 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:13:29 2015: Data check finished
+Fri May 1 14:13:29 2015: Loading 0 active chunk downloads
+Fri May 1 14:13:29 2015: Unpaused Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi
+Fri May 1 14:13:31 2015: FreeBytes 146.38 GiB
+Fri May 1 14:13:31 2015: Downloaded 0 B
+Fri May 1 14:13:31 2015: Remaining 7.93 GiB
+Fri May 1 14:14:31 2015: FreeBytes 146.38 GiB
+Fri May 1 14:14:31 2015: Downloaded 0 B
+Fri May 1 14:14:31 2015: Remaining 7.93 GiB
+Fri May 1 14:15:31 2015: FreeBytes 146.38 GiB
+Fri May 1 14:15:31 2015: Downloaded 0 B
+Fri May 1 14:15:31 2015: Remaining 7.93 GiB
+Fri May 1 14:16:22 2015: Setting suspended state to 1
+Fri May 1 14:16:22 2015: Saving 0 chunk downloads
+Fri May 1 14:16:22 2015: Saving list of peers to /home/fighting/.kde/share/apps/ktorrent/tor2/peer_list
+Fri May 1 14:16:22 2015: Stopped update timer
+Fri May 1 14:16:22 2015: Stopped suppressing sleep
+Fri May 1 14:16:24 2015: Setting suspended state to 0
+Fri May 1 14:16:24 2015: Loading list of peers from /home/fighting/.kde/share/apps/ktorrent/tor2/peer_list
+Fri May 1 14:16:24 2015: Loading 0 active chunk downloads
+Fri May 1 14:16:24 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-vnmUbSb96eqJ&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=1763060417&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:16:24 2015: Request sent
+Fri May 1 14:16:24 2015: Started update timer
+Fri May 1 14:16:24 2015: Suppressing sleep
+Fri May 1 14:16:24 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:16:25 2015: Setting suspended state to 1
+Fri May 1 14:16:25 2015: Saving 0 chunk downloads
+Fri May 1 14:16:25 2015: Saving list of peers to /home/fighting/.kde/share/apps/ktorrent/tor2/peer_list
+Fri May 1 14:16:25 2015: Stopped update timer
+Fri May 1 14:16:25 2015: Stopped suppressing sleep
+Fri May 1 14:16:26 2015: Setting suspended state to 0
+Fri May 1 14:16:26 2015: Loading list of peers from /home/fighting/.kde/share/apps/ktorrent/tor2/peer_list
+Fri May 1 14:16:26 2015: Loading 0 active chunk downloads
+Fri May 1 14:16:26 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-vnmUbSb96eqJ&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=1763060417&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:16:26 2015: Request sent
+Fri May 1 14:16:26 2015: Started update timer
+Fri May 1 14:16:26 2015: Suppressing sleep
+Fri May 1 14:16:26 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:16:27 2015: Setting suspended state to 1
+Fri May 1 14:16:27 2015: Saving 0 chunk downloads
+Fri May 1 14:16:27 2015: Saving list of peers to /home/fighting/.kde/share/apps/ktorrent/tor2/peer_list
+Fri May 1 14:16:27 2015: Stopped update timer
+Fri May 1 14:16:27 2015: Stopped suppressing sleep
+Fri May 1 14:16:29 2015: FreeBytes 146.38 GiB
+Fri May 1 14:16:29 2015: Downloaded 0 B
+Fri May 1 14:16:29 2015: Remaining 7.93 GiB
+Fri May 1 14:16:29 2015: Started update timer
+Fri May 1 14:16:29 2015: Suppressing sleep
+Fri May 1 14:16:29 2015: Stopped update timer
+Fri May 1 14:16:29 2015: Stopped suppressing sleep
+Fri May 1 14:16:32 2015: FreeBytes 146.38 GiB
+Fri May 1 14:16:32 2015: Downloaded 0 B
+Fri May 1 14:16:32 2015: Remaining 7.93 GiB
+Fri May 1 14:16:32 2015: Started update timer
+Fri May 1 14:16:32 2015: Suppressing sleep
+Fri May 1 14:16:32 2015: Stopped update timer
+Fri May 1 14:16:32 2015: Stopped suppressing sleep
+Fri May 1 14:16:34 2015: FreeBytes 146.38 GiB
+Fri May 1 14:16:34 2015: Downloaded 0 B
+Fri May 1 14:16:34 2015: Remaining 7.93 GiB
+Fri May 1 14:16:34 2015: Started update timer
+Fri May 1 14:16:34 2015: Suppressing sleep
+Fri May 1 14:16:34 2015: Stopped update timer
+Fri May 1 14:16:34 2015: Stopped suppressing sleep
+Fri May 1 14:16:35 2015: Setting suspended state to 0
+Fri May 1 14:16:35 2015: Loading list of peers from /home/fighting/.kde/share/apps/ktorrent/tor2/peer_list
+Fri May 1 14:16:35 2015: Loading 0 active chunk downloads
+Fri May 1 14:16:35 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-vnmUbSb96eqJ&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=1763060417&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:16:35 2015: Request sent
+Fri May 1 14:16:35 2015: Started update timer
+Fri May 1 14:16:35 2015: Suppressing sleep
+Fri May 1 14:16:35 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:16:46 2015: Saving 0 chunk downloads
+Fri May 1 14:16:46 2015: Saving list of peers to /home/fighting/.kde/share/apps/ktorrent/tor2/peer_list
+Fri May 1 14:16:46 2015: Cannot open /home/fighting/.kde/share/apps/ktorrent/tor2/webseeds to save webseeds
+Fri May 1 14:16:46 2015: Stopped update timer
+Fri May 1 14:16:46 2015: Stopped suppressing sleep
+Fri May 1 14:16:46 2015: Deleting empty directory : /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi/Sample/
+Fri May 1 14:16:46 2015: Error : Cannot delete /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi/Sample/: No such file or directory
+Fri May 1 14:16:46 2015: Deleting empty directory : /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi/
+Fri May 1 14:16:46 2015: Error : Cannot delete /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi/: No such file or directory
+Fri May 1 14:16:46 2015: Deleting empty directory : /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi/Sample/
+Fri May 1 14:16:46 2015: Error : Cannot delete /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi/Sample/: No such file or directory
+Fri May 1 14:16:46 2015: Deleting empty directory : /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi/
+Fri May 1 14:16:46 2015: Error : Cannot delete /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi/: No such file or directory
+Fri May 1 14:16:46 2015: Deleting empty directory : /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/Sample/
+Fri May 1 14:16:46 2015: Error : Cannot delete /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/Sample/: No such file or directory
+Fri May 1 14:16:46 2015: Deleting empty directory : /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/
+Fri May 1 14:16:46 2015: Deleting empty directory : /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/
+Fri May 1 14:17:09 2015: Loading file /home/fighting/Downloads/torrents/[NHD].Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi.torrent
+Fri May 1 14:17:09 2015: Encoding : UTF-8
+Fri May 1 14:17:09 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:17:09 2015: Switching to tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545
+Fri May 1 14:17:09 2015: Cannot open /home/fighting/.kde/share/apps/ktorrent/tor0/webseeds to load webseeds
+Fri May 1 14:17:09 2015: Codec: UTF-8 18
+Fri May 1 14:17:13 2015: QM Starting: Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi
+Fri May 1 14:17:13 2015: FreeBytes 146.38 GiB
+Fri May 1 14:17:13 2015: Downloaded 0 B
+Fri May 1 14:17:13 2015: Remaining 23.92 GiB
+Fri May 1 14:17:13 2015: Starting download Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi
+Fri May 1 14:17:13 2015: Pre-allocating diskspace
+Fri May 1 14:17:13 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi.mkv (8504322329 bytes)
+Fri May 1 14:17:13 2015: file_size = 8504322329
+Fri May 1 14:17:13 2015: Started update timer
+Fri May 1 14:17:13 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi.nfo (8162 bytes)
+Fri May 1 14:17:13 2015: Suppressing sleep
+Fri May 1 14:17:13 2015: file_size = 8162
+Fri May 1 14:17:13 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi/Sample/Pirates.of.the.Caribbean.At.World's.End.2007.BluRay.720p.x264.DTS-WiKi.Sample.mkv (54278471 bytes)
+Fri May 1 14:17:13 2015: file_size = 54278471
+Fri May 1 14:17:13 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi.mkv (8505252112 bytes)
+Fri May 1 14:17:13 2015: file_size = 8505252112
+Fri May 1 14:17:13 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi.nfo (8167 bytes)
+Fri May 1 14:17:13 2015: file_size = 8167
+Fri May 1 14:17:13 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi/Sample/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.BluRay.720p.x264.DTS-WiKi.Sample.mkv (57046305 bytes)
+Fri May 1 14:17:13 2015: file_size = 57046305
+Fri May 1 14:17:13 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi.mkv (8506149704 bytes)
+Fri May 1 14:17:13 2015: file_size = 8506149704
+Fri May 1 14:17:13 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi.nfo (8231 bytes)
+Fri May 1 14:17:13 2015: file_size = 8231
+Fri May 1 14:17:13 2015: Preallocating file /home/fighting/Videos/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/Sample/Pirates.of.the.Caribbean.Curse.of.the.Black.Pearl.BluRay.720p.x264.DTS-WiKi.Sample.mkv (55596401 bytes)
+Fri May 1 14:17:13 2015: file_size = 55596401
+Fri May 1 14:17:13 2015: PreallocationThread has finished
+Fri May 1 14:17:13 2015: preallocFinished  1
+Fri May 1 14:17:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:17:13 2015: Request sent
+Fri May 1 14:17:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:17:43 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:17:43 2015: Request sent
+Fri May 1 14:17:43 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:18:10 2015: FreeBytes 146.38 GiB
+Fri May 1 14:18:10 2015: Downloaded 0 B
+Fri May 1 14:18:10 2015: Remaining 23.92 GiB
+Fri May 1 14:18:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:18:13 2015: Request sent
+Fri May 1 14:18:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:19:10 2015: FreeBytes 146.38 GiB
+Fri May 1 14:19:10 2015: Downloaded 0 B
+Fri May 1 14:19:10 2015: Remaining 23.92 GiB
+Fri May 1 14:20:10 2015: FreeBytes 146.38 GiB
+Fri May 1 14:20:10 2015: Downloaded 0 B
+Fri May 1 14:20:10 2015: Remaining 23.92 GiB
+Fri May 1 14:21:10 2015: FreeBytes 146.38 GiB
+Fri May 1 14:21:10 2015: Downloaded 0 B
+Fri May 1 14:21:10 2015: Remaining 23.92 GiB
+Fri May 1 14:22:10 2015: FreeBytes 146.38 GiB
+Fri May 1 14:22:10 2015: Downloaded 0 B
+Fri May 1 14:22:10 2015: Remaining 23.92 GiB
+Fri May 1 14:23:10 2015: FreeBytes 146.38 GiB
+Fri May 1 14:23:10 2015: Downloaded 0 B
+Fri May 1 14:23:10 2015: Remaining 23.92 GiB
+Fri May 1 14:23:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:23:13 2015: Request sent
+Fri May 1 14:23:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:24:10 2015: FreeBytes 146.38 GiB
+Fri May 1 14:24:10 2015: Downloaded 0 B
+Fri May 1 14:24:10 2015: Remaining 23.92 GiB
+Fri May 1 14:25:10 2015: FreeBytes 146.38 GiB
+Fri May 1 14:25:10 2015: Downloaded 0 B
+Fri May 1 14:25:10 2015: Remaining 23.92 GiB
+Fri May 1 14:26:10 2015: FreeBytes 146.16 GiB
+Fri May 1 14:26:10 2015: Downloaded 0 B
+Fri May 1 14:26:10 2015: Remaining 23.92 GiB
+Fri May 1 14:27:10 2015: FreeBytes 145.69 GiB
+Fri May 1 14:27:10 2015: Downloaded 0 B
+Fri May 1 14:27:10 2015: Remaining 23.92 GiB
+Fri May 1 14:28:10 2015: FreeBytes 145.24 GiB
+Fri May 1 14:28:10 2015: Downloaded 0 B
+Fri May 1 14:28:10 2015: Remaining 23.92 GiB
+Fri May 1 14:28:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:28:13 2015: Request sent
+Fri May 1 14:28:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:29:10 2015: FreeBytes 144.83 GiB
+Fri May 1 14:29:10 2015: Downloaded 0 B
+Fri May 1 14:29:10 2015: Remaining 23.92 GiB
+Fri May 1 14:30:10 2015: FreeBytes 144.38 GiB
+Fri May 1 14:30:10 2015: Downloaded 0 B
+Fri May 1 14:30:10 2015: Remaining 23.92 GiB
+Fri May 1 14:31:10 2015: FreeBytes 143.98 GiB
+Fri May 1 14:31:10 2015: Downloaded 0 B
+Fri May 1 14:31:10 2015: Remaining 23.92 GiB
+Fri May 1 14:32:10 2015: FreeBytes 143.53 GiB
+Fri May 1 14:32:10 2015: Downloaded 0 B
+Fri May 1 14:32:10 2015: Remaining 23.92 GiB
+Fri May 1 14:33:10 2015: FreeBytes 143.09 GiB
+Fri May 1 14:33:10 2015: Downloaded 0 B
+Fri May 1 14:33:10 2015: Remaining 23.92 GiB
+Fri May 1 14:33:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 14:33:13 2015: Request sent
+Fri May 1 14:33:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 14:34:10 2015: FreeBytes 142.66 GiB
+Fri May 1 14:34:10 2015: Downloaded 0 B
+Fri May 1 14:34:10 2015: Remaining 23.92 GiB
+Fri May 1 14:35:10 2015: FreeBytes 142.25 GiB
+Fri May 1 14:35:10 2015: Downloaded 0 B
+Fri May 1 14:35:10 2015: Remaining 23.92 GiB
+Fri May 1 14:36:10 2015: FreeBytes 141.89 GiB
+Fri May 1 14:36:10 2015: Downloaded 0 B
+Fri May 1 14:36:10 2015: Remaining 23.92 GiB
+Fri May 1 14:37:10 2015: FreeBytes 141.67 GiB
+Fri May 1 14:37:10 2015: Downloaded 0 B
+Fri May 1 14:37:10 2015: Remaining 23.92 GiB
+Fri May 1 14:38:10 2015: FreeBytes 141.33 GiB
+Fri May 1 14:38:10 2015: Downloaded 0 B
+Fri May 1 14:38:10 2015: Remaining 23.92 GiB
+Fri May 1 14:39:10 2015: FreeBytes 140.93 GiB
+Fri May 1 14:39:10 2015: Downloaded 0 B
+Fri May 1 14:39:10 2015: Remaining 23.92 GiB
+Fri May 1 14:40:10 2015: FreeBytes 140.47 GiB
+Fri May 1 14:40:10 2015: Downloaded 0 B
+Fri May 1 14:40:10 2015: Remaining 23.92 GiB
+Fri May 1 14:41:10 2015: FreeBytes 140.03 GiB
+Fri May 1 14:41:10 2015: Downloaded 0 B
+Fri May 1 14:41:10 2015: Remaining 23.92 GiB
+Fri May 1 14:42:10 2015: FreeBytes 139.56 GiB
+Fri May 1 14:42:10 2015: Downloaded 0 B
+Fri May 1 14:42:10 2015: Remaining 23.92 GiB
+Fri May 1 14:43:10 2015: FreeBytes 139.13 GiB
+Fri May 1 14:43:10 2015: Downloaded 0 B
+Fri May 1 14:43:10 2015: Remaining 23.92 GiB
+Fri May 1 14:44:10 2015: FreeBytes 138.78 GiB
+Fri May 1 14:44:10 2015: Downloaded 0 B
+Fri May 1 14:44:10 2015: Remaining 23.92 GiB
+Fri May 1 14:45:10 2015: FreeBytes 138.50 GiB
+Fri May 1 14:45:10 2015: Downloaded 0 B
+Fri May 1 14:45:10 2015: Remaining 23.92 GiB
+Fri May 1 14:46:10 2015: FreeBytes 138.45 GiB
+Fri May 1 14:46:10 2015: Downloaded 0 B
+Fri May 1 14:46:10 2015: Remaining 23.92 GiB
+Fri May 1 14:47:10 2015: FreeBytes 138.44 GiB
+Fri May 1 14:47:10 2015: Downloaded 0 B
+Fri May 1 14:47:10 2015: Remaining 23.92 GiB
+Fri May 1 14:48:10 2015: FreeBytes 138.44 GiB
+Fri May 1 14:48:10 2015: Downloaded 0 B
+Fri May 1 14:48:10 2015: Remaining 23.92 GiB
+Fri May 1 14:49:10 2015: FreeBytes 138.44 GiB
+Fri May 1 14:49:10 2015: Downloaded 0 B
+Fri May 1 14:49:10 2015: Remaining 23.92 GiB
+Fri May 1 14:50:10 2015: FreeBytes 138.44 GiB
+Fri May 1 14:50:10 2015: Downloaded 0 B
+Fri May 1 14:50:10 2015: Remaining 23.92 GiB
+Fri May 1 14:51:10 2015: FreeBytes 138.44 GiB
+Fri May 1 14:51:10 2015: Downloaded 0 B
+Fri May 1 14:51:10 2015: Remaining 23.92 GiB
+Fri May 1 14:52:10 2015: FreeBytes 138.44 GiB
+Fri May 1 14:52:10 2015: Downloaded 0 B
+Fri May 1 14:52:10 2015: Remaining 23.92 GiB
+Fri May 1 14:53:10 2015: FreeBytes 138.06 GiB
+Fri May 1 14:53:10 2015: Downloaded 0 B
+Fri May 1 14:53:10 2015: Remaining 23.92 GiB
+Fri May 1 14:54:10 2015: FreeBytes 137.55 GiB
+Fri May 1 14:54:10 2015: Downloaded 0 B
+Fri May 1 14:54:10 2015: Remaining 23.92 GiB
+Fri May 1 14:55:10 2015: FreeBytes 137.10 GiB
+Fri May 1 14:55:10 2015: Downloaded 0 B
+Fri May 1 14:55:10 2015: Remaining 23.92 GiB
+Fri May 1 14:56:10 2015: FreeBytes 136.66 GiB
+Fri May 1 14:56:10 2015: Downloaded 0 B
+Fri May 1 14:56:10 2015: Remaining 23.92 GiB
+Fri May 1 14:57:10 2015: FreeBytes 136.21 GiB
+Fri May 1 14:57:10 2015: Downloaded 0 B
+Fri May 1 14:57:10 2015: Remaining 23.92 GiB
+Fri May 1 14:58:10 2015: FreeBytes 135.82 GiB
+Fri May 1 14:58:10 2015: Downloaded 0 B
+Fri May 1 14:58:10 2015: Remaining 23.92 GiB
+Fri May 1 14:59:10 2015: FreeBytes 135.48 GiB
+Fri May 1 14:59:10 2015: Downloaded 0 B
+Fri May 1 14:59:10 2015: Remaining 23.92 GiB
+Fri May 1 15:00:10 2015: FreeBytes 135.23 GiB
+Fri May 1 15:00:10 2015: Downloaded 0 B
+Fri May 1 15:00:10 2015: Remaining 23.92 GiB
+Fri May 1 15:01:10 2015: FreeBytes 135.02 GiB
+Fri May 1 15:01:10 2015: Downloaded 0 B
+Fri May 1 15:01:10 2015: Remaining 23.92 GiB
+Fri May 1 15:02:10 2015: FreeBytes 134.80 GiB
+Fri May 1 15:02:10 2015: Downloaded 0 B
+Fri May 1 15:02:10 2015: Remaining 23.92 GiB
+Fri May 1 15:03:10 2015: FreeBytes 134.46 GiB
+Fri May 1 15:03:10 2015: Downloaded 0 B
+Fri May 1 15:03:10 2015: Remaining 23.92 GiB
+Fri May 1 15:03:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 15:03:13 2015: Request sent
+Fri May 1 15:03:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 15:04:10 2015: FreeBytes 134.02 GiB
+Fri May 1 15:04:10 2015: Downloaded 0 B
+Fri May 1 15:04:10 2015: Remaining 23.92 GiB
+Fri May 1 15:05:10 2015: FreeBytes 133.62 GiB
+Fri May 1 15:05:10 2015: Downloaded 0 B
+Fri May 1 15:05:10 2015: Remaining 23.92 GiB
+Fri May 1 15:06:10 2015: FreeBytes 133.19 GiB
+Fri May 1 15:06:10 2015: Downloaded 0 B
+Fri May 1 15:06:10 2015: Remaining 23.92 GiB
+Fri May 1 15:07:10 2015: FreeBytes 132.73 GiB
+Fri May 1 15:07:10 2015: Downloaded 0 B
+Fri May 1 15:07:10 2015: Remaining 23.92 GiB
+Fri May 1 15:08:10 2015: FreeBytes 132.26 GiB
+Fri May 1 15:08:10 2015: Downloaded 0 B
+Fri May 1 15:08:10 2015: Remaining 23.92 GiB
+Fri May 1 15:09:10 2015: FreeBytes 131.79 GiB
+Fri May 1 15:09:10 2015: Downloaded 0 B
+Fri May 1 15:09:10 2015: Remaining 23.92 GiB
+Fri May 1 15:10:10 2015: FreeBytes 131.33 GiB
+Fri May 1 15:10:10 2015: Downloaded 0 B
+Fri May 1 15:10:10 2015: Remaining 23.92 GiB
+Fri May 1 15:11:10 2015: FreeBytes 130.85 GiB
+Fri May 1 15:11:10 2015: Downloaded 0 B
+Fri May 1 15:11:10 2015: Remaining 23.92 GiB
+Fri May 1 15:12:10 2015: FreeBytes 130.51 GiB
+Fri May 1 15:12:10 2015: Downloaded 0 B
+Fri May 1 15:12:10 2015: Remaining 23.92 GiB
+Fri May 1 15:13:10 2015: FreeBytes 130.51 GiB
+Fri May 1 15:13:10 2015: Downloaded 0 B
+Fri May 1 15:13:10 2015: Remaining 23.92 GiB
+Fri May 1 15:14:10 2015: FreeBytes 130.46 GiB
+Fri May 1 15:14:10 2015: Downloaded 0 B
+Fri May 1 15:14:10 2015: Remaining 23.92 GiB
+Fri May 1 15:15:10 2015: FreeBytes 130.46 GiB
+Fri May 1 15:15:10 2015: Downloaded 0 B
+Fri May 1 15:15:10 2015: Remaining 23.92 GiB
+Fri May 1 15:16:10 2015: FreeBytes 130.46 GiB
+Fri May 1 15:16:10 2015: Downloaded 0 B
+Fri May 1 15:16:10 2015: Remaining 23.92 GiB
+Fri May 1 15:17:10 2015: FreeBytes 130.43 GiB
+Fri May 1 15:17:10 2015: Downloaded 0 B
+Fri May 1 15:17:10 2015: Remaining 23.92 GiB
+Fri May 1 15:18:10 2015: FreeBytes 130.43 GiB
+Fri May 1 15:18:10 2015: Downloaded 0 B
+Fri May 1 15:18:10 2015: Remaining 23.92 GiB
+Fri May 1 15:19:10 2015: FreeBytes 130.43 GiB
+Fri May 1 15:19:10 2015: Downloaded 0 B
+Fri May 1 15:19:10 2015: Remaining 23.92 GiB
+Fri May 1 15:20:10 2015: FreeBytes 130.43 GiB
+Fri May 1 15:20:10 2015: Downloaded 0 B
+Fri May 1 15:20:10 2015: Remaining 23.92 GiB
+Fri May 1 15:21:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:21:10 2015: Downloaded 0 B
+Fri May 1 15:21:10 2015: Remaining 23.92 GiB
+Fri May 1 15:22:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:22:10 2015: Downloaded 0 B
+Fri May 1 15:22:10 2015: Remaining 23.92 GiB
+Fri May 1 15:23:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:23:10 2015: Downloaded 0 B
+Fri May 1 15:23:10 2015: Remaining 23.92 GiB
+Fri May 1 15:24:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:24:10 2015: Downloaded 0 B
+Fri May 1 15:24:10 2015: Remaining 23.92 GiB
+Fri May 1 15:25:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:25:10 2015: Downloaded 0 B
+Fri May 1 15:25:10 2015: Remaining 23.92 GiB
+Fri May 1 15:26:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:26:10 2015: Downloaded 0 B
+Fri May 1 15:26:10 2015: Remaining 23.92 GiB
+Fri May 1 15:27:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:27:10 2015: Downloaded 0 B
+Fri May 1 15:27:10 2015: Remaining 23.92 GiB
+Fri May 1 15:28:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:28:10 2015: Downloaded 0 B
+Fri May 1 15:28:10 2015: Remaining 23.92 GiB
+Fri May 1 15:29:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:29:10 2015: Downloaded 0 B
+Fri May 1 15:29:10 2015: Remaining 23.92 GiB
+Fri May 1 15:30:10 2015: FreeBytes 130.38 GiB
+Fri May 1 15:30:10 2015: Downloaded 0 B
+Fri May 1 15:30:10 2015: Remaining 23.92 GiB
+Fri May 1 15:31:10 2015: FreeBytes 130.35 GiB
+Fri May 1 15:31:10 2015: Downloaded 0 B
+Fri May 1 15:31:10 2015: Remaining 23.92 GiB
+Fri May 1 15:32:10 2015: FreeBytes 130.35 GiB
+Fri May 1 15:32:10 2015: Downloaded 0 B
+Fri May 1 15:32:10 2015: Remaining 23.92 GiB
+Fri May 1 15:33:10 2015: FreeBytes 130.35 GiB
+Fri May 1 15:33:10 2015: Downloaded 0 B
+Fri May 1 15:33:10 2015: Remaining 23.92 GiB
+Fri May 1 15:33:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 15:33:13 2015: Request sent
+Fri May 1 15:33:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 15:34:10 2015: FreeBytes 130.32 GiB
+Fri May 1 15:34:10 2015: Downloaded 0 B
+Fri May 1 15:34:10 2015: Remaining 23.92 GiB
+Fri May 1 15:35:10 2015: FreeBytes 130.31 GiB
+Fri May 1 15:35:10 2015: Downloaded 0 B
+Fri May 1 15:35:10 2015: Remaining 23.92 GiB
+Fri May 1 15:36:10 2015: FreeBytes 130.31 GiB
+Fri May 1 15:36:10 2015: Downloaded 0 B
+Fri May 1 15:36:10 2015: Remaining 23.92 GiB
+Fri May 1 15:37:10 2015: FreeBytes 130.31 GiB
+Fri May 1 15:37:10 2015: Downloaded 0 B
+Fri May 1 15:37:10 2015: Remaining 23.92 GiB
+Fri May 1 15:38:10 2015: FreeBytes 130.27 GiB
+Fri May 1 15:38:10 2015: Downloaded 0 B
+Fri May 1 15:38:10 2015: Remaining 23.92 GiB
+Fri May 1 15:39:10 2015: FreeBytes 130.27 GiB
+Fri May 1 15:39:10 2015: Downloaded 0 B
+Fri May 1 15:39:10 2015: Remaining 23.92 GiB
+Fri May 1 15:40:10 2015: FreeBytes 130.27 GiB
+Fri May 1 15:40:10 2015: Downloaded 0 B
+Fri May 1 15:40:10 2015: Remaining 23.92 GiB
+Fri May 1 15:41:10 2015: FreeBytes 130.27 GiB
+Fri May 1 15:41:10 2015: Downloaded 0 B
+Fri May 1 15:41:10 2015: Remaining 23.92 GiB
+Fri May 1 15:42:10 2015: FreeBytes 130.22 GiB
+Fri May 1 15:42:10 2015: Downloaded 0 B
+Fri May 1 15:42:10 2015: Remaining 23.92 GiB
+Fri May 1 15:43:10 2015: FreeBytes 130.21 GiB
+Fri May 1 15:43:10 2015: Downloaded 0 B
+Fri May 1 15:43:10 2015: Remaining 23.92 GiB
+Fri May 1 15:44:10 2015: FreeBytes 130.21 GiB
+Fri May 1 15:44:10 2015: Downloaded 0 B
+Fri May 1 15:44:10 2015: Remaining 23.92 GiB
+Fri May 1 15:45:10 2015: FreeBytes 130.19 GiB
+Fri May 1 15:45:10 2015: Downloaded 0 B
+Fri May 1 15:45:10 2015: Remaining 23.92 GiB
+Fri May 1 15:46:10 2015: FreeBytes 130.18 GiB
+Fri May 1 15:46:10 2015: Downloaded 0 B
+Fri May 1 15:46:10 2015: Remaining 23.92 GiB
+Fri May 1 15:47:10 2015: FreeBytes 130.17 GiB
+Fri May 1 15:47:10 2015: Downloaded 0 B
+Fri May 1 15:47:10 2015: Remaining 23.92 GiB
+Fri May 1 15:48:10 2015: FreeBytes 130.16 GiB
+Fri May 1 15:48:10 2015: Downloaded 0 B
+Fri May 1 15:48:10 2015: Remaining 23.92 GiB
+Fri May 1 15:49:10 2015: FreeBytes 130.15 GiB
+Fri May 1 15:49:10 2015: Downloaded 0 B
+Fri May 1 15:49:10 2015: Remaining 23.92 GiB
+Fri May 1 15:50:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:50:10 2015: Downloaded 0 B
+Fri May 1 15:50:10 2015: Remaining 23.92 GiB
+Fri May 1 15:51:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:51:10 2015: Downloaded 0 B
+Fri May 1 15:51:10 2015: Remaining 23.92 GiB
+Fri May 1 15:52:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:52:10 2015: Downloaded 0 B
+Fri May 1 15:52:10 2015: Remaining 23.92 GiB
+Fri May 1 15:53:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:53:10 2015: Downloaded 0 B
+Fri May 1 15:53:10 2015: Remaining 23.92 GiB
+Fri May 1 15:54:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:54:10 2015: Downloaded 0 B
+Fri May 1 15:54:10 2015: Remaining 23.92 GiB
+Fri May 1 15:55:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:55:10 2015: Downloaded 0 B
+Fri May 1 15:55:10 2015: Remaining 23.92 GiB
+Fri May 1 15:56:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:56:10 2015: Downloaded 0 B
+Fri May 1 15:56:10 2015: Remaining 23.92 GiB
+Fri May 1 15:57:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:57:10 2015: Downloaded 0 B
+Fri May 1 15:57:10 2015: Remaining 23.92 GiB
+Fri May 1 15:58:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:58:10 2015: Downloaded 0 B
+Fri May 1 15:58:10 2015: Remaining 23.92 GiB
+Fri May 1 15:59:10 2015: FreeBytes 130.14 GiB
+Fri May 1 15:59:10 2015: Downloaded 0 B
+Fri May 1 15:59:10 2015: Remaining 23.92 GiB
+Fri May 1 16:00:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:00:10 2015: Downloaded 0 B
+Fri May 1 16:00:10 2015: Remaining 23.92 GiB
+Fri May 1 16:01:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:01:10 2015: Downloaded 0 B
+Fri May 1 16:01:10 2015: Remaining 23.92 GiB
+Fri May 1 16:02:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:02:10 2015: Downloaded 0 B
+Fri May 1 16:02:10 2015: Remaining 23.92 GiB
+Fri May 1 16:03:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:03:10 2015: Downloaded 0 B
+Fri May 1 16:03:10 2015: Remaining 23.92 GiB
+Fri May 1 16:03:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 16:03:13 2015: Request sent
+Fri May 1 16:03:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 16:04:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:04:10 2015: Downloaded 0 B
+Fri May 1 16:04:10 2015: Remaining 23.92 GiB
+Fri May 1 16:05:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:05:10 2015: Downloaded 0 B
+Fri May 1 16:05:10 2015: Remaining 23.92 GiB
+Fri May 1 16:06:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:06:10 2015: Downloaded 0 B
+Fri May 1 16:06:10 2015: Remaining 23.92 GiB
+Fri May 1 16:07:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:07:10 2015: Downloaded 0 B
+Fri May 1 16:07:10 2015: Remaining 23.92 GiB
+Fri May 1 16:08:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:08:10 2015: Downloaded 0 B
+Fri May 1 16:08:10 2015: Remaining 23.92 GiB
+Fri May 1 16:09:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:09:10 2015: Downloaded 0 B
+Fri May 1 16:09:10 2015: Remaining 23.92 GiB
+Fri May 1 16:10:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:10:10 2015: Downloaded 0 B
+Fri May 1 16:10:10 2015: Remaining 23.92 GiB
+Fri May 1 16:11:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:11:10 2015: Downloaded 0 B
+Fri May 1 16:11:10 2015: Remaining 23.92 GiB
+Fri May 1 16:12:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:12:10 2015: Downloaded 0 B
+Fri May 1 16:12:10 2015: Remaining 23.92 GiB
+Fri May 1 16:13:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:13:10 2015: Downloaded 0 B
+Fri May 1 16:13:10 2015: Remaining 23.92 GiB
+Fri May 1 16:14:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:14:10 2015: Downloaded 0 B
+Fri May 1 16:14:10 2015: Remaining 23.92 GiB
+Fri May 1 16:15:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:15:10 2015: Downloaded 0 B
+Fri May 1 16:15:10 2015: Remaining 23.92 GiB
+Fri May 1 16:16:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:16:10 2015: Downloaded 0 B
+Fri May 1 16:16:10 2015: Remaining 23.92 GiB
+Fri May 1 16:17:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:17:10 2015: Downloaded 0 B
+Fri May 1 16:17:10 2015: Remaining 23.92 GiB
+Fri May 1 16:18:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:18:10 2015: Downloaded 0 B
+Fri May 1 16:18:10 2015: Remaining 23.92 GiB
+Fri May 1 16:19:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:19:10 2015: Downloaded 0 B
+Fri May 1 16:19:10 2015: Remaining 23.92 GiB
+Fri May 1 16:20:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:20:10 2015: Downloaded 0 B
+Fri May 1 16:20:10 2015: Remaining 23.92 GiB
+Fri May 1 16:21:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:21:10 2015: Downloaded 0 B
+Fri May 1 16:21:10 2015: Remaining 23.92 GiB
+Fri May 1 16:22:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:22:10 2015: Downloaded 0 B
+Fri May 1 16:22:10 2015: Remaining 23.92 GiB
+Fri May 1 16:23:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:23:10 2015: Downloaded 0 B
+Fri May 1 16:23:10 2015: Remaining 23.92 GiB
+Fri May 1 16:24:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:24:10 2015: Downloaded 0 B
+Fri May 1 16:24:10 2015: Remaining 23.92 GiB
+Fri May 1 16:25:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:25:10 2015: Downloaded 0 B
+Fri May 1 16:25:10 2015: Remaining 23.92 GiB
+Fri May 1 16:26:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:26:10 2015: Downloaded 0 B
+Fri May 1 16:26:10 2015: Remaining 23.92 GiB
+Fri May 1 16:27:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:27:10 2015: Downloaded 0 B
+Fri May 1 16:27:10 2015: Remaining 23.92 GiB
+Fri May 1 16:28:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:28:10 2015: Downloaded 0 B
+Fri May 1 16:28:10 2015: Remaining 23.92 GiB
+Fri May 1 16:29:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:29:10 2015: Downloaded 0 B
+Fri May 1 16:29:10 2015: Remaining 23.92 GiB
+Fri May 1 16:30:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:30:10 2015: Downloaded 0 B
+Fri May 1 16:30:10 2015: Remaining 23.92 GiB
+Fri May 1 16:31:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:31:10 2015: Downloaded 0 B
+Fri May 1 16:31:10 2015: Remaining 23.92 GiB
+Fri May 1 16:32:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:32:10 2015: Downloaded 0 B
+Fri May 1 16:32:10 2015: Remaining 23.92 GiB
+Fri May 1 16:33:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:33:10 2015: Downloaded 0 B
+Fri May 1 16:33:10 2015: Remaining 23.92 GiB
+Fri May 1 16:33:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 16:33:13 2015: Request sent
+Fri May 1 16:33:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 16:34:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:34:10 2015: Downloaded 0 B
+Fri May 1 16:34:10 2015: Remaining 23.92 GiB
+Fri May 1 16:35:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:35:10 2015: Downloaded 0 B
+Fri May 1 16:35:10 2015: Remaining 23.92 GiB
+Fri May 1 16:36:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:36:10 2015: Downloaded 0 B
+Fri May 1 16:36:10 2015: Remaining 23.92 GiB
+Fri May 1 16:37:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:37:10 2015: Downloaded 0 B
+Fri May 1 16:37:10 2015: Remaining 23.92 GiB
+Fri May 1 16:38:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:38:10 2015: Downloaded 0 B
+Fri May 1 16:38:10 2015: Remaining 23.92 GiB
+Fri May 1 16:39:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:39:10 2015: Downloaded 0 B
+Fri May 1 16:39:10 2015: Remaining 23.92 GiB
+Fri May 1 16:40:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:40:10 2015: Downloaded 0 B
+Fri May 1 16:40:10 2015: Remaining 23.92 GiB
+Fri May 1 16:41:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:41:10 2015: Downloaded 0 B
+Fri May 1 16:41:10 2015: Remaining 23.92 GiB
+Fri May 1 16:42:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:42:10 2015: Downloaded 0 B
+Fri May 1 16:42:10 2015: Remaining 23.92 GiB
+Fri May 1 16:43:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:43:10 2015: Downloaded 0 B
+Fri May 1 16:43:10 2015: Remaining 23.92 GiB
+Fri May 1 16:44:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:44:10 2015: Downloaded 0 B
+Fri May 1 16:44:10 2015: Remaining 23.92 GiB
+Fri May 1 16:45:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:45:10 2015: Downloaded 0 B
+Fri May 1 16:45:10 2015: Remaining 23.92 GiB
+Fri May 1 16:46:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:46:10 2015: Downloaded 0 B
+Fri May 1 16:46:10 2015: Remaining 23.92 GiB
+Fri May 1 16:47:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:47:10 2015: Downloaded 0 B
+Fri May 1 16:47:10 2015: Remaining 23.92 GiB
+Fri May 1 16:48:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:48:10 2015: Downloaded 0 B
+Fri May 1 16:48:10 2015: Remaining 23.92 GiB
+Fri May 1 16:49:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:49:10 2015: Downloaded 0 B
+Fri May 1 16:49:10 2015: Remaining 23.92 GiB
+Fri May 1 16:50:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:50:10 2015: Downloaded 0 B
+Fri May 1 16:50:10 2015: Remaining 23.92 GiB
+Fri May 1 16:51:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:51:10 2015: Downloaded 0 B
+Fri May 1 16:51:10 2015: Remaining 23.92 GiB
+Fri May 1 16:52:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:52:10 2015: Downloaded 0 B
+Fri May 1 16:52:10 2015: Remaining 23.92 GiB
+Fri May 1 16:53:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:53:10 2015: Downloaded 0 B
+Fri May 1 16:53:10 2015: Remaining 23.92 GiB
+Fri May 1 16:54:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:54:10 2015: Downloaded 0 B
+Fri May 1 16:54:10 2015: Remaining 23.92 GiB
+Fri May 1 16:55:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:55:10 2015: Downloaded 0 B
+Fri May 1 16:55:10 2015: Remaining 23.92 GiB
+Fri May 1 16:56:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:56:10 2015: Downloaded 0 B
+Fri May 1 16:56:10 2015: Remaining 23.92 GiB
+Fri May 1 16:57:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:57:10 2015: Downloaded 0 B
+Fri May 1 16:57:10 2015: Remaining 23.92 GiB
+Fri May 1 16:58:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:58:10 2015: Downloaded 0 B
+Fri May 1 16:58:10 2015: Remaining 23.92 GiB
+Fri May 1 16:59:10 2015: FreeBytes 130.14 GiB
+Fri May 1 16:59:10 2015: Downloaded 0 B
+Fri May 1 16:59:10 2015: Remaining 23.92 GiB
+Fri May 1 17:00:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:00:10 2015: Downloaded 0 B
+Fri May 1 17:00:10 2015: Remaining 23.92 GiB
+Fri May 1 17:01:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:01:10 2015: Downloaded 0 B
+Fri May 1 17:01:10 2015: Remaining 23.92 GiB
+Fri May 1 17:02:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:02:10 2015: Downloaded 0 B
+Fri May 1 17:02:10 2015: Remaining 23.92 GiB
+Fri May 1 17:03:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:03:10 2015: Downloaded 0 B
+Fri May 1 17:03:10 2015: Remaining 23.92 GiB
+Fri May 1 17:03:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 17:03:13 2015: Request sent
+Fri May 1 17:03:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 17:04:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:04:10 2015: Downloaded 0 B
+Fri May 1 17:04:10 2015: Remaining 23.92 GiB
+Fri May 1 17:05:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:05:10 2015: Downloaded 0 B
+Fri May 1 17:05:10 2015: Remaining 23.92 GiB
+Fri May 1 17:06:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:06:10 2015: Downloaded 0 B
+Fri May 1 17:06:10 2015: Remaining 23.92 GiB
+Fri May 1 17:07:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:07:10 2015: Downloaded 0 B
+Fri May 1 17:07:10 2015: Remaining 23.92 GiB
+Fri May 1 17:08:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:08:10 2015: Downloaded 0 B
+Fri May 1 17:08:10 2015: Remaining 23.92 GiB
+Fri May 1 17:09:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:09:10 2015: Downloaded 0 B
+Fri May 1 17:09:10 2015: Remaining 23.92 GiB
+Fri May 1 17:10:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:10:10 2015: Downloaded 0 B
+Fri May 1 17:10:10 2015: Remaining 23.92 GiB
+Fri May 1 17:11:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:11:10 2015: Downloaded 0 B
+Fri May 1 17:11:10 2015: Remaining 23.92 GiB
+Fri May 1 17:12:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:12:10 2015: Downloaded 0 B
+Fri May 1 17:12:10 2015: Remaining 23.92 GiB
+Fri May 1 17:13:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:13:10 2015: Downloaded 0 B
+Fri May 1 17:13:10 2015: Remaining 23.92 GiB
+Fri May 1 17:14:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:14:10 2015: Downloaded 0 B
+Fri May 1 17:14:10 2015: Remaining 23.92 GiB
+Fri May 1 17:15:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:15:10 2015: Downloaded 0 B
+Fri May 1 17:15:10 2015: Remaining 23.92 GiB
+Fri May 1 17:16:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:16:10 2015: Downloaded 0 B
+Fri May 1 17:16:10 2015: Remaining 23.92 GiB
+Fri May 1 17:17:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:17:10 2015: Downloaded 0 B
+Fri May 1 17:17:10 2015: Remaining 23.92 GiB
+Fri May 1 17:18:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:18:10 2015: Downloaded 0 B
+Fri May 1 17:18:10 2015: Remaining 23.92 GiB
+Fri May 1 17:19:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:19:10 2015: Downloaded 0 B
+Fri May 1 17:19:10 2015: Remaining 23.92 GiB
+Fri May 1 17:20:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:20:10 2015: Downloaded 0 B
+Fri May 1 17:20:10 2015: Remaining 23.92 GiB
+Fri May 1 17:21:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:21:10 2015: Downloaded 0 B
+Fri May 1 17:21:10 2015: Remaining 23.92 GiB
+Fri May 1 17:22:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:22:10 2015: Downloaded 0 B
+Fri May 1 17:22:10 2015: Remaining 23.92 GiB
+Fri May 1 17:23:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:23:10 2015: Downloaded 0 B
+Fri May 1 17:23:10 2015: Remaining 23.92 GiB
+Fri May 1 17:24:10 2015: FreeBytes 130.14 GiB
+Fri May 1 17:24:10 2015: Downloaded 0 B
+Fri May 1 17:24:10 2015: Remaining 23.92 GiB
+Fri May 1 17:25:10 2015: FreeBytes 130.13 GiB
+Fri May 1 17:25:10 2015: Downloaded 0 B
+Fri May 1 17:25:10 2015: Remaining 23.92 GiB
+Fri May 1 17:26:10 2015: FreeBytes 130.11 GiB
+Fri May 1 17:26:10 2015: Downloaded 0 B
+Fri May 1 17:26:10 2015: Remaining 23.92 GiB
+Fri May 1 17:27:10 2015: FreeBytes 130.10 GiB
+Fri May 1 17:27:10 2015: Downloaded 0 B
+Fri May 1 17:27:10 2015: Remaining 23.92 GiB
+Fri May 1 17:28:10 2015: FreeBytes 130.09 GiB
+Fri May 1 17:28:10 2015: Downloaded 0 B
+Fri May 1 17:28:10 2015: Remaining 23.92 GiB
+Fri May 1 17:29:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:29:10 2015: Downloaded 0 B
+Fri May 1 17:29:10 2015: Remaining 23.92 GiB
+Fri May 1 17:30:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:30:10 2015: Downloaded 0 B
+Fri May 1 17:30:10 2015: Remaining 23.92 GiB
+Fri May 1 17:31:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:31:10 2015: Downloaded 0 B
+Fri May 1 17:31:10 2015: Remaining 23.92 GiB
+Fri May 1 17:32:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:32:10 2015: Downloaded 0 B
+Fri May 1 17:32:10 2015: Remaining 23.92 GiB
+Fri May 1 17:33:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:33:10 2015: Downloaded 0 B
+Fri May 1 17:33:10 2015: Remaining 23.92 GiB
+Fri May 1 17:33:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 17:33:13 2015: Request sent
+Fri May 1 17:33:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 17:34:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:34:10 2015: Downloaded 0 B
+Fri May 1 17:34:10 2015: Remaining 23.92 GiB
+Fri May 1 17:35:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:35:10 2015: Downloaded 0 B
+Fri May 1 17:35:10 2015: Remaining 23.92 GiB
+Fri May 1 17:36:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:36:10 2015: Downloaded 0 B
+Fri May 1 17:36:10 2015: Remaining 23.92 GiB
+Fri May 1 17:37:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:37:10 2015: Downloaded 0 B
+Fri May 1 17:37:10 2015: Remaining 23.92 GiB
+Fri May 1 17:38:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:38:10 2015: Downloaded 0 B
+Fri May 1 17:38:10 2015: Remaining 23.92 GiB
+Fri May 1 17:39:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:39:10 2015: Downloaded 0 B
+Fri May 1 17:39:10 2015: Remaining 23.92 GiB
+Fri May 1 17:40:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:40:10 2015: Downloaded 0 B
+Fri May 1 17:40:10 2015: Remaining 23.92 GiB
+Fri May 1 17:41:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:41:10 2015: Downloaded 0 B
+Fri May 1 17:41:10 2015: Remaining 23.92 GiB
+Fri May 1 17:42:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:42:10 2015: Downloaded 0 B
+Fri May 1 17:42:10 2015: Remaining 23.92 GiB
+Fri May 1 17:43:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:43:10 2015: Downloaded 0 B
+Fri May 1 17:43:10 2015: Remaining 23.92 GiB
+Fri May 1 17:44:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:44:10 2015: Downloaded 0 B
+Fri May 1 17:44:10 2015: Remaining 23.92 GiB
+Fri May 1 17:45:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:45:10 2015: Downloaded 0 B
+Fri May 1 17:45:10 2015: Remaining 23.92 GiB
+Fri May 1 17:46:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:46:10 2015: Downloaded 0 B
+Fri May 1 17:46:10 2015: Remaining 23.92 GiB
+Fri May 1 17:47:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:47:10 2015: Downloaded 0 B
+Fri May 1 17:47:10 2015: Remaining 23.92 GiB
+Fri May 1 17:48:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:48:10 2015: Downloaded 0 B
+Fri May 1 17:48:10 2015: Remaining 23.92 GiB
+Fri May 1 17:49:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:49:10 2015: Downloaded 0 B
+Fri May 1 17:49:10 2015: Remaining 23.92 GiB
+Fri May 1 17:50:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:50:10 2015: Downloaded 0 B
+Fri May 1 17:50:10 2015: Remaining 23.92 GiB
+Fri May 1 17:51:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:51:10 2015: Downloaded 0 B
+Fri May 1 17:51:10 2015: Remaining 23.92 GiB
+Fri May 1 17:52:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:52:10 2015: Downloaded 0 B
+Fri May 1 17:52:10 2015: Remaining 23.92 GiB
+Fri May 1 17:53:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:53:10 2015: Downloaded 0 B
+Fri May 1 17:53:10 2015: Remaining 23.92 GiB
+Fri May 1 17:54:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:54:10 2015: Downloaded 0 B
+Fri May 1 17:54:10 2015: Remaining 23.92 GiB
+Fri May 1 17:55:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:55:10 2015: Downloaded 0 B
+Fri May 1 17:55:10 2015: Remaining 23.92 GiB
+Fri May 1 17:56:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:56:10 2015: Downloaded 0 B
+Fri May 1 17:56:10 2015: Remaining 23.92 GiB
+Fri May 1 17:57:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:57:10 2015: Downloaded 0 B
+Fri May 1 17:57:10 2015: Remaining 23.92 GiB
+Fri May 1 17:58:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:58:10 2015: Downloaded 0 B
+Fri May 1 17:58:10 2015: Remaining 23.92 GiB
+Fri May 1 17:59:10 2015: FreeBytes 130.06 GiB
+Fri May 1 17:59:10 2015: Downloaded 0 B
+Fri May 1 17:59:10 2015: Remaining 23.92 GiB
+Fri May 1 18:00:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:00:10 2015: Downloaded 0 B
+Fri May 1 18:00:10 2015: Remaining 23.92 GiB
+Fri May 1 18:01:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:01:10 2015: Downloaded 0 B
+Fri May 1 18:01:10 2015: Remaining 23.92 GiB
+Fri May 1 18:02:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:02:10 2015: Downloaded 0 B
+Fri May 1 18:02:10 2015: Remaining 23.92 GiB
+Fri May 1 18:03:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:03:10 2015: Downloaded 0 B
+Fri May 1 18:03:10 2015: Remaining 23.92 GiB
+Fri May 1 18:03:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 18:03:13 2015: Request sent
+Fri May 1 18:03:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 18:04:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:04:10 2015: Downloaded 0 B
+Fri May 1 18:04:10 2015: Remaining 23.92 GiB
+Fri May 1 18:05:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:05:10 2015: Downloaded 0 B
+Fri May 1 18:05:10 2015: Remaining 23.92 GiB
+Fri May 1 18:06:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:06:10 2015: Downloaded 0 B
+Fri May 1 18:06:10 2015: Remaining 23.92 GiB
+Fri May 1 18:07:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:07:10 2015: Downloaded 0 B
+Fri May 1 18:07:10 2015: Remaining 23.92 GiB
+Fri May 1 18:08:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:08:10 2015: Downloaded 0 B
+Fri May 1 18:08:10 2015: Remaining 23.92 GiB
+Fri May 1 18:09:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:09:10 2015: Downloaded 0 B
+Fri May 1 18:09:10 2015: Remaining 23.92 GiB
+Fri May 1 18:10:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:10:10 2015: Downloaded 0 B
+Fri May 1 18:10:10 2015: Remaining 23.92 GiB
+Fri May 1 18:11:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:11:10 2015: Downloaded 0 B
+Fri May 1 18:11:10 2015: Remaining 23.92 GiB
+Fri May 1 18:12:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:12:10 2015: Downloaded 0 B
+Fri May 1 18:12:10 2015: Remaining 23.92 GiB
+Fri May 1 18:13:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:13:10 2015: Downloaded 0 B
+Fri May 1 18:13:10 2015: Remaining 23.92 GiB
+Fri May 1 18:14:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:14:10 2015: Downloaded 0 B
+Fri May 1 18:14:10 2015: Remaining 23.92 GiB
+Fri May 1 18:15:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:15:10 2015: Downloaded 0 B
+Fri May 1 18:15:10 2015: Remaining 23.92 GiB
+Fri May 1 18:16:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:16:10 2015: Downloaded 0 B
+Fri May 1 18:16:10 2015: Remaining 23.92 GiB
+Fri May 1 18:17:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:17:10 2015: Downloaded 0 B
+Fri May 1 18:17:10 2015: Remaining 23.92 GiB
+Fri May 1 18:18:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:18:10 2015: Downloaded 0 B
+Fri May 1 18:18:10 2015: Remaining 23.92 GiB
+Fri May 1 18:19:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:19:10 2015: Downloaded 0 B
+Fri May 1 18:19:10 2015: Remaining 23.92 GiB
+Fri May 1 18:20:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:20:10 2015: Downloaded 0 B
+Fri May 1 18:20:10 2015: Remaining 23.92 GiB
+Fri May 1 18:21:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:21:10 2015: Downloaded 0 B
+Fri May 1 18:21:10 2015: Remaining 23.92 GiB
+Fri May 1 18:22:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:22:10 2015: Downloaded 0 B
+Fri May 1 18:22:10 2015: Remaining 23.92 GiB
+Fri May 1 18:23:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:23:10 2015: Downloaded 0 B
+Fri May 1 18:23:10 2015: Remaining 23.92 GiB
+Fri May 1 18:24:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:24:10 2015: Downloaded 0 B
+Fri May 1 18:24:10 2015: Remaining 23.92 GiB
+Fri May 1 18:25:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:25:10 2015: Downloaded 0 B
+Fri May 1 18:25:10 2015: Remaining 23.92 GiB
+Fri May 1 18:26:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:26:10 2015: Downloaded 0 B
+Fri May 1 18:26:10 2015: Remaining 23.92 GiB
+Fri May 1 18:27:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:27:10 2015: Downloaded 0 B
+Fri May 1 18:27:10 2015: Remaining 23.92 GiB
+Fri May 1 18:28:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:28:10 2015: Downloaded 0 B
+Fri May 1 18:28:10 2015: Remaining 23.92 GiB
+Fri May 1 18:29:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:29:10 2015: Downloaded 0 B
+Fri May 1 18:29:10 2015: Remaining 23.92 GiB
+Fri May 1 18:30:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:30:10 2015: Downloaded 0 B
+Fri May 1 18:30:10 2015: Remaining 23.92 GiB
+Fri May 1 18:31:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:31:10 2015: Downloaded 0 B
+Fri May 1 18:31:10 2015: Remaining 23.92 GiB
+Fri May 1 18:32:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:32:10 2015: Downloaded 0 B
+Fri May 1 18:32:10 2015: Remaining 23.92 GiB
+Fri May 1 18:33:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:33:10 2015: Downloaded 0 B
+Fri May 1 18:33:10 2015: Remaining 23.92 GiB
+Fri May 1 18:33:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 18:33:13 2015: Request sent
+Fri May 1 18:33:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 18:34:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:34:10 2015: Downloaded 0 B
+Fri May 1 18:34:10 2015: Remaining 23.92 GiB
+Fri May 1 18:35:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:35:10 2015: Downloaded 0 B
+Fri May 1 18:35:10 2015: Remaining 23.92 GiB
+Fri May 1 18:36:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:36:10 2015: Downloaded 0 B
+Fri May 1 18:36:10 2015: Remaining 23.92 GiB
+Fri May 1 18:37:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:37:10 2015: Downloaded 0 B
+Fri May 1 18:37:10 2015: Remaining 23.92 GiB
+Fri May 1 18:38:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:38:10 2015: Downloaded 0 B
+Fri May 1 18:38:10 2015: Remaining 23.92 GiB
+Fri May 1 18:39:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:39:10 2015: Downloaded 0 B
+Fri May 1 18:39:10 2015: Remaining 23.92 GiB
+Fri May 1 18:40:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:40:10 2015: Downloaded 0 B
+Fri May 1 18:40:10 2015: Remaining 23.92 GiB
+Fri May 1 18:41:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:41:10 2015: Downloaded 0 B
+Fri May 1 18:41:10 2015: Remaining 23.92 GiB
+Fri May 1 18:42:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:42:10 2015: Downloaded 0 B
+Fri May 1 18:42:10 2015: Remaining 23.92 GiB
+Fri May 1 18:43:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:43:10 2015: Downloaded 0 B
+Fri May 1 18:43:10 2015: Remaining 23.92 GiB
+Fri May 1 18:44:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:44:10 2015: Downloaded 0 B
+Fri May 1 18:44:10 2015: Remaining 23.92 GiB
+Fri May 1 18:45:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:45:10 2015: Downloaded 0 B
+Fri May 1 18:45:10 2015: Remaining 23.92 GiB
+Fri May 1 18:46:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:46:10 2015: Downloaded 0 B
+Fri May 1 18:46:10 2015: Remaining 23.92 GiB
+Fri May 1 18:47:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:47:10 2015: Downloaded 0 B
+Fri May 1 18:47:10 2015: Remaining 23.92 GiB
+Fri May 1 18:48:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:48:10 2015: Downloaded 0 B
+Fri May 1 18:48:10 2015: Remaining 23.92 GiB
+Fri May 1 18:49:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:49:10 2015: Downloaded 0 B
+Fri May 1 18:49:10 2015: Remaining 23.92 GiB
+Fri May 1 18:50:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:50:10 2015: Downloaded 0 B
+Fri May 1 18:50:10 2015: Remaining 23.92 GiB
+Fri May 1 18:51:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:51:10 2015: Downloaded 0 B
+Fri May 1 18:51:10 2015: Remaining 23.92 GiB
+Fri May 1 18:52:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:52:10 2015: Downloaded 0 B
+Fri May 1 18:52:10 2015: Remaining 23.92 GiB
+Fri May 1 18:53:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:53:10 2015: Downloaded 0 B
+Fri May 1 18:53:10 2015: Remaining 23.92 GiB
+Fri May 1 18:54:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:54:10 2015: Downloaded 0 B
+Fri May 1 18:54:10 2015: Remaining 23.92 GiB
+Fri May 1 18:55:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:55:10 2015: Downloaded 0 B
+Fri May 1 18:55:10 2015: Remaining 23.92 GiB
+Fri May 1 18:56:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:56:10 2015: Downloaded 0 B
+Fri May 1 18:56:10 2015: Remaining 23.92 GiB
+Fri May 1 18:57:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:57:10 2015: Downloaded 0 B
+Fri May 1 18:57:10 2015: Remaining 23.92 GiB
+Fri May 1 18:58:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:58:10 2015: Downloaded 0 B
+Fri May 1 18:58:10 2015: Remaining 23.92 GiB
+Fri May 1 18:59:10 2015: FreeBytes 130.06 GiB
+Fri May 1 18:59:10 2015: Downloaded 0 B
+Fri May 1 18:59:10 2015: Remaining 23.92 GiB
+Fri May 1 19:00:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:00:10 2015: Downloaded 0 B
+Fri May 1 19:00:10 2015: Remaining 23.92 GiB
+Fri May 1 19:01:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:01:10 2015: Downloaded 0 B
+Fri May 1 19:01:10 2015: Remaining 23.92 GiB
+Fri May 1 19:02:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:02:10 2015: Downloaded 0 B
+Fri May 1 19:02:10 2015: Remaining 23.92 GiB
+Fri May 1 19:03:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:03:10 2015: Downloaded 0 B
+Fri May 1 19:03:10 2015: Remaining 23.92 GiB
+Fri May 1 19:03:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 19:03:13 2015: Request sent
+Fri May 1 19:03:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 19:04:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:04:10 2015: Downloaded 0 B
+Fri May 1 19:04:10 2015: Remaining 23.92 GiB
+Fri May 1 19:05:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:05:10 2015: Downloaded 0 B
+Fri May 1 19:05:10 2015: Remaining 23.92 GiB
+Fri May 1 19:06:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:06:10 2015: Downloaded 0 B
+Fri May 1 19:06:10 2015: Remaining 23.92 GiB
+Fri May 1 19:07:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:07:10 2015: Downloaded 0 B
+Fri May 1 19:07:10 2015: Remaining 23.92 GiB
+Fri May 1 19:08:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:08:10 2015: Downloaded 0 B
+Fri May 1 19:08:10 2015: Remaining 23.92 GiB
+Fri May 1 19:09:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:09:10 2015: Downloaded 0 B
+Fri May 1 19:09:10 2015: Remaining 23.92 GiB
+Fri May 1 19:10:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:10:10 2015: Downloaded 0 B
+Fri May 1 19:10:10 2015: Remaining 23.92 GiB
+Fri May 1 19:11:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:11:10 2015: Downloaded 0 B
+Fri May 1 19:11:10 2015: Remaining 23.92 GiB
+Fri May 1 19:12:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:12:10 2015: Downloaded 0 B
+Fri May 1 19:12:10 2015: Remaining 23.92 GiB
+Fri May 1 19:13:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:13:10 2015: Downloaded 0 B
+Fri May 1 19:13:10 2015: Remaining 23.92 GiB
+Fri May 1 19:14:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:14:10 2015: Downloaded 0 B
+Fri May 1 19:14:10 2015: Remaining 23.92 GiB
+Fri May 1 19:15:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:15:10 2015: Downloaded 0 B
+Fri May 1 19:15:10 2015: Remaining 23.92 GiB
+Fri May 1 19:16:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:16:10 2015: Downloaded 0 B
+Fri May 1 19:16:10 2015: Remaining 23.92 GiB
+Fri May 1 19:17:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:17:10 2015: Downloaded 0 B
+Fri May 1 19:17:10 2015: Remaining 23.92 GiB
+Fri May 1 19:18:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:18:10 2015: Downloaded 0 B
+Fri May 1 19:18:10 2015: Remaining 23.92 GiB
+Fri May 1 19:19:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:19:10 2015: Downloaded 0 B
+Fri May 1 19:19:10 2015: Remaining 23.92 GiB
+Fri May 1 19:20:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:20:10 2015: Downloaded 0 B
+Fri May 1 19:20:10 2015: Remaining 23.92 GiB
+Fri May 1 19:21:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:21:10 2015: Downloaded 0 B
+Fri May 1 19:21:10 2015: Remaining 23.92 GiB
+Fri May 1 19:22:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:22:10 2015: Downloaded 0 B
+Fri May 1 19:22:10 2015: Remaining 23.92 GiB
+Fri May 1 19:23:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:23:10 2015: Downloaded 0 B
+Fri May 1 19:23:10 2015: Remaining 23.92 GiB
+Fri May 1 19:24:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:24:10 2015: Downloaded 0 B
+Fri May 1 19:24:10 2015: Remaining 23.92 GiB
+Fri May 1 19:25:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:25:10 2015: Downloaded 0 B
+Fri May 1 19:25:10 2015: Remaining 23.92 GiB
+Fri May 1 19:26:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:26:10 2015: Downloaded 0 B
+Fri May 1 19:26:10 2015: Remaining 23.92 GiB
+Fri May 1 19:27:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:27:10 2015: Downloaded 0 B
+Fri May 1 19:27:10 2015: Remaining 23.92 GiB
+Fri May 1 19:28:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:28:10 2015: Downloaded 0 B
+Fri May 1 19:28:10 2015: Remaining 23.92 GiB
+Fri May 1 19:29:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:29:10 2015: Downloaded 0 B
+Fri May 1 19:29:10 2015: Remaining 23.92 GiB
+Fri May 1 19:30:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:30:10 2015: Downloaded 0 B
+Fri May 1 19:30:10 2015: Remaining 23.92 GiB
+Fri May 1 19:31:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:31:10 2015: Downloaded 0 B
+Fri May 1 19:31:10 2015: Remaining 23.92 GiB
+Fri May 1 19:32:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:32:10 2015: Downloaded 0 B
+Fri May 1 19:32:10 2015: Remaining 23.92 GiB
+Fri May 1 19:33:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:33:10 2015: Downloaded 0 B
+Fri May 1 19:33:10 2015: Remaining 23.92 GiB
+Fri May 1 19:33:13 2015: Doing tracker request to url (via QHttp): http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545&peer_id=-KT4310-oQnFgpqG3QAI&port=6881&uploaded=0&downloaded=0&left=25682669882&compact=1&numwant=200&key=2043321366&ip=2001%3ADA8%3AE000%3A1260%3A119B%3A3C79%3A334F%3AFC87&event=started&info_hash=.%d5%be%b8%97%c0u%d8P%96O%fd%e9%c1%b3%e6%1d%22%0c%e7
+Fri May 1 19:33:13 2015: Request sent
+Fri May 1 19:33:13 2015: Selected tracker http://tracker.nexushd.org/announce.php?passkey=e97031ad75283eff4edb5f8988cac545 (tier = 1)
+Fri May 1 19:34:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:34:10 2015: Downloaded 0 B
+Fri May 1 19:34:10 2015: Remaining 23.92 GiB
+Fri May 1 19:35:10 2015: FreeBytes 130.06 GiB
+Fri May 1 19:35:10 2015: Downloaded 0 B
+Fri May 1 19:35:10 2015: Remaining 23.92 GiB
+Fri May 1 19:35:27 2015: Saving 0 chunk downloads
+Fri May 1 19:35:27 2015: Saving list of peers to /home/fighting/.kde/share/apps/ktorrent/tor0/peer_list

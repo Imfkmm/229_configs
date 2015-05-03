@@ -1,0 +1,299 @@
+[file:///etc/apt/sources.list]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=45fe623b09ded0af849e1315e4770888
+Mode=
+Time=2015,4,26,8,46,32
+URL=file:///etc/apt/sources.list
+
+[file:///etc/default/grub]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=e09723b304fce42d2a3a711d3ef0837e
+Mode=
+Time=2015,4,6,16,24,19
+URL=file:///etc/default/grub
+
+[file:///etc/grub.d/00_header]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Bash
+Indentation Mode=normal
+MD5=957e7a193777f330f05a666519c18af7
+Mode=Bash
+Time=2015,4,6,16,25,42
+URL=file:///etc/grub.d/00_header
+
+[file:///etc/mysql/my.cnf]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=1169d68e9f5993e2d0ea16c38ea30914
+Mode=
+Time=2015,5,2,9,50,8
+URL=file:///etc/mysql/my.cnf
+
+[file:///etc/network/interfaces]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=72f04190dec5dbedc308286972bf8e1e
+Mode=
+Time=2015,4,26,9,6,39
+URL=file:///etc/network/interfaces
+
+[file:///home/fighting/.bashrc]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Bash
+Indentation Mode=normal
+MD5=2eeda1e1a9b29c84d1b6cd03d517e702
+Mode=Bash
+Time=2015,4,15,23,28,52
+URL=file:///home/fighting/.bashrc
+
+[file:///home/fighting/.config/Haroopad/Themes/viewer/default.css]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CSS
+Indentation Mode=cstyle
+MD5=d41d8cd98f00b204e9800998ecf8427e
+Mode=CSS
+Time=2015,4,8,10,44,47
+URL=file:///home/fighting/.config/Haroopad/Themes/viewer/default.css
+
+[file:///home/fighting/.kde/share/config/katerc]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=0e25d553e1bcdc505d857486548727df
+Mode=
+Time=2015,4,4,20,10,47
+URL=file:///home/fighting/.kde/share/config/katerc
+
+[file:///home/fighting/Downloads/PSOt/DemoPSOBehavior.m]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Matlab
+Indentation Mode=normal
+MD5=452bdab5545229fb6f3afee031de9796
+Mode=Matlab
+Time=2015,4,6,18,58,30
+URL=file:///home/fighting/Downloads/PSOt/DemoPSOBehavior.m
+
+[file:///home/fighting/Downloads/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi.srt]
+Bookmarks=
+Encoding=ISO-8859-15
+Highlighting=None
+Indentation Mode=normal
+MD5=4ec2b499ff49d85521bc3409f89fc5e6
+Mode=
+Time=2015,5,1,15,13,3
+URL=file:///home/fighting/Downloads/Pirates.of.The.Caribbean.I.II.III.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BluRay.720p.x264.DTS-WiKi.srt
+
+[file:///home/fighting/Downloads/usage.csv]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=29de3e4dcd45609501c40f7d63d6371b
+Mode=
+Time=2015,4,9,16,6,31
+URL=file:///home/fighting/Downloads/usage.csv
+
+[file:///home/fighting/Downloads/周杰伦.-.\x5b2004.无与伦比演唱会\x5d.DVDRip.XviD/周杰伦.-.\x5b2004.无与伦比演唱会\x5d.DVDRip.XviD.CD1 (1).srt]
+Bookmarks=
+Encoding=GB18030
+Highlighting=None
+Indentation Mode=normal
+MD5=b133fba5332daa8859a4167a610df699
+Mode=
+Time=2015,4,24,10,52,40
+URL=file:///home/fighting/Downloads/周杰伦.-.[2004.无与伦比演唱会].DVDRip.XviD/周杰伦.-.[2004.无与伦比演唱会].DVDRip.XviD.CD1 (1).srt
+
+[file:///home/fighting/Downloads/宋冬野 - 安和桥北 2013 - FLAC 分轨/专辑简介.txt]
+Bookmarks=
+Encoding=GB18030
+Highlighting=None
+Indentation Mode=normal
+MD5=0c8979b817bd8f494cb7597ebd8ca2f1
+Mode=
+Time=2015,5,3,15,3,11
+URL=file:///home/fighting/Downloads/宋冬野 - 安和桥北 2013 - FLAC 分轨/专辑简介.txt
+
+[file:///home/fighting/cpp/6_096/exercise1/ex2_1.cpp]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+MD5=02d90d891828d5dcc118720ae6f47df1
+Mode=C++
+Time=2015,5,2,20,52,12
+URL=file:///home/fighting/cpp/6_096/exercise1/ex2_1.cpp
+
+[file:///home/fighting/cpp/6_096/exercise1/ex2_2.cpp]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+MD5=9265ad01552770770874bcb87c4a858a
+Mode=C++
+Time=2015,5,2,20,43,8
+URL=file:///home/fighting/cpp/6_096/exercise1/ex2_2.cpp
+
+[file:///home/fighting/cpp/6_096/exercise1/ex3_1.cpp]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+MD5=c974edd481307c8b5c2bd85b3c49c21b
+Mode=C++
+Time=2015,5,2,20,52,12
+URL=file:///home/fighting/cpp/6_096/exercise1/ex3_1.cpp
+
+[file:///home/fighting/programming/cpp/6_096/exercise2/ex2.cpp]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+MD5=ac43dc75af4f50562c01ce0fd561503b
+Mode=C++
+Time=2015,5,3,17,6,48
+URL=file:///home/fighting/programming/cpp/6_096/exercise2/ex2.cpp
+
+[file:///home/fighting/programming/cpp/6_096/exercise2/ex5.cpp]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+MD5=a957674dd4deecd48bf0f23bbdff0df0
+Mode=C++
+Time=2015,5,3,17,6,48
+URL=file:///home/fighting/programming/cpp/6_096/exercise2/ex5.cpp
+
+[file:///home/fighting/study/control of mobile robots/lesson 1/ctl_robot 1.md]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Markdown
+Indentation Mode=normal
+MD5=10e59d9b36dcef3aaf9b534a5dc02204
+Mode=Markdown
+Time=2015,4,5,17,3,24
+URL=file:///home/fighting/study/control of mobile robots/lesson 1/ctl_robot 1.md
+
+[file:///home/fighting/study/control of mobile robots/lesson 2/2 - 1 - Lecture Video 2.1- Driving Robots Around-.txt]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=b5abc495f725db43c23351284f92398d
+Mode=
+Time=2015,4,5,14,57,24
+URL=file:///home/fighting/study/control of mobile robots/lesson 2/2 - 1 - Lecture Video 2.1- Driving Robots Around-.txt
+
+[file:///home/fighting/study/control of mobile robots/lesson 2/2 - 2 - Lecture Video 2.2- Differential Drive Robots.txt]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=6b9de52511e145b65a008732a1d4938f
+Mode=
+Time=2015,4,5,16,11,3
+URL=file:///home/fighting/study/control of mobile robots/lesson 2/2 - 2 - Lecture Video 2.2- Differential Drive Robots.txt
+
+[file:///home/fighting/study/control of mobile robots/lesson 2/2 - 3 - Lecture Video 2.3- Odometry.txt]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=0aa5612252169c0390cdc68b7ad02df4
+Mode=
+Time=2015,4,7,9,25,38
+URL=file:///home/fighting/study/control of mobile robots/lesson 2/2 - 3 - Lecture Video 2.3- Odometry.txt
+
+[file:///home/fighting/study/control of mobile robots/lesson 2/2.3 Odometry _ Control of Mobile Robots-IgLyihZNl1U.en-GB.srt]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=920f405548e27ca1970c5548b4e1180d
+Mode=
+Time=2015,4,5,16,11,14
+URL=file:///home/fighting/study/control of mobile robots/lesson 2/2.3 Odometry _ Control of Mobile Robots-IgLyihZNl1U.en-GB.srt
+
+[file:///home/fighting/study/control of mobile robots/lesson 2/ctl_robot2.md]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Markdown
+Indentation Mode=normal
+MD5=5a55e19f3a96f33211f57ad56bede6e9
+Mode=Markdown
+Time=2015,4,6,10,30,32
+URL=file:///home/fighting/study/control of mobile robots/lesson 2/ctl_robot2.md
+
+[file:///home/fighting/study/control of mobile robots/lesson 3/3 - 2 - Lecture Video 3.2- State-Space Models.txt]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=d02349a4460c2b2d0a6242096b1c7add
+Mode=
+Time=2015,4,9,8,53,46
+URL=file:///home/fighting/study/control of mobile robots/lesson 3/3 - 2 - Lecture Video 3.2- State-Space Models.txt
+
+[file:///home/fighting/study/graduationproj/shibin/cityAggressive/K60831C4_WMENG1_1385617693637.txt]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=57e6deda1bd362e54a2024a9e7e76ae1
+Mode=
+Time=2015,4,27,16,51,19
+URL=file:///home/fighting/study/graduationproj/shibin/cityAggressive/K60831C4_WMENG1_1385617693637.txt
+
+[file:///home/fighting/tmp/my-webpages/third.html]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=HTML
+Indentation Mode=normal
+MD5=1ac6a0252ade4cfd514b945650c14f6a
+Mode=HTML
+Time=2015,4,16,15,36,7
+URL=file:///home/fighting/tmp/my-webpages/third.html
+
+[file:///home/fighting/tmp/second.html]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=HTML
+Indentation Mode=normal
+MD5=3708b7b613985ec8ef635a78c886a176
+Mode=HTML
+Time=2015,4,16,10,47,26
+URL=file:///home/fighting/tmp/second.html
+
+[file:///home/fighting/tmp/test/echo_client.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+MD5=308712884f3ec0da88633dac5781ecc8
+Mode=Python
+Time=2015,5,1,13,55,44
+URL=file:///home/fighting/tmp/test/echo_client.py
+
+[file:///home/fighting/tmp/test/echo_server.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+MD5=9fb769fc444a37d7f21a3b9c6fa12050
+Mode=Python
+Time=2015,5,1,13,57,57
+URL=file:///home/fighting/tmp/test/echo_server.py

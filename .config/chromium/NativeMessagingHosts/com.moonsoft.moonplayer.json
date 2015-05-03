@@ -1,0 +1,10 @@
+
+{
+  "name": "com.moonsoft.moonplayer",
+  "description": "MoonPlayer",
+  "path": "/home/fighting/.moonplayer/chrome_helper.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ploccikhodijbjlgoldbmengboddaikf/"
+  ]
+}

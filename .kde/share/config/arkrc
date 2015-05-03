@@ -1,0 +1,32 @@
+[AddDialog]
+LastMimeType=application/x-compressed-tar
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Height 768=655
+Recent Files[$e]=$HOME/config.tar.gz,$HOME/config.tar.gz
+Recent URLs[$e]=$HOME/tmp/,$HOME/study/
+Width 1366=1056
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+splitterSizes=425,212
+
+[Recent Files]
+File1[$e]=$HOME/app/hosts.rar
+File2[$e]=$HOME/study/control of mobile robots/lesson-5/conrob-programming_assignments-simiam-coursera-week-5.zip
+File3[$e]=$HOME/tmp/Imaging-1.1.7.tar.gz
+Name1[$e]=hosts.rar
+Name2[$e]=conrob-programming_assignments-simiam-coursera-week-5.zip
+Name3[$e]=Imaging-1.1.7.tar.gz
+
+[Viewer]
+Height 1080=400
+Height 768=707
+Width 1366=1366
+Width 1920=560

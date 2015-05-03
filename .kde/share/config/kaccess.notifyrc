@@ -1,0 +1,17 @@
+[Event/lockkey-unlocked]
+Action=
+Execute=
+KTTS=
+Logfile=
+
+[Event/modifierkey-latched]
+Action=
+Execute=
+KTTS=
+Logfile=
+
+[Event/modifierkey-locked]
+Action=
+Execute=
+KTTS=
+Logfile=

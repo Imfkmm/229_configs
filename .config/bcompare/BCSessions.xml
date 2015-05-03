@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Version="1" MinVersion="1">
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TTextCompareSession Value="0001-cpu.patch">
+						<LastModified Value="2014-12-25 00:09:45"/>
+						<Specs>
+							<Right Value="/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/0001-cpu.patch"/>
+						</Specs>
+					</TTextCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TTextCompareSession>
+				<State>
+					<DisplayFilter Value="[showLeftMod, showRightMod, showDiffMod]"/>
+				</State>
+			</TTextCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>

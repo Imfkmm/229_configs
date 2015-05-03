@@ -1,0 +1,373 @@
+{
+   "checksum": "3154999c0cd8302f608467c65aa17d3e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13006486301422146",
+            "id": "10",
+            "name": "教务",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://10.202.78.12/default2.aspx"
+         }, {
+            "date_added": "13006536408787052",
+            "id": "4",
+            "name": "",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://www.cc98.org/index.asp"
+         }, {
+            "date_added": "13006537058035095",
+            "id": "11",
+            "name": "图书馆",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://libweb.zju.edu.cn/libweb/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "12825603507000000",
+                  "id": "48",
+                  "name": "Ubuntu",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "12825603507000000",
+                  "id": "49",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "12825603507000000",
+                  "id": "50",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "12825603507000000",
+                  "id": "51",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               }, {
+                  "date_added": "13000316881000000",
+                  "id": "52",
+                  "name": "Ubuntu One - The personal cloud that brings your digital life together",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://one.ubuntu.com/"
+               }, {
+                  "date_added": "13014657915055733",
+                  "id": "53",
+                  "name": "share",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "ftp://software.cc98.org/%23Upload/"
+               }, {
+                  "date_added": "13014822206724796",
+                  "id": "54",
+                  "name": "首页 • Ubuntu中文论坛",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://forum.ubuntu.org.cn/index.php"
+               }, {
+                  "date_added": "13014828658542235",
+                  "id": "55",
+                  "name": "FatFs - Generic FAT File System Module",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://elm-chan.org/fsw/ff/00index_e.html"
+               } ],
+               "date_added": "13006485950252253",
+               "date_modified": "13015078609063907",
+               "id": "47",
+               "name": "Ubuntu and Free Software links",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            } ],
+            "date_added": "13006485950251971",
+            "date_modified": "13015078609040991",
+            "id": "12",
+            "name": "Ubuntu",
+            "sync_transaction_version": "5",
+            "type": "folder"
+         }, {
+            "date_added": "13007800091948618",
+            "id": "14",
+            "name": "",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://scholar.google.com.hk/schhp?hl=zh-CN&as_sdt=0,5"
+         }, {
+            "date_added": "13008596611148744",
+            "id": "15",
+            "name": "",
+            "sync_transaction_version": "7",
+            "type": "url",
+            "url": "http://www.baidu.com/"
+         }, {
+            "date_added": "13011253570098158",
+            "id": "16",
+            "name": "",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "https://www.google.com/ncr"
+         }, {
+            "children": [ {
+               "date_added": "13009537658964204",
+               "id": "34",
+               "name": "AVR Microcontrollers in Linux HOWTO",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.tldp.org/HOWTO/Avr-Microcontrollers-in-Linux-Howto/x207.html"
+            }, {
+               "children": [ {
+                  "date_added": "13009977369567831",
+                  "id": "42",
+                  "name": "NerdKits - Library: SDHC Card Project",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.nerdkits.com/library/sdhc/"
+               }, {
+                  "date_added": "13009977396007622",
+                  "id": "43",
+                  "name": "Design with Microcontrollers: SD/SDHC Card Interfacing with ATmega8 /32 (FAT32 implementation)",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.dharmanitech.com/2009/01/sd-card-interfacing-with-atmega8-fat32.html"
+               }, {
+                  "date_added": "13010917115176619",
+                  "id": "44",
+                  "name": "MCU 8051 IDE | Yayi's World",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://yayi.me/mcu-8051-ide"
+               }, {
+                  "date_added": "13010917124903911",
+                  "id": "45",
+                  "name": "STC12--SPI-sillyboytao-ChinaUnix博客",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://blog.chinaunix.net/uid-10747583-id-3188281.html"
+               }, {
+                  "date_added": "13011249585175541",
+                  "id": "46",
+                  "name": "Arduino 颜色识别传感器/TCS230D TCS3200D",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://item.taobao.com/item.htm?spm=2013.1.w7254459528.12.owymm4&id=13602688701&"
+               } ],
+               "date_added": "13009537738315819",
+               "date_modified": "13015078609063144",
+               "id": "35",
+               "name": "SDHC",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            }, {
+               "date_added": "13009537689235839",
+               "id": "36",
+               "name": "Installing the GNU tools (avr-gcc) for AVRs",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.micahcarrick.com/installing-gnu-tools-avr-gcc.html"
+            }, {
+               "date_added": "13009537767787420",
+               "id": "37",
+               "name": "AVR Tutorial - Software setup for Unix/Linux",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.ladyada.net/learn/avr/setup-unix.html"
+            }, {
+               "date_added": "13009565926449909",
+               "id": "38",
+               "name": "AVR Programming 02: The Hardware",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://hackaday.com/2010/10/25/avr-programming-02-the-hardware/"
+            }, {
+               "date_added": "13009597948315352",
+               "id": "39",
+               "name": "MSP430 LaunchPad Installation Guide - Texas Instruments Embedded Processors Wiki",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://processors.wiki.ti.com/index.php/MSP430_LaunchPad_Installation_Guide"
+            }, {
+               "date_added": "13009598012450890",
+               "id": "40",
+               "name": "Linux support comes to MSP430 with TI's Code Composer Studio IDE - The Official MSP430 Blog - Blogs - TI E2E Community",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://e2e.ti.com/blogs_/b/msp430blog/archive/2012/08/03/linux-support-comes-to-msp430-with-ti-39-s-code-composer-studio-ide.aspx"
+            }, {
+               "date_added": "13009898066524958",
+               "id": "41",
+               "name": "Using Openwrt serial port",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://neophob.com/2007/11/using-openwrt-on-la-fonera-for-dummies/"
+            } ],
+            "date_added": "13009537674004415",
+            "date_modified": "13015078609044665",
+            "id": "17",
+            "name": "New folder",
+            "sync_transaction_version": "5",
+            "type": "folder"
+         }, {
+            "date_added": "13011975077591984",
+            "id": "20",
+            "name": "Pro Git",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://git-scm.com/book"
+         }, {
+            "date_added": "13012228042774587",
+            "id": "21",
+            "name": "Google C++ Style Guide",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml#Header_Files"
+         }, {
+            "date_added": "13012241143948694",
+            "id": "22",
+            "name": "Tutorial: Make Vim as Your C/C++ IDE Using c.vim Plugin",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://www.thegeekstuff.com/2009/01/tutorial-make-vim-as-your-cc-ide-using-cvim-plugin/"
+         }, {
+            "date_added": "13012886228560716",
+            "id": "23",
+            "name": "豆瓣FM",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://douban.fm/"
+         }, {
+            "date_added": "13012890573168422",
+            "id": "24",
+            "name": "Linux software debugging with GDB",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://www.ibm.com/developerworks/library/l-gdb/"
+         }, {
+            "date_added": "13013353874642859",
+            "id": "25",
+            "name": "\"No device drivers were found. Make sure that the installation media contains the correct drivers, and then click ok\"",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://social.technet.microsoft.com/Forums/en-US/w7itprohardware/thread/3b4eeaf3-e7c4-4057-821d-f3a45451374f"
+         }, {
+            "date_added": "13013713284024850",
+            "id": "26",
+            "name": "How-to: Launchpad programming with Linux",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://hackaday.com/2010/08/11/how-to-launchpad-programming-with-linux/"
+         }, {
+            "date_added": "13014002435746257",
+            "id": "27",
+            "name": "21ic",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://www.21ic.com/"
+         }, {
+            "date_added": "13014273450828710",
+            "id": "28",
+            "name": "Debugging Segmentation Faults and Pointer Problems - Cprogramming.com",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://www.cprogramming.com/debugging/segfaults.html"
+         }, {
+            "date_added": "13014313394234191",
+            "id": "29",
+            "name": "GNU Radio - HowToUse - gnuradio.org",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://gnuradio.org/redmine/projects/gnuradio/wiki/HowToUse"
+         }, {
+            "date_added": "13014390129084687",
+            "id": "30",
+            "name": "segmentation fault_cheriec_新浪博客",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://blog.sina.com.cn/s/blog_4d3a41f40100ejlh.html"
+         }, {
+            "date_added": "13014391812113552",
+            "id": "31",
+            "name": "关于Segmentation fault(段错误)探究 - kakaka2011的专栏 - 博客频道 - CSDN.NET",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://blog.csdn.net/kakaka2011/article/details/6597857"
+         }, {
+            "date_added": "13014481743381086",
+            "id": "32",
+            "name": "Linux 内核手动编译升级 - 好脑袋和烂笔头 - 开源中国社区",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://my.oschina.net/guol/blog/115913"
+         }, {
+            "date_added": "13014493764992604",
+            "id": "33",
+            "name": "ubuntu 升级内核实战 - 查看主题 • Ubuntu中文论坛",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://forum.ubuntu.org.cn/viewtopic.php?p=2730876"
+         }, {
+            "date_added": "13014916125072794",
+            "id": "5",
+            "name": "",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://10.202.78.12/default2.aspx"
+         }, {
+            "date_added": "13014988068332735",
+            "id": "7",
+            "name": "",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://forum.ubuntu.org.cn/index.php"
+         }, {
+            "date_added": "13014991987546781",
+            "id": "8",
+            "name": "Ubuntu桌面生存指南 (2) --- Ubuntu桌面体验简介 - 张佳伟的博客",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://ghosertblog.github.io/blog/2012/10/22/ubuntu-living-handbook-experience/"
+         } ],
+         "date_added": "13014910514576962",
+         "date_modified": "13014991987546781",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13014910514576986",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13007650045208973",
+            "id": "9",
+            "name": "辑注类->孟子全译",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://202.101.244.103/guoxue/%E5%85%B6%E4%BB%96%E5%8E%86%E5%8F%B2%E4%B9%A6%E7%B1%8D/%E8%BE%91%E6%B3%A8%E7%B1%BB/%E5%AD%9F%E5%AD%90%E5%85%A8%E8%AF%91/Basic/EBookLib/JXCKS/TS010056/default.htm"
+         } ],
+         "date_added": "13014910514576991",
+         "date_modified": "13007650045208973",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

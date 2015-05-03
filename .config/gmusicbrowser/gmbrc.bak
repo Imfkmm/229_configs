@@ -1,0 +1,565 @@
+# gmbrc version=1.1009 time=1387730090
+[Options]
+AlwaysInPlaylist: 1
+Artists_split_re:
+  - '\s*&\s*'
+  - '\s*;\s*'
+  - '\s*,\s+'
+  - '\s*/\s*'
+Artists_title_re:
+  - '\(with\s+([^)]+)\)'
+  - '\(feat\.\s+([^)]+)\)'
+AudioOut: Play_GST
+AutoRemoveCurrentSong: 1
+CloseToTray: 0
+CustomKeyBindings: {}
+DateFormat_history:
+  - ''
+  - '%c 604800 %A %X 86400 Today %X 60 now'
+DefaultOptions_songlist_SongList:
+  cols: playandqueue track title artist album year length playcount
+  colwidth: album 200 artist 200 file 400 lastplay 100 length 41 path 413 playandqueue 24 playcount 317 rating 80 title 270 track 21 year 31
+  follow: 1
+  sort: year album disc track
+DefaultOptions_songtree_QueueList:
+  cols: queuenumber titleaa
+  colwidth: queuenumber 20 titleaa 248
+  follow: ''
+  grouping: ''
+  isearchfields: title
+  sort: "path album:i disc track file"
+DefaultOptions_songtree_SongTree:
+  cols: playandqueueandtrack title length ratingpic
+  colwidth: artist 124 lastplay 107 length 49 playandqueue 19 playandqueueandtrack 20 playcount 22 ratingpic 100 title 390 titleaa 397 track 21
+  follow: 1
+  grouping: album|artistalbum_breadcrumbs(picsize=100)|disc|discleft(width=15)
+  isearchfields: title
+  sort: year album disc track
+DefaultRating: 50
+Default_picture: {}
+Fields_options: {}
+FilenameSchema:
+  - '%a - %l - %n - %t'
+  - '%l - %n - %t'
+  - '%n-%t'
+  - '%d%n-%t'
+FolderSchema:
+  - '%A/%l'
+  - '%A'
+  - '%A/%Y-%l'
+  - '%A - %l'
+Icecast_port: 8000
+IconTheme: elementary
+Labels:
+  - favorite
+  - bootleg
+  - broken
+  - bonus tracks
+  - interview
+  - another example
+LastFolder_Add: '/home/fighting/Music'
+LastPlayFilter: !Filter  "album:~:我是小贱 EP\x00\x1d"
+Layout: Shimmer Desktop
+LayoutB: Browser
+LayoutF: Shimmer Party
+LayoutS: Search
+LayoutT: Shimmer Traytip
+Layouts:
+  "Shimmer Desktop":
+    FilterPane10:
+      hidebb: 1
+      hidetabs: 1
+      min: 1
+      page: artists
+      page_added:
+        type: added.year
+      page_artists:
+        lmarkup: '<b>%a</b>%Y\n<small>%x « %s</small>'
+      page_lastplay:
+        type: lastplay.year
+      pages: savedtree|artists|album|genre|label|folder|added|lastplay|rating
+    FilterPane2:
+      hidebb: 1
+      hidetabs: 1
+      min: 1
+      page: album
+      page_album:
+        mmarkup: 1
+        mode: mosaic
+        mpicsize: 96
+      pages: album
+    FilterPane3:
+      hidebb: 1
+      hidetabs: 1
+      min: 1
+      page: genre
+      page_added:
+        type: added.year
+      page_lastplay:
+        type: lastplay.year
+      pages: savedtree|artists|album|genre|label|folder|added|lastplay|rating
+    FilterPane5:
+      hidebb: 1
+      hidetabs: 1
+      min: 1
+      page: album
+      page_added:
+        type: added.year
+      page_album:
+        lmarkup: '<b>%a</b>%Y\n<small>%s « %l</small>'
+        lpicsize: 32
+      page_lastplay:
+        type: lastplay.year
+      pages: savedtree|artists|album|genre|label|folder|added|lastplay|rating
+    HPMain:
+      size: 259-1106
+    NBList:
+      page: QueueList
+      page_opt: {}
+      pages: QueueList HBLyrics VBAlbuminfo VBArtistinfo
+    PluginArtistinfo:
+      site: similar
+    PluginLyrics:
+      follow: 1
+      font: Normal 10
+      justification: left
+    QueueList:
+      cols: queuenumber titleaa
+      colwidth: queuenumber 20 titleaa 248
+      follow: ''
+      grouping: ''
+      isearchfields: title
+      sort: "path album:i disc track file"
+    SimpleSearch:
+      autofilter: 1
+      casesens: 0
+      fields: title|artist|album
+      literal: 0
+      regexp: 0
+      suggest: 1
+    SongList:
+      cols: playandqueue track title artist album year length playcount
+      colwidth: album 200 artist 200 file 400 lastplay 100 length 41 path 413 playandqueue 24 playcount 317 rating 80 title 270 track 21 year 31
+      follow: 1
+      sort: year album disc track
+    SongTree:
+      cols: playandqueueandtrack title length ratingpic
+      colwidth: artist 124 lastplay 107 length 49 playandqueue 19 playandqueueandtrack 20 playcount 22 ratingpic 100 title 390 titleaa 397 track 21
+      follow: 1
+      grouping: album|artistalbum_breadcrumbs(picsize=100)|disc|discleft(width=15)
+      isearchfields: title
+      sort: year album disc track
+    Total:
+      mode: library
+    VPSongPlaylist:
+      size: 2-658
+    Window:
+      hidden: "SongTree:1106x663|VPSongPlaylist:1106x663"
+      pos: 0x28
+      size: 1366x708
+  "Shimmer Party":
+    FilterPane2:
+      hidebb: 1
+      hidetabs: 1
+      min: 1
+      page: album
+      page_album:
+        mmarkup: 1
+        mode: mosaic
+        mpicsize: 128
+      pages: album
+    HPMain:
+      size: 154-209
+    QueueList:
+      cols: queuenumber titleaa
+      colwidth: queuenumber 20 titleaa 248
+      follow: ''
+      grouping: ''
+      isearchfields: title
+      sort: "path album:i disc track file"
+    SimpleSearch:
+      autofilter: 1
+      casesens: 0
+      fields: title|artist|album
+      literal: 0
+      regexp: 0
+      suggest: 1
+    Window:
+      fullscreen: 1
+      hidden: VBSidebar
+      pos: 0x0
+      size: 1366x768
+LayoutsLastSeen: {}
+LengthCheckMode: add
+LibraryPath: []
+Lock: ''
+MaxAutoFill: 5
+PLUGIN_ARTISTINFO: 1
+PLUGIN_ARTISTINFO_ArtistPicSize: 70
+PLUGIN_ARTISTINFO_Eventformat: '%title at %name<br>%startDate<br>%city (%country)<br><br>'
+PLUGIN_ARTISTINFO_Eventformat_history:
+  - '%title<br>%startDate<br><br>'
+  - '%title on %startDate<br><br>'
+PLUGIN_ARTISTINFO_PathFile: '~/.config/gmusicbrowser/bio/%a'
+PLUGIN_ARTISTINFO_SimilarExcludeSeed: 0
+PLUGIN_ARTISTINFO_SimilarLimit: 15
+PLUGIN_ARTISTINFO_SimilarLocal: 0
+PLUGIN_ARTISTINFO_SimilarRating: 20
+PLUGIN_FETCHCOVER: 1
+PLUGIN_FETCHCOVER_COVERFILE: cover
+PLUGIN_FETCHCOVER_PictureSite_album: googlei
+PLUGIN_FETCHCOVER_PictureSite_artist: googlei
+PLUGIN_FETCHCOVER_USEFILE: 1
+PLUGIN_LYRICS: 1
+PLUGIN_LYRICS_Font: Normal 10
+PLUGIN_LYRICS_LyricSite: lyricssongs
+PLUGIN_LYRICS_PathFile: '~/.lyrics/%a/%t.lyric'
+PLUGIN_LYRICS_PreferEmbeddedLyrics: 0
+PLUGIN_MPRIS2: 1
+PixCacheSize: 5
+PlayedMinPercent: 80
+PlayedMinSeconds: 600
+QueueAction: wait
+RecentFilters:
+  - !Filter  "album:~:我是小贱 EP\x00\x1d"
+  - !Filter  "album:~:新白发魔女 电视原声带\x00\x1d"
+  - !Filter  "album:~:新白发魔女传 电视原声带\x00\x1d"
+  - !Filter  "album:~:奋斗\x00\x1d"
+  - !Filter  "album:~:天籁村\x00\x1d"
+  - !Filter  "album:~:天台 电影原声带\x00\x1d"
+  - !Filter  "album:~:命中注定我爱你 电视原声带\x00\x1d"
+  - !Filter  "album:~:后来 我们都哭了\x00\x1d"
+  - !Filter  "album:~:壮志凌云\x00\x1d"
+  - !Filter  "album:~:你王菲所以我王菲 (disc 1)\x00\x1d"
+  - !Filter  "album:~:Fu Good 下一站 天后 自选＋精选\x00\x1d"
+  - !Filter  "album:~:ANG 5.0\x00\x1d"
+  - !Filter  "album:~:2000爱的精彩\x00\x1d"
+  - !Filter  "album:~:2011年8月新歌速递2\x00\x1d"
+  - !Filter  "album:~:赤沙印记 四叶草2\x00\x1d"
+  - !Filter  "album:~:超时代演唱会\x00\x1d"
+  - !Filter  "album:~:超级星光大道-林宥嘉\x00\x1d"
+  - !Filter  "album:~:跨时代\x00\x1d"
+  - !Filter  "album:~:齐天大圣孙悟空片头曲\x00\x1d"
+  - !Filter  ''
+Repeat: 1
+SavedFilters:
+  "50 Last Added": !Filter  "added:h:50"
+  "50 Last Played": !Filter  "lastplay:h:50"
+  "50 Most Played": !Filter  "playcount:h:50"
+  "Added Today": !Filter  "added:>ago:1d"
+  "Played Today": !Filter  "lastplay:>ago:1d"
+  "never played": !Filter  "playcount:<:1"
+  "not bootleg": !Filter  "label:-~:bootleg"
+  played>4: !Filter  "playcount:>:4"
+SavedLists: {}
+SavedOn: 1387730090
+SavedSTGroupings:
+  Album: album|simple
+  "Album with picture": album|pic
+  "Artist & album": artist|simple|album|pic
+  Folder: folder|artistalbum
+  None: ''
+SavedSorts:
+  Artist,Album,Disc,Track: artist album disc track
+  Artist,Date,Album,Disc,Track: artist year album disc track
+  Date: year
+  "Last played": lastplay
+  Path,Album,Disc,Track,File: path album disc track file
+  Path,File: path file
+  "Shuffled albums": album_shuffle disc track file
+  "Shuffled albums, shuffled tracks": album_shuffle shuffle
+  Title: title
+SavedWRandoms:
+  "by added": "random:-1a50"
+  "by lastplay": "random:1l10"
+  "by lastplay & bootleg": "random:1l10\x1d-.5fbootleg"
+  "by lastplay & play count": "random:1l10\x1d-1n5"
+  "by play count": "random:-1n5"
+  "by rating": "random:1r0,.1,.2,.3,.4,.5,.6,.7,.8,.9,1"
+Sessions: 3644
+ShowTipOnSongChange: 0
+SongArray_Queue: !SongArray  ''
+SongArray_Recent: !SongArray  152 88 98 102
+Sort: artist album disc track
+Sort_LastOrdered: path file
+Sort_LastSR: shuffle
+StartCheck: 0
+StartScan: 0
+TAG_id3v1_encoding: iso-8859-1
+TAG_keep_id3v2_ver: 0
+TAG_no_desync: 1
+TAG_use_latin1_if_possible: 1
+TAG_write_id3v2.4: 0
+TrayTipDelay: 0
+TrayTipTimeLength: 3000
+UseTray: 0
+VolumeStep: 10
+WindowSizes:
+  AdvTag: 538x503
+  EditFilter: 600x260
+  EditSort: 600x320
+  EditWRandom: 600x450
+  MassRename: 650x550
+  MassTag: 520x560
+  Pref: 672x531
+  Rename: 300x180
+  SongInfo: 420x482
+gst_equalizer: "0:0:0:0:0:0:0:0:0:0"
+gst_equalizer_preamp: 1
+gst_rg_fallback: 0
+gst_rg_limiter: 1
+gst_rg_preamp: 6
+gst_rg_songmenu: 0
+gst_sink: autoaudio
+gst_use_equalizer: 0
+version: 1.1009
+
+[Songs]
+added	album	album_artist_raw	artist	bitrate	channel	comment	compilation	disc	file	filetype	genre	grouping	label	lastplay	lastskip	length	length_estimated	missing	modif	path	playcount	rating	replaygain_album_gain	replaygain_album_peak	replaygain_track_gain	replaygain_track_peak	samprate	size	skipcount	title	track	version	year
+1	1387725366	Our Canon In D		Aaron Angello	128	2		0	0	Aaron Angello - Our Canon In D.mp3	mp3 l3v1				0	0	222	0	0	1380115587	/home/fighting/Music	0		0	0	0	0	44100	3545778	0	Our Canon In D	0		0
+2	1387725367	欧美情歌精华	Demis Roussos	合唱抒情曲	128	2	Lame Mp3 Encoder_1.3£¨pyb£©\x0aLame Mp3 Encoder_1.3£¨pyb£©	0	0	Aphrodite's Child - Rain And Tears.mp3	mp3 l3v1	Unknown			0	0	193	0	0	1380115587	/home/fighting/Music	0		0	0	0	0	48000	3088640	0	Rain and Tears	1		2000
+3	1387725367	壮志凌云		柏林 乐队	128	2	WWW.TOP100.CN 巨鲸音乐网	0	0	Berlin - Take My Breath Away.mp3	mp3 l3v1	影视音乐【Movie&TV Soundtrack】			0	0	256	0	0	1380115587	/home/fighting/Music	0		0	0	0	0	44100	4152517	0	Take My Breath Away	1		0
+4	1387725367			BEYOND	128	2	hulu's MP3 Collections	0	0	Beyond - %E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88.mp3	mp3 l3v1				0	0	300	0	0	1380115587	/home/fighting/Music	0		0	0	0	0	44100	4786624	0	光辉岁月	0		0
+5	1387725367	Let’s Bobo		BOBO	128	2		0	0	BOBO - %E6%88%91%E5%8F%AA%E5%9C%A8%E4%B9%8E%E4%BD%A0.mp3	mp3 l3v1				0	0	225	0	0	1380115587	/home/fighting/Music	0		0	0	0	0	44100	3603940	0	我只在乎你	0		0
+6	1387725367	River		Bruce Springsteen	128	2		0	0	Bruce Springsteen - Hungry Heart.mp3	mp3 l3v1	Rock			0	0	200	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	3206442	0	Hungry Heart	0		0
+7	1387725367				128	2		0	0	Carpenters - Close To You.mp3	mp3 l3v1				0	0	225	0	0	1375670458	/home/fighting/Music	0		0	0	0.57	0.579742	44100	3593623	0		0		0
+8	1387725367	<Undefined>		<Undefined>	128	2	http://musicspeed.cnjx.net	0	0	Celine Dion - My Heart Will Go On.mp3	mp3 l3v1	Unknown			0	0	278	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	4454413	0		0		0
+9	1387725367	天籁村		奥斯卡	128	2	http://tdk.126.com	0	0	Elton John - Can You Feel The Love Tonight.mp3	mp3 l3v1	Pop			0	0	244	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	3915767	0	今夜爱无限	0		2000
+10	1387725367				128	2		0	0	Hope - Baby.mp3	mp3 l3v1				0	0	172	0	0	1375753186	/home/fighting/Music	0		0	0	0	0	48000	2752035	0		0		0
+11	1387725367				128	2		0	0	Hope - Marry You.mp3	mp3 l3v1				0	0	220	0	0	1375752856	/home/fighting/Music	0		0	0	0	0	48000	3513479	0		0		0
+12	1387725367				128	2		0	0	Hope - What Makes You Beautiful.mp3	mp3 l3v1				0	0	114	0	0	1375753260	/home/fighting/Music	0		0	0	0	0	44100	1816867	0		0		0
+13	1387725367				128	2		0	0	Hope - %E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86.mp3	mp3 l3v1				0	0	195	0	0	1375752970	/home/fighting/Music	0		0	0	0	0	44100	3124155	0		0		0
+14	1387725367				128	2		0	0	Hope - %E4%BD%A0%E4%B8%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%BF%AB%E4%B9%90.mp3	mp3 l3v1				0	0	179	0	0	1375752772	/home/fighting/Music	0		0	0	0	0	48000	2870665	0		0		0
+15	1387725367				128	2		0	0	Hope - %E5%80%94%E5%BC%BA.mp3	mp3 l3v1				0	0	148	0	0	1375753006	/home/fighting/Music	0		0	0	0	0	44100	2361050	0		0		0
+16	1387725367				128	2		0	0	Hope%E3%80%81%E5%88%98%E7%91%9E%E7%90%A6%E3%80%81%E6%96%B0%E5%A3%B0%E9%A9%BE%E5%88%B0 - %E6%B5%B7%E8%8A%8B%E6%81%8B.mp3	mp3 l3v1	Other			0	0	145	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	2328310	0		0		0
+17	1387725367				128	2		0	0	Hope - %E5%88%AB%E6%89%BE%E6%88%91%E9%BA%BB%E7%83%A6.mp3	mp3 l3v1				0	0	211	0	0	1375754124	/home/fighting/Music	0		0	0	0	0	48000	3374683	0		0		0
+18	1387725367				128	2		0	0	Hope - %E5%B0%91%E5%B9%B4.mp3	mp3 l3v1				0	0	226	0	0	1375752810	/home/fighting/Music	0		0	0	0	0	48000	3622155	0		0		0
+19	1387725373				128	2		0	0	Hope - %E6%A2%A6%E6%83%B3%E6%89%8B%E7%89%B5%E6%89%8B.mp3	mp3 l3v1				0	0	98	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	1576321	0		0		0
+20	1387725373				128	2		0	0	hope - %E7%A8%BB%E9%A6%99.mp3	mp3 l3v1				0	0	170	0	0	1375753310	/home/fighting/Music	0		0	0	0	0	44100	2720404	0		0		0
+21	1387725373				128	2		0	0	Hope - %E8%B0%A2%E8%B0%A2%E4%BE%AC.mp3	mp3 l3v1				0	0	191	0	0	1375753288	/home/fighting/Music	0		0	0	0	0	44100	3049011	0		0		0
+22	1387725373				128	2		0	0	Jinn Thao - I Love You.mp3	mp3 l3v1				0	0	284	0	0	1375596312	/home/fighting/Music	0		0	0	0	0	44100	4549050	0		0		0
+23	1387725373	I Prefer The Moonlight		Kenny Rogers	128	2		0	0	Kenny Rogers - You Can't Say.mp3	mp3 l3v1	Country			0	0	195	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	3121419	0	You Can't Say	0		1999
+24	1387725373	Lenka		Lenka	128	2		0	0	Lenka - Like a Song.mp3	mp3 l3v1				0	0	202	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	3250859	0	Like a Song	0		0
+25	1387725373	天籁村		奥斯卡	128	2	http://tdk.126.com	0	0	Lionel Richie - Say You Say Me.mp3	mp3 l3v1	Pop			0	0	244	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	3911588	0	说你 说我	0		2000
+26	1387725373	º¿ÄR¨È³Í²úMARIAH CAREY-¿W¤@µL¤Gºë¿ï¿è		嚎腞ㄈ惩产MARIAH CAREY	128	2		0	0	Mariah Carey - Without You.mp3	mp3 l3v1	General R&B			0	0	216	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	3454018	0	WITHOUT YOU-¥¢¥h§A	17		0
+27	1387725373	It's time		Micheal Bubl?	128	2		0	0	Michael Buble - Home.mp3	mp3 l3v1	Vocal			0	0	226	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	3611399	0	home	5		2005
+28	1387725373			迈克尔·杰克逊 Michael Jackson	128	2		0	0	Michael Jackson - You Are Not Alone.mp3	mp3 l3v1	Other			0	0	296	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	4739204	0	You Are Not Alone	0		0
+29	1387725373	Trax	Bagman	20	128	2	´´½¨Õß: Advanced CD Ripper Rro	0	0	Michael Learns To Rock - Take Me To Your Heart.mp3	mp3 l3v1	Other			0	0	237	0	0	1380115588	/home/fighting/Music	0		0	0	0	0	44100	3801798	0	Track01	1		2004
+30	1387725373				128	2		0	0	Move - Lookin' On The Sunny Side.mp3	mp3 l3v1				0	0	344	0	0	1375596412	/home/fighting/Music	0		0	0	0	0	44100	5504391	0		0		0
+31	1387725373	Best of Olivia		Olivia Ong（新加坡）	128	2		0	0	Olivia Ong%EF%BC%88%E6%96%B0%E5%8A%A0%E5%9D%A1%EF%BC%89 - Sometimes When We Touch.mp3	mp3 l3v1				0	0	247	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	3961284	0	Sometimes When We Touch	0		0
+32	1387725373				128	2		0	0	Ping Pung%E3%80%81%E5%90%B4%E9%9B%A8%E9%9C%8F - %E4%BA%8C%E5%8D%81%E4%B8%96%E7%BA%AA%E5%B0%91%E5%B9%B4.mp3	mp3 l3v1				0	0	242	0	0	1375633474	/home/fighting/Music	0		0	0	0	0	44100	3873226	0		0		0
+33	1387725373				128	2	chi	0	0	p-ride - So Wie Ich.mp3	mp3 l3v1	Other			0	0	181	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	2889118	0	haohaotingo 收藏	32		0
+34	1387725373			Red Sox	128	2		0	0	Red Sox - Sweet Dream.mp3	mp3 l3v1				0	0	228	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	48000	3651712	0	Sweet Dream	0		0
+35	1387725373	Ballads		Richard Marx	128	2	¿á¹·ÒôÀÖ	0	0	Richard Marx - Right Here Waiting.mp3	mp3 l3v1				0	0	262	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	4199143	0	Right Here Waiting	0		0
+36	1387725373				128	2		0	0	Richard Sanderson - Reality.mp3	mp3 l3v1				0	0	284	0	0	1375599932	/home/fighting/Music	0		0	0	0	0	44100	4548649	0		0		0
+37	1387725373	Ã¹¤ñ«Â·G´µROBBIE WILLIAMS-°ÛªÌ¬°¤ý		Ã¹¤ñ«Â·G´µROBBIE WILLIAMS	128	2		0	0	Robbie Williams - Better Man.mp3	mp3 l3v1	European Pop			0	0	203	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	3241984	0	BETTER MAN	2		0
+38	1387725373	¥¨¬P¤Ïµsª©		合辑	128	2		0	0	Robbie Williams - Something Stupid.mp3	mp3 l3v1	genre			0	0	173	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	2775012	0	SOMETHING STUPID罗比威廉斯	9		0
+39	1387725373	Key To My Soul		Sarah Connor	128	2		0	0	Sarah Connor - Love Is Color Blind.mp3	mp3 l3v1				0	0	287	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	4612106	0	Love Is Color Blind	0		0
+40	1387725373			TIMO TOLKKI	80	2	Mu22668389SL	0	0	SongTaste-%E7%94%9F%E5%91%BD%E5%A6%82%E8%AF%97.mp3	mp3 l3v1				0	0	696	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	6968061	0	Hymn To Life	0		0
+41	1387725373				128	2		0	0	Sunya - Sing A Song.mp3	mp3 l3v1				0	0	149	0	0	1375595558	/home/fighting/Music	0		0	0	0	0	44100	2391013	0		0		0
+42	1387725373	The Next Generation		糖果盒子	128	2		0	0	Sweetbox - We Can Work It Out.mp3	mp3 l3v1	Other			0	0	226	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	3621659	0	We Can Work It Out	0		0
+43	1387725373	电视原声带		TANK	224	2	Mu10009032SL1053046	0	0	TANK-%E5%8D%83%E5%B9%B4%E6%B3%AA.mp3	mp3 l3v1				0	0	260	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	7294893	0	千年泪	0		0
+44	1387725373	生存之道 Fighting(超值庆功版)		Tank	128	2		0	0	Tank - %E5%8D%83%E5%B9%B4%E6%B3%AA%E3%80%90%E5%A4%A9%E5%A4%96%E9%A3%9E%E4%BB%99%E3%80%91.mp3	mp3 l3v1				0	0	261	0	0	1380115589	/home/fighting/Music	0		0	0	0	0	44100	4195205	0	千年泪	0		0
+45	1387725373				128	2		0	0	Tank - %E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E7%88%B1%E3%80%90%E7%BB%88%E6%9E%81%E4%B8%80%E7%8F%AD%E3%80%91.mp3	mp3 l3v1				0	0	285	0	0	1375544130	/home/fighting/Music	0		0	0	0	0	44100	4556590	0		0		0
+46	1387725373	Speak Now		Taylor Swift	128	2		0	0	Taylor Swift - Long Live.mp3	mp3 l3v1				0	0	318	0	0	1380115590	/home/fighting/Music	0		0	0	0	0	44100	5102239	0	Long Live	0		0
+47	1387725373				128	2		0	0	The Beatles - Hey Jude.mp3	mp3 l3v1				0	0	424	0	0	1375602784	/home/fighting/Music	0		0	0	0	0	44100	6790995	0		0		0
+48	1387725373	小红莓精选Best of the Cranberries 1		The Cranberries	128	2		0	0	The Cranberries - Dying In the Sun.mp3	mp3 l3v1				0	0	212	0	0	1380115590	/home/fighting/Music	0		0	0	0	0	44100	3418427	0	Dying In the Sun	0		0
+49	1387725373	Wake up and Smell the Coffee		The Cranberries	128	2		0	0	The Cranberries - Never Grow Old.mp3	mp3 l3v1				0	0	156	0	0	1380115590	/home/fighting/Music	0		0	0	0	0	44100	2508181	0	Never Grow Old	0		0
+50	1387725373	Top 100 Pop Love Songs	Toni Braxton	Toni Braxton	128	2		0	0	Toni Braxton - Unbreak My Heart.mp3	mp3 l3v1	Pop			0	0	270	0	0	1380115590	/home/fighting/Music	0		0	0	0	0	44100	4328570	0	Unbreak My Heart	73		1996
+51	1387725373	大过天		Twins	128	2		0	0	Twins - %E5%A4%A7%E8%BF%87%E5%A4%A9.mp3	mp3 l3v1				0	0	228	0	0	1380115590	/home/fighting/Music	0		0	0	0	0	44100	3693542	0	大过天	0		0
+52	1387725373	我们的纪念册		Twins	128	2		0	0	Twins - %E6%9C%8B%E5%8F%8B%E4%BB%94.mp3	mp3 l3v1	Pop			0	0	187	0	0	1380115590	/home/fighting/Music	0		0	0	0	0	44100	3000437	0	朋友仔	0		2002
+53	1387725373	Vitamin C		Vitamin C	128	2		0	0	Vitamin C - Friends Forever.mp3	mp3 l3v1	Other			0	0	340	0	0	1380115590	/home/fighting/Music	0		0	0	0	0	44100	5455882	0	Graduation (Friends Forever) (LP Version)	0		0
+54	1387725373	World Of Our Own		Westlife(西城男孩)	224	2	Mu10171039SL1160850	0	0	Westlife-Angel.mp3	mp3 l3v1				0	0	264	0	0	1380115590	/home/fighting/Music	0		0	0	0	0	44100	7385277	0	Angel	0		0
+55	1387725373				128	2		0	0	Westlife - Beautiful In White.mp3	mp3 l3v1				0	0	227	0	0	1375595536	/home/fighting/Music	0		0	0	0	0	44100	3624037	0		0		0
+56	1387725373	西城男孩成名金曲全记录		westlife	224	2	Mu20632431SL1056365	0	0	Westlife-If I Let You Go.mp3	mp3 l3v1				0	0	222	0	0	1380115591	/home/fighting/Music	0		0	0	0	0	44100	6219173	0	If I Let You Go	0		0
+57	1387725373	RUN TO YOU		Westlife(西城男孩)	224	2	Mu11605653SL1561156	0	0	Westlife-I Lay My Love On You.mp3	mp3 l3v1				0	0	209	0	0	1380115591	/home/fighting/Music	0		0	0	0	0	44100	5867115	0	I Lay My Love On You	0		0
+58	1387725373	西城男孩成名金曲全记录		Westlife(西城男孩)	224	2	Mu11081545SL1560146	0	0	Westlife-My Love.mp3	mp3 l3v1				0	0	233	0	0	1380115591	/home/fighting/Music	0		0	0	0	0	44100	6542691	0	my love	0		0
+59	1387725374			Westlife	128	2		0	0	Westlife - Nothing's Gonna Change My Love For You.mp3	mp3 l3v1				0	0	229	0	0	1380115591	/home/fighting/Music	0		0	0	0	0	44100	3668400	0	Nothing Gonna Change My Love For You	0		0
+60	1387725374	爱之专辑The Love Album		WestLife	128	2	Mu21034802SL1217133	0	0	Westlife-Nothing%EF%BC%87s Gonna Change My Love For You.mp3	mp3 l3v1				0	0	229	0	0	1380115591	/home/fighting/Music	0		0	0	0	0	44100	3686567	0	Nothing＇s Gonna Change My Love For You	0		0
+61	1387725374	Westlife [Japan Bonus Track]	Westlife	Westlife	128	2		0	0	Westlife - Season In The Sun.mp3	mp3 l3v1	Other			0	0	250	0	0	1380115591	/home/fighting/Music	0		0	0	0	0	44100	4005892	0	Seasons in the Sun	9		2000
+62	1387725374	西城男孩成名金曲全记录		Westlife(西城男孩)	224	2	Mu10008841SL1562054	0	0	Westlife-Seasons in the Sun.mp3	mp3 l3v1				0	0	249	0	0	1380115592	/home/fighting/Music	0		0	0	0	0	44100	6988385	0	seasons in the sun	0		0
+63	1387725374	Coast To Coast		WestLife	320	2	Mu11081548SL1161763	0	0	Westlife-Soledad.mp3	mp3 l3v1				0	0	238	0	0	1380115592	/home/fighting/Music	0		0	0	0	0	44100	9556089	0	Soledad	0		0
+64	1387725374	The Love Album 爱情专辑		Westlife(西城男孩)	224	2	Mu10177644SL1168039	0	0	Westlife-The Rose.mp3	mp3 l3v1				0	0	223	0	0	1380115592	/home/fighting/Music	0		0	0	0	0	44100	6253747	0	THE ROSE	0		0
+65	1387725374				128	2		0	0	Whitney Houston - I Will Always Love You.mp3	mp3 l3v1				0	0	275	0	0	1380115592	/home/fighting/Music	0		0	0	0	0	44100	4401076	0		0		0
+66	1387725374			丁当	128	2		0	0	%E4%B8%81%E5%BD%93 - %E4%B8%80%E5%8D%8A%E3%80%90%E5%92%8C%E7%A9%BA%E5%A7%90%E4%B8%80%E8%B5%B7%E7%9A%84%E6%97%A5%E5%AD%90%E3%80%91.mp3	mp3 l3v1	Pop			0	0	268	0	0	1380115593	/home/fighting/Music	0		0	0	0	0	44100	4294837	0	一半	1		2010
+67	1387725374	Fu Good 下一站 天后 自选＋精选		丁当	128	2		0	0	%E4%B8%81%E5%BD%93 - %E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%8F%AF%E4%BB%A5.mp3	mp3 l3v1				0	0	282	0	0	1380115593	/home/fighting/Music	0		0	0	0	0	44100	4522978	0	可以不可以	0		0
+68	1387725374	傲世堂[www.aosclub.com]SA弟林		丁噹	128	2	傲世堂[www.aosclub.com]SA弟林	0	0	%E4%B8%81%E5%BD%93 - %E6%88%91%E7%88%B1%E4%BB%96%E3%80%90%E4%B8%8B%E4%B8%80%E7%AB%99%EF%BC%8C%E5%B9%B8%E7%A6%8F%E3%80%91.mp3	mp3 l3v1	Pop			0	0	282	0	0	1380115593	/home/fighting/Music	0		0	0	0	0	44100	4522308	0	我爱他	0		2009
+69	1387725374				192	2		0	0	%E4%B8%A5%E8%89%BA%E4%B8%B9 - %E4%B8%89%E5%AF%B8%E5%A4%A9%E5%A0%82.mp3	mp3 l3v1				0	0	289	0	0	1356788508	/home/fighting/Music	0		0	0	0	0	44100	6945383	0		0		0
+70	1387725374	湖南卫视芒果捞	严艺丹	严艺丹	128	2	Mu23769720SL	0	0	%E4%B8%A5%E8%89%BA%E4%B8%B9 - %E4%B8%89%E5%AF%B8%E5%A4%A9%E5%A0%82%E3%80%90%E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83%E3%80%91.mp3	mp3 l3v1	Pop			0	0	290	0	0	1380115593	/home/fighting/Music	0		0	0	0	0	44100	4643732	0	三寸天堂	0	湖南卫视《步步惊心》片尾曲	2011
+71	1387725374	新白发魔女 电视原声带		吴奇隆	128	2		0	0	%E4%B8%A5%E8%89%BA%E4%B8%B9%E3%80%81%E5%90%B4%E5%A5%87%E9%9A%86 - %E6%B5%81%E6%81%8B%E3%80%90%E6%96%B0%E7%99%BD%E5%8F%91%E9%AD%94%E5%A5%B3%E4%BC%A0%E3%80%91.mp3	mp3 l3v1				0	0	245	0	0	1380115593	/home/fighting/Music	0		0	0	0	0	44100	3929264	0	流恋(《新白发魔女传》电视剧片尾曲)	0		0
+72	1387725374				192	2		0	0	%E4%B8%A5%E8%89%BA%E4%B8%B9 - %E6%97%A0%E6%9E%9C.mp3	mp3 l3v1				0	0	296	0	0	1356786716	/home/fighting/Music	0		0	0	0	0	44100	7114030	0		0		0
+73	1387725374				128	2		0	0	%E4%B8%A5%E8%89%BA%E4%B8%B9 - %E7%AD%89%E4%BD%A0%E7%9A%84%E5%AD%A3%E8%8A%82.mp3	mp3 l3v1				0	0	234	0	0	1356788232	/home/fighting/Music	0		0	0	0	0	44100	3740054	0		0		0
+74	1387725374				192	2		0	0	%E4%B8%A5%E8%89%BA%E4%B8%B9 - %E8%AF%BA.mp3	mp3 l3v1				0	0	305	0	0	1356786348	/home/fighting/Music	0		0	0	0	0	44100	7330324	0		0		0
+75	1387725374				192	2		0	0	%E4%B8%A5%E8%89%BA%E4%B8%B9 - %E9%97%AE%E6%9C%88.mp3	mp3 l3v1				0	0	243	0	0	1356787520	/home/fighting/Music	0		0	0	0	0	44100	5842598	0		0		0
+76	1387725374	关东煮		丸子	128	2		0	0	%E4%B8%B8%E5%AD%90 - %E7%88%B1%E4%BD%A0%E5%8D%A1%E5%86%9C.mp3	mp3 l3v1	Pop			0	0	269	0	0	1380115593	/home/fighting/Music	0		0	0	0	0	44100	4305901	0	爱你卡农	1		2003
+77	1387725374	Curved Music II - CM Tracks of Joe Hisaishi		久石让	128	2		0	0	%E4%B9%85%E7%9F%B3%E8%AE%A9 - Summer.mp3	mp3 l3v1				0	0	325	0	0	1380115594	/home/fighting/Music	0		0	0	0	0	44100	5210936	0	Summer	0		0
+78	1387725374	第二人生(明日版)		五月天	128	2		0	0	%E4%BA%94%E6%9C%88%E5%A4%A9 - %E4%BB%93%E9%A2%89.mp3	mp3 l3v1				0	0	301	0	0	1380115594	/home/fighting/Music	0		0	0	0	0	44100	4829507	0	仓颉	0		0
+79	1387725374				128	2		0	0	%E4%BA%94%E6%9C%88%E5%A4%A9 - %E5%80%94%E5%BC%BA.mp3	mp3 l3v1	Other			0	0	263	0	0	1380115594	/home/fighting/Music	0		0	0	0	0	44100	4217533	0	五月天-倔强	0		0
+80	1387725374	第二人生(末日版)		五月天	128	2		0	0	%E4%BA%94%E6%9C%88%E5%A4%A9 - %E6%98%9F%E7%A9%BA(%E5%90%8C%E5%90%8D%E7%94%B5%E5%BD%B1%E4%B8%BB%E9%A2%98%E6%9B%B2).mp3	mp3 l3v1				0	0	284	0	0	1380115594	/home/fighting/Music	0		0	0	0	0	44100	4548139	0	星空(同名电影主题曲)	0		0
+81	1387725374	五月天你要去那里台湾巡回演唱会Live全纪录		五月天	128	2		0	0	%E4%BA%94%E6%9C%88%E5%A4%A9 - %E7%BA%AF%E7%9C%9F.mp3	mp3 l3v1				0	0	300	0	0	1380115594	/home/fighting/Music	0		0	0	0	0	44100	4803901	0	纯真	0		0
+82	1387725374	天门-新海诚作品纪念10周年专辑[Promise]		エミネンス交响乐团	128	2		0	0	%E3%82%A8%E3%83%9F%E3%83%8D%E3%83%B3%E3%82%B9%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2 - %E6%83%B3%E3%81%84%E5%87%BA%E3%81%AF%E9%81%A0%E3%81%8F%E3%81%AE%E6%97%A5%E3%80%85.mp3	mp3 l3v1				0	0	248	0	0	1380115594	/home/fighting/Music	0		0	0	0	0	44100	3961604	0	想い出は遠くの日々	0		0
+83	1387725374				128	2		0	0	%E4%BB%BB%E8%B4%A4%E9%BD%90 - %E4%BB%BB%E9%80%8D%E9%81%A5%E3%80%90%E7%A5%9E%E9%9B%95%E4%BE%A0%E4%BE%A3%E3%80%91.mp3	mp3 l3v1				0	0	270	0	0	1375545070	/home/fighting/Music	0		0	0	0	0	44100	4327967	0		0		0
+84	1387725374	为爱走天涯		任贤齐	128	2	http://lonelyboy.yeah.net	0	0	%E4%BB%BB%E8%B4%A4%E9%BD%90 - %E5%A4%A9%E6%B6%AF%E3%80%90%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%E3%80%91.mp3	mp3 l3v1				0	0	327	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	5219917	0	天涯	0		2000
+85	1387725374				128	2		0	0	%E4%BD%95%E7%82%85 - %E6%A0%80%E5%AD%90%E8%8A%B1%E5%BC%80.mp3	mp3 l3v1				0	0	235	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	3757419	0		0		0
+86	1387725374	音乐回忆 [www.recally.com]	音乐回忆 [www.recally.com]	依稀/音乐回忆 [www.recally.com]	128	2	ÒôÀÖ»ØÒä [www.recally.com]	0	0	%E4%BE%9D%E7%A8%80 - %E7%BF%85%E8%86%80.mp3	mp3 l3v1				0	0	299	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	4781689	0	翅膀 音乐回忆 [www.recally.com]	0	音乐回忆 [www.recally.com]	0
+87	1387725374	Shin		信乐团	128	2		0	0	%E4%BF%A1%E4%B9%90%E5%9B%A2 - %E6%AD%BB%E4%BA%86%E9%83%BD%E8%A6%81%E7%88%B1.mp3	mp3 l3v1				0	0	267	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	4286192	0	死了都要爱	0		0
+88	1387725374	命中注定我爱你 电视原声带		影视原声	128	2		0	0	%E5%85%83%E8%8B%A5%E8%93%9D - 99%E6%AC%A1%E6%88%91%E7%88%B1%E4%BB%96%E3%80%90%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E6%88%91%E7%88%B1%E4%BD%A0%E3%80%91.mp3	mp3 l3v1	Other			0	1387729316	214	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	3433996	1	99次我爱他	0		0
+89	1387725374	更多音乐访问：www.mp3mp5.com		mp3mp5.com	128	2	mp3下载网 http://www.mp3mp5.com	0	0	%E5%85%83%E8%8B%A5%E8%93%9D - %E5%8D%8A%E6%83%85%E6%AD%8C%E3%80%90%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E6%88%91%E7%88%B1%E4%BD%A0%E3%80%91.mp3	mp3 l3v1	mp3mp5.com			0	0	305	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	4886528	0	爱上琉璃苣女孩插曲 )	3		2008
+90	1387725374	First Time		无印良品	128	2	365¼ÑÒôÍø--Music.gz365.net	0	0	%E5%85%89%E8%89%AF - %E7%AC%AC%E4%B8%80%E6%AC%A1.mp3	mp3 l3v1	Pop			0	0	260	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	4162979	0	第一次（光良）	0		2002
+91	1387725374	二月份最新单曲推荐(2006)		光良	128	2		0	0	%E5%85%89%E8%89%AF - %E7%BA%A6%E5%AE%9A.mp3	mp3 l3v1				0	0	234	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	3754523	0	约定	0		0
+92	1387725374	永远的永远		关喆	170	2	oimp3.com	0	0	%E5%85%B3%E5%96%86 - %E6%83%B3%E4%BD%A0%E7%9A%84%E5%A4%9C.mp3	mp3 l3v1	Pop			0	0	266	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	5659115	0	02.想你的夜	2		2009
+93	1387725374				128	2		0	0	%E5%85%B3%E8%AF%97%E6%95%8F%E3%80%81%E9%99%B6%E5%96%86 - %E5%A5%BD%E5%A5%BD%E8%AF%B4%E5%86%8D%E8%A7%81.mp3	mp3 l3v1				0	0	249	0	0	1375614458	/home/fighting/Music	0		0	0	0	0	44100	3977215	0		0		0
+94	1387725374	如果...阳光．雨（新曲+精选）		冯曦妤	128	2		0	0	%E5%86%AF%E6%9B%A6%E5%A6%A4 - %E5%A6%82%E6%9E%9C%E2%80%A6%E9%98%B3%E5%85%89(%E9%98%B3%E5%85%89%E6%9F%A0%E6%AA%AC%E8%8C%B6%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E4%B8%BB%E9%A2%98%E6%9B%B2).mp3	mp3 l3v1				0	0	181	0	0	1380115595	/home/fighting/Music	0		0	0	0	0	44100	2903281	0	如果…阳光(阳光柠檬茶电视广告主题曲)	0		0
+95	1387725374	古剑奇谭同人歌曲		凌之轩 梦岚	320	2	Mu23185007SL	0	0	%E5%87%8C%E4%B9%8B%E8%BD%A9 %E6%A2%A6%E5%B2%9A-%E9%9B%AA%E8%AF%89%E7%A6%BB%E6%AD%8C.mp3	mp3 l3v1	Other			0	0	199	0	0	1380115596	/home/fighting/Music	0		0	0	0	0	44100	7980898	0	雪诉离歌	0		2011
+96	1387725374	微笑的鱼		几米	128	2		0	0	%E5%87%A0%E7%B1%B3 - %E6%8B%A5%E6%9C%89.mp3	mp3 l3v1				0	0	85	0	0	1380115596	/home/fighting/Music	0		0	0	0	0	44100	1375291	0	拥有	0		0
+97	1387725374	齐天大圣孙悟空片头曲		张卫健刘德华	128	2		0	0	%E5%88%98%E5%BE%B7%E5%8D%8E%E3%80%81%E5%BC%A0%E5%8D%AB%E5%81%A5 - %E9%AB%98%E9%AB%98%E5%9C%A8%E4%B8%8B%E3%80%90%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3%E5%AD%99%E6%82%9F%E7%A9%BA%E3%80%91.mp3	mp3 l3v1				0	0	210	0	0	1380115596	/home/fighting/Music	0		0	0	0	0	44100	3364061	0	高高在下	1		2002
+98	1387725374	奋斗		刘沁	128	2		0	0	%E5%88%98%E6%B2%81 - %E6%88%91%E5%BE%88%E5%A5%BD%EF%BC%88%E5%A5%8B%E6%96%97%E6%8F%92%E6%9B%B2%EF%BC%89.mp3	mp3 l3v1				1387728958	1387729214	245	0	0	1380115596	/home/fighting/Music	12	100	0	0	0	0	44100	3944041	3	我很好（奋斗插曲）	0		0
+99	1387725374			刘若英	128	2		0	0	%E5%88%98%E8%8B%A5%E8%8B%B1 - %E6%88%91%E4%BB%AC%E6%B2%A1%E6%9C%89%E5%9C%A8%E4%B8%80%E8%B5%B7.mp3	mp3 l3v1	Pop			0	0	286	0	0	1380115596	/home/fighting/Music	0		0	0	0	0	44100	4577280	0	我们没有在一起(偷心大圣男PS 片	0		2010
+100	1387725374			刘诗诗	128	2		0	0	%E5%88%98%E8%AF%97%E8%AF%97 - %E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83.mp3	mp3 l3v1				0	0	119	0	0	1380115596	/home/fighting/Music	0		0	0	0	0	48000	1899520	0	步步惊心	0		0
+101	1387725374			初恋这件小事	160	2	Mu23917638SL	0	0	%E5%88%9D%E6%81%8B%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B-%E7%88%B1%E4%BD%A0%E4%BD%86%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93.mp3	mp3 l3v1				0	0	221	0	0	1380115596	/home/fighting/Music	0		0	0	0	0	44100	4435309	0	初恋这件小事-爱你但你不知道	0		0
+102	1387725374				124	2		0	0	%E5%8A%A0%E8%97%A4%E3%83%9F%E3%83%AA%E3%83%A4 - Love Is....mp3	mp3 l3v1				0	1387725971	287	0	0	1375597090	/home/fighting/Music	0		0	0	0	0	44100	4443801	1		0		0
+103	1387725374			动力火车	128	2		0	0	%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6 - %E5%BD%93.mp3	mp3 l3v1				0	0	293	0	0	1380115596	/home/fighting/Music	0		0	0	0	0	44100	4671488	0	还珠格格主题曲	0		0
+104	1387725375	AIR Original SoundTrack DISC1		动漫原声	320	2		0	0	%E5%8A%A8%E6%BC%AB%E5%8E%9F%E5%A3%B0 - %E9%B8%9F%E4%B9%8B%E8%AF%97.mp3	mp3 l3v1				0	0	368	0	0	1380115596	/home/fighting/Music	0		0	0	0	0	44100	14724801	0	鸟之诗	0		0
+105	1387725375	初恋这件小事		初恋这件小事	128	2		0	0	%E5%8E%9F%E5%A3%B0%E5%B8%A6 - %E4%BC%9A%E6%9C%89%E9%82%A3%E4%B9%88%E4%B8%80%E5%A4%A9%E3%80%90%E5%88%9D%E6%81%8B%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B%E3%80%91.mp3	mp3 l3v1				0	0	316	0	0	1380115597	/home/fighting/Music	0		0	0	0	0	44100	5080675	0	会有那么一天	0		0
+106	1387725375	初恋这件小事		初恋这件小事	128	2		0	0	%E5%8E%9F%E5%A3%B0%E5%B8%A6 - %E5%88%9D%E6%81%8B%E3%80%90%E5%88%9D%E6%81%8B%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B%E3%80%91.mp3	mp3 l3v1				0	0	253	0	0	1380115597	/home/fighting/Music	0		0	0	0	0	44100	4058335	0	初恋	0		0
+107	1387725375	初恋这件小事		初恋这件小事	128	2		0	0	%E5%8E%9F%E5%A3%B0%E5%B8%A6 - %E5%BF%83%E7%9A%84%E5%8F%AC%E5%94%A4%E3%80%90%E5%88%9D%E6%81%8B%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B%E3%80%91.mp3	mp3 l3v1				0	0	248	0	0	1380115597	/home/fighting/Music	0		0	0	0	0	44100	3984362	0	心的召唤	0		0
+108	1387725375				128	2		0	0	%E5%8F%A4%E5%B7%A8%E5%9F%BA - %E4%B9%89%E6%B5%B7%E8%B1%AA%E6%83%85%E3%80%90%E5%B7%BE%E5%B8%BC%E6%9E%AD%E9%9B%84%E3%80%91.mp3	mp3 l3v1				0	0	216	0	0	1380115597	/home/fighting/Music	0		0	0	0	0	44100	3457974	0		0		0
+109	1387725375	恋恋情深		古巨基	128	2		0	0	%E5%8F%A4%E5%B7%A8%E5%9F%BA - %E5%A5%BD%E6%83%B3%E5%A5%BD%E6%83%B3%E3%80%90%E6%83%85%E6%B7%B1%E6%B7%B1%E9%9B%A8%E6%BF%9B%E6%BF%9B%E3%80%91.mp3	mp3 l3v1				0	0	217	0	0	1380115598	/home/fighting/Music	0		0	0	0	0	44100	3481709	0	好想好想	0		0
+110	1387725375	可米小子-Hey Hah		可米小子	128	2		0	0	%E5%8F%AF%E7%B1%B3%E5%B0%8F%E5%AD%90 - %E6%B1%82%E7%88%B1%E5%A4%8D%E5%88%BB%E7%89%88.mp3	mp3 l3v1	Other			0	0	256	0	0	1380115598	/home/fighting/Music	0		0	0	0	0	44100	4104353	0	求爱复刻版	2		0
+111	1387725375	Good Bye		可米小子	128	2		0	0	%E5%8F%AF%E7%B1%B3%E5%B0%8F%E5%AD%90 - %E9%9D%92%E6%98%A5%E7%BA%AA%E5%BF%B5%E5%86%8C.mp3	mp3 l3v1	Other			0	0	312	0	0	1380115598	/home/fighting/Music	0		0	0	0	0	44100	4997999	0	青春纪念册	0		0
+112	1387725375				128	2		0	0	%E5%90%8C%E6%81%A9 - %E4%B8%80%E5%B8%98%E5%B9%BD%E6%A2%A6.mp3	mp3 l3v1				0	0	231	0	0	1375632500	/home/fighting/Music	0		0	0	0	0	44100	3694758	0		0		0
+113	1387725375	旧情人老情歌		吕方	128	2	Winson Mak's Lost Paradise	0	0	%E5%90%95%E6%96%B9 - %E6%9C%8B%E5%8F%8B%E5%88%AB%E5%93%AD.mp3	mp3 l3v1	Pop			0	0	251	0	0	1380115598	/home/fighting/Music	0		0	0	0	0	44100	4001792	0	朋友别哭	3		2001
+114	1387725375	2012年01月新歌速递		吴卓羲 钟嘉欣	128	2		0	0	%E5%90%B4%E5%8D%93%E7%BE%B2%E3%80%81%E9%92%9F%E5%98%89%E6%AC%A3 - %E4%BC%A4%E5%9F%8E%E8%AE%B0%E3%80%90%E7%BC%BA%E5%AE%85%E7%94%B7%E5%A5%B3%E3%80%91.mp3	mp3 l3v1				0	0	285	0	0	1380115598	/home/fighting/Music	0		0	0	0	0	44100	4558032	0	伤城记	0		0
+115	1387725375	新白发魔女传 电视原声带		吴奇隆	128	2		0	0	%E5%90%B4%E5%A5%87%E9%9A%86 - %E7%95%99%E9%A6%99.mp3	mp3 l3v1				0	0	197	0	0	1380115598	/home/fighting/Music	0		0	0	0	0	44100	3159583	0	留香	0		0
+116	1387725375	天籁村		宝丽金	128	2	http://tdk.126.com	0	0	%E5%91%A8%E5%8D%8E%E5%81%A5 - %E6%9C%8B%E5%8F%8B.mp3	mp3 l3v1	Pop			0	0	314	0	0	1380115598	/home/fighting/Music	0		0	0	0	0	44100	5023596	0	朋友	0		1999
+117	1387725375	雨人		周华健	128	2		0	0	%E5%91%A8%E5%8D%8E%E5%81%A5 - %E9%9B%A8%E4%BA%BA.mp3	mp3 l3v1				0	0	246	0	0	1380115598	/home/fighting/Music	0		0	0	0	0	44100	3937972	0	雨人	0		0
+118	1387725375			周杰伦	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E4%B8%80%E8%B7%AF%E5%90%91%E5%8C%97%E3%80%90%E5%A4%B4%E6%96%87%E5%AD%97D%E3%80%91.mp3	mp3 l3v1	Other			0	0	294	0	0	1380115598	/home/fighting/Music	0		0	0	0	0	44100	4710783	0	一路向北(电影《头文字D》主题曲)	0		0
+119	1387725375	不能说的秘密 (试听版)		周杰伦	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86%E3%80%90%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86%E3%80%91.mp3	mp3 l3v1	Other			0	0	283	0	0	1380115599	/home/fighting/Music	0		0	0	0	0	44100	4533568	0	不能说的秘密	0		0
+120	1387725375				128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E5%93%AA%E9%87%8C%E9%83%BD%E6%98%AF%E4%BD%A0%E3%80%90%E5%A4%A9%E5%8F%B0%E7%88%B1%E6%83%85%E3%80%91.mp3	mp3 l3v1				0	0	279	0	0	1375593262	/home/fighting/Music	0		0	0	0	0	44100	4463385	0		0		0
+121	1387725375	八度空间		周杰伦	128	2	http://music.jl.cninfo.net	0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E5%9B%9E%E5%88%B0%E8%BF%87%E5%8E%BB.mp3	mp3 l3v1	Pop			0	0	232	0	0	1380115599	/home/fighting/Music	0		0	0	0	0	44100	3706880	0	回到过去	8		2002
+122	1387725375	天台 电影原声带		周杰伦	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E5%A4%A7%E6%98%8E%E6%98%9F(Feat.%E6%9F%AF%E6%9C%89%E4%BC%A6%E3%80%81%E5%AE%8B%E5%81%A5%E5%BD%B0%E3%80%81%E4%BA%8E%E5%86%A0%E5%8D%8E%E3%80%81%E8%94%A1%E6%9C%9D%E5%8D%8E%E3%80%81%E7%BD%97%E6%96%87%E8%A3%95)%E3%80%90%E5%A4%A9%E5%8F%B0%E7%88%B1%E6%83%85%E3%80%91.mp3	mp3 l3v1				0	0	88	0	0	1380115599	/home/fighting/Music	0		0	0	0	0	44100	1416686	0	大明星 (feat. 柯有伦, 宋健彰, 于冠华, 蔡朝华 & 罗文裕)	0		0
+123	1387725375	天台 电影原声带		周杰伦	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E5%A4%A9%E5%8F%B0(Feat.%E6%9F%AF%E6%9C%89%E4%BC%A6%E3%80%81%E5%BE%90%E5%B8%86)%E3%80%90%E5%A4%A9%E5%8F%B0%E7%88%B1%E6%83%85%E3%80%91.mp3	mp3 l3v1				0	0	106	0	0	1380115599	/home/fighting/Music	0		0	0	0	0	44100	1703404	0	天台 (feat. 柯有伦, 徐帆 & 群星)	0		0
+124	1387725375	跨时代		周杰伦	128	2	ËÑÀ²Ep bbs.sosolala.com	0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81.mp3	mp3 l3v1	Other			0	0	252	0	0	1380115599	/home/fighting/Music	0		0	0	0	0	44100	4021379	0	好久不见	5		0
+125	1387725375	我很忙 搜啦EP - 全球华语Demo音乐网 www.sosolala.com		周杰伦	128	2	ËÑÀ²EP - È«Çò»ªÓïDemoÒôÀÖÍø www.sosolala.com	0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E5%BD%A9%E8%99%B9%E3%80%90%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86%E3%80%91.mp3	mp3 l3v1	Other			0	0	264	0	0	1380115599	/home/fighting/Music	0		0	0	0	0	44100	4223671	0	彩虹	2		2007
+126	1387725375	跨时代		周杰伦	128	2	ËÑÀ²EP bbs.sosolala.com	0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E6%88%91%E8%90%BD%E6%B3%AA%E6%83%85%E7%BB%AA%E9%9B%B6%E7%A2%8E.mp3	mp3 l3v1	Other			0	0	258	0	0	1380115599	/home/fighting/Music	0		0	0	0	0	44100	4117295	0	我落泪情绪零碎	7		0
+127	1387725375	天台 电影原声带		周杰伦	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E6%89%93%E6%9E%B6%E8%88%9E(Feat.%E6%9F%AF%E6%9C%89%E4%BC%A6%E3%80%81%E5%AE%8B%E5%81%A5%E5%BD%B0%E3%80%81%E9%BB%84%E4%BF%8A%E9%83%8E)%E3%80%90%E5%A4%A9%E5%8F%B0%E7%88%B1%E6%83%85%E3%80%91.mp3	mp3 l3v1				0	0	68	0	0	1380115599	/home/fighting/Music	0		0	0	0	0	44100	1091093	0	打架舞 (feat. 柯有伦, 宋健彰 & 黄俊郎)	0		0
+128	1387725375				192	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E6%98%8E%E6%98%8E%E5%B0%B1.mp3	mp3 l3v1				0	0	258	0	0	1356520020	/home/fighting/Music	0		0	0	0	0	44100	6193527	0		0		0
+129	1387725375	叶惠美		周杰伦	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E6%99%B4%E5%A4%A9.mp3	mp3 l3v1	Pop			0	0	269	0	0	1380115600	/home/fighting/Music	0		0	0	-6.98	1.14925	44100	4308215	0	晴天	3		2003
+130	1387725375	我很忙		周杰伦	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E6%9C%80%E9%95%BF%E7%9A%84%E7%94%B5%E5%BD%B1.mp3	mp3 l3v1				0	0	237	0	0	1380115600	/home/fighting/Music	0		0	0	0	0	44100	3801553	0	最长的电影	0		0
+131	1387725375	超时代演唱会		周杰伦	187	2	www.91ting.com	0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E7%A8%BB%E9%A6%99 (Live).mp3	mp3 l3v1	Pop			0	0	223	0	0	1380115600	/home/fighting/Music	0		0	0	0	0	44100	5204460	0	稻香	12		2011
+132	1387725375				192	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E7%BA%A2%E5%B0%98%E5%AE%A2%E6%A0%88.mp3	mp3 l3v1				0	0	276	0	0	1356519404	/home/fighting/Music	0		0	0	0	0	44100	6616084	0		0		0
+133	1387725375	2199 依然范特西		浅蓝色[剪接处理]	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E8%8F%8A%E8%8A%B1%E5%8F%B0%E3%80%90%E6%BB%A1%E5%9F%8E%E5%B0%BD%E5%B8%A6%E9%BB%84%E9%87%91%E7%94%B2%E3%80%91.mp3	mp3 l3v1				0	0	294	0	0	1380115600	/home/fighting/Music	0		0	0	0	0	44100	4706723	0		10		2006
+134	1387725375	我很忙 搜啦EP - 全球华语Demo音乐网 www.sosolala.com		周杰伦	128	2	ËÑÀ²EP - È«Çò»ªÓïDemoÒôÀÖÍø www.sosolala.com	0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E8%92%B2%E5%85%AC%E8%8B%B1%E7%9A%84%E7%BA%A6%E5%AE%9A%E3%80%90%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86%E3%80%91.mp3	mp3 l3v1	Other			0	0	247	0	0	1380115600	/home/fighting/Music	0		0	0	0	0	44100	3958784	0	蒲公英的约定	5		2007
+135	1387725375			周杰伦	192	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E8%BD%A8%E8%BF%B9.mp3	mp3 l3v1				0	0	322	0	0	1380115600	/home/fighting/Music	0		0	0	0	0	44100	7724124	0	轨迹	0		0
+136	1387725375	霍元甲 EP		周杰伦	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E9%9C%8D%E5%85%83%E7%94%B2%E3%80%90%E9%9C%8D%E5%85%83%E7%94%B2%E3%80%91.mp3	mp3 l3v1				0	0	278	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	4489834	0	霍元甲（霍元甲 电影主题曲）	0		0
+137	1387725375	÷ÈÖ®ÒôÏÂÔØÁ¬Ëø£º15017441131°¢Ì		÷ÈÖ®ÒôÏÂÔØÁ¬Ëø£º15017441131°¢Ì	128	2	÷ÈÖ®Òô×¨ÒµÊÖ»úÏÂÔØÁ¬Ëø  ±¾×¨	0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E9%A3%98%E7%A7%BB%E3%80%90%E5%A4%B4%E6%96%87%E5%AD%97D%E3%80%91.mp3	mp3 l3v1	下载连锁：15017441131			0	0	188	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	3017549	0	÷ÈÖ®ÒôÏÂÔØÁ¬Ëø£º15017441131°¢Ì	16		2008
+138	1387725375	黄金甲EP		周杰伦	128	2		0	0	%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E9%BB%84%E9%87%91%E7%94%B2%E3%80%90%E6%BB%A1%E5%9F%8E%E5%B0%BD%E5%B8%A6%E9%BB%84%E9%87%91%E7%94%B2%E3%80%91.mp3	mp3 l3v1				0	0	215	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	3458281	0	黄金甲EP	0		0
+139	1387725375	画情		姚贝娜	128	2	ting.baidu.com	0	0	%E5%A7%9A%E8%B4%9D%E5%A8%9C - %E7%94%BB%E6%83%85%E3%80%90%E7%94%BB%E7%9A%AE2%E3%80%91.mp3	mp3 l3v1				0	0	326	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	5289544	0	画情	0		2012
+140	1387725375	甄嬛传原声大碟		姚贝娜	128	2	ting.baidu.com	0	0	%E5%A7%9A%E8%B4%9D%E5%A8%9C - %E7%BA%A2%E9%A2%9C%E5%8A%AB%E3%80%90%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%91.mp3	mp3 l3v1				0	0	168	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	2750138	0	红颜劫	0		2012
+141	1387725375	毕业声		孙子涵	128	2		0	0	%E5%AD%99%E5%AD%90%E6%B6%B5 - %E6%AF%95%E4%B8%9A%E5%90%8E%E4%BD%A0%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84.mp3	mp3 l3v1				0	0	268	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	4294345	0	毕业后你不是我的	0		0
+142	1387725375	南极光		孙楠	128	2	http://mp3.attin.com	0	0	%E5%AD%99%E6%A5%A0 - %E4%BD%A0%E5%BF%AB%E5%9B%9E%E6%9D%A5%E3%80%90%E6%B0%B8%E4%B8%8D%E7%9E%91%E7%9B%AE%E3%80%91.mp3	mp3 l3v1				0	0	267	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	4269361	0	你快回来	0		2000
+143	1387725375	2000爱的精彩		孙楠	128	2	http://ahnan.net	0	0	%E5%AD%99%E6%A5%A0 - %E6%97%A0%E6%84%A7%E4%BA%8E%E5%BF%83%E3%80%90%E5%B0%91%E5%B9%B4%E5%8C%85%E9%9D%92%E5%A4%A9%E3%80%91.mp3	mp3 l3v1				0	0	265	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	4241999	0	无愧于心（电视剧少年包青天主题	0		2000
+144	1387725375	逆光		孙燕姿	128	2	[www.needpop.com]至爱音乐论坛	0	0	%E5%AD%99%E7%87%95%E5%A7%BF - %E6%88%91%E6%80%80%E5%BF%B5%E7%9A%84.mp3	mp3 l3v1				0	0	270	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	4323456	0	我怀念的	0		0
+145	1387725375	赤沙印记 四叶草2		孙燕姿	128	2		0	0	%E5%AD%99%E7%87%95%E5%A7%BF - %E9%81%87%E8%A7%81.mp3	mp3 l3v1				0	0	211	0	0	1380115601	/home/fighting/Music	0		0	0	0	0	44100	3378290	0	遇见	0		0
+146	1387725375			孙燕姿-	320	2	Mu11020975SL1029181	0	0	%E5%AD%99%E7%87%95%E5%A7%BF-%E9%81%87%E8%A7%81.mp3	mp3 l3v1				0	0	208	0	0	1350702306	/home/fighting/Music	0		0	0	0	0	44100	8329293	0	遇见.mp3	0		0
+147	1387725375	First Love		宇多田光	128	2	¿á¹·ÒôÀÖ	0	0	%E5%AE%87%E5%A4%9A%E7%94%B0%E5%85%89 - First Love.mp3	mp3 l3v1				0	0	256	0	0	1380115602	/home/fighting/Music	0		0	0	0	0	44100	4094235	0	First Love	0		0
+148	1387725375	Tomohisa.Okudo宫崎骏动画钢琴合集		宫崎骏	128	2	Mu21174813SL	0	0	%E5%AE%AB%E5%B4%8E%E9%AA%8F-The rose.mp3	mp3 l3v1	Other			0	0	233	0	0	1380115602	/home/fighting/Music	0		0	0	0	0	44100	3741405	0	The rose	32		0
+149	1387725375			音频怪物&小W	320	2	Mu22762270SL1546520	0	0	%E5%B0%8FW%26%E9%9F%B3%E9%A2%91%E6%80%AA%E7%89%A9-%E7%9B%B8%E6%80%9D%E5%B1%80.mp3	mp3 l3v1	Other			0	0	240	0	0	1380115602	/home/fighting/Music	0		0	0	0	0	44100	9778585	0	相思局	192		0
+150	1387725375	BEST精选		小虎队	128	2	http://music.fanso.com	0	0	%E5%B0%8F%E8%99%8E%E9%98%9F - %E5%86%8D%E8%A7%81.mp3	mp3 l3v1	Pop			0	0	243	0	0	1380115603	/home/fighting/Music	0		0	0	0	0	44100	3889018	0	再见	0		2000
+151	1387725375				128	2		0	0	%E5%B0%8F%E8%99%8E%E9%98%9F - %E7%A5%9D%E4%BD%A0%E4%B8%80%E8%B7%AF%E9%A1%BA%E9%A3%8E.mp3	mp3 l3v1				0	0	256	0	0	1375608124	/home/fighting/Music	0		0	0	0	0	44100	4092946	0		0		0
+152	1387725375	我是小贱 EP		小贱&星弟	128	2		0	0	%E5%B0%8F%E8%B4%B1%26%E6%98%9F%E5%BC%9F - %E5%BD%93%E6%88%91%E5%94%B1%E8%B5%B7%E8%BF%99%E9%A6%96%E6%AD%8C.mp3	mp3 l3v1				1387729325	0	236	0	0	1380115603	/home/fighting/Music	1		0	0	0	0	44100	3798601	0	当我唱起这首歌	0		0
+153	1387725375	qq:136387		小兽推荐	192	2		0	0	%E5%B0%8F%E8%B4%B1%E3%80%81%E6%98%9F%E5%BC%9F - %E5%BD%93%E6%88%91%E5%94%B1%E8%B5%B7%E8%BF%99%E9%A6%96%E6%AD%8C.mp3	mp3 l3v1	Other			0	0	236	0	0	1380115603	/home/fighting/Music	0		0	0	0	0	44100	5673276	0	当我唱起这首歌	0		0
+154	1387725375	深情密码 (电视原声音乐)		庾澄庆	128	2		0	0	%E5%BA%BE%E6%BE%84%E5%BA%86 - %E9%9D%99%E9%9D%99%E7%9A%84%EF%BC%88%E6%B7%B1%E6%83%85%E5%AF%86%E7%A0%81 (%E7%94%B5%E8%A7%86%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90)%E6%8F%92%E6%9B%B2%EF%BC%89.mp3	mp3 l3v1				0	0	249	0	0	1380115603	/home/fighting/Music	0		0	0	0	0	44100	3993543	0	静静的（深情密码 (电视原声音乐)插曲）	0		0
+155	1387725375	穿越三部曲		张杰	128	2		0	0	%E5%BC%A0%E6%9D%B0 - %E4%BD%95%E5%BF%85%E5%9C%A8%E4%B8%80%E8%B5%B7.mp3	mp3 l3v1				0	0	275	0	0	1380115604	/home/fighting/Music	0		0	0	0	0	44100	4410062	0	何必在一起	0		0
+156	1387725375	ANG 5.0		张韶涵	128	2		0	0	%E5%BC%A0%E9%9F%B6%E6%B6%B5 - %E4%BA%B2%E7%88%B1%E7%9A%84%E9%82%A3%E4%B8%8D%E6%98%AF%E7%88%B1%E6%83%85.mp3	mp3 l3v1				0	0	257	0	0	1380115604	/home/fighting/Music	0		0	0	0	0	44100	4118498	0	亲爱的那不是爱情	0		0
+157	1387725375				192	2		0	0	%E5%BC%A0%E9%9F%B6%E6%B6%B5 - %E6%9C%89%E5%BD%A2%E7%9A%84%E7%BF%85%E8%86%80%E3%80%90%E4%BD%A0%E4%BB%AC%E6%98%AF%E5%8A%9B%E9%87%8F%EF%BC%8C%E9%9F%B3%E4%B9%90%E6%98%AF%E7%BF%85%E8%86%80%E3%80%91.mp3	mp3 l3v1				0	0	216	0	0	1356785374	/home/fighting/Music	0		0	0	0	0	44100	5186153	0		0		0
+158	1387725375			彭青	224	2	Mu21313012SL1134446	0	0	%E5%BD%AD%E9%9D%92-%E6%88%91%E5%8F%AA%E8%83%BD%E7%88%B1%E4%BD%A0(%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E6%8F%92%E6%9B%B2).mp3	mp3 l3v1				0	0	217	0	0	1380115604	/home/fighting/Music	0		0	0	0	0	44100	6075030	0	我只能爱你	0		0
+159	1387725376			手嶌葵	192	2	Mu21134388SL1513767	0	0	%E6%89%8B%E5%B6%8C%E8%91%B5-The Rose.mp3	mp3 l3v1				0	0	236	0	0	1380115604	/home/fighting/Music	0		0	0	0	0	44100	5675442	0	The Rose	0		0
+160	1387725376			曲婉婷	192	2		0	0	%E6%9B%B2%E5%A9%89%E5%A9%B7 - %E6%88%91%E7%9A%84%E6%AD%8C%E5%A3%B0%E9%87%8C.mp3	mp3 l3v1				0	0	214	0	0	1380115604	/home/fighting/Music	0		0	0	0	0	44100	5147192	0	我的歌声里	0		0
+161	1387725376	超级星光大道-林宥嘉		林宥嘉	224	2	Mu12788056SL1037007	0	0	%E6%9E%97%E5%AE%A5%E5%98%89-%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E7%9C%BC.mp3	mp3 l3v1				0	0	285	0	0	1380115604	/home/fighting/Music	0		0	0	0	0	44100	7976228	0	你是我的眼	0		0
+162	1387725376	至少还有你		林忆莲	128	2		0	0	%E6%9E%97%E5%BF%86%E8%8E%B2 - %E6%88%91%E5%9D%90%E5%9C%A8%E8%BF%99%E9%87%8C.mp3	mp3 l3v1				0	0	267	0	0	1380115605	/home/fighting/Music	0		0	0	0	0	44100	4287269	0	我坐在这里	0		0
+163	1387725376	愛久見人心		梁靜茹	236	2	Mu24968022SL1591045	0	0	%E6%A2%81%E9%9D%99%E8%8C%B9-%E4%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%84.mp3	mp3 l3v1				0	0	259	0	0	1380115606	/home/fighting/Music	0		0	0	0	0	44100	7665133	0	會過去的	4		2012
+164	1387725376	今天情人节		梁静茹	128	2		0	0	%E6%A2%81%E9%9D%99%E8%8C%B9 - %E6%A2%A6%E9%86%92%E6%97%B6%E5%88%86.mp3	mp3 l3v1				0	0	282	0	0	1380115606	/home/fighting/Music	0		0	0	0	0	44100	4537038	0	梦醒时分	0		0
+165	1387725376	三寸天堂（电视剧《步步惊心》片尾曲）		严艺丹	128	2	Mu23784521SL	0	0	%E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83 %E4%B8%89%E5%AF%B8%E5%A4%A9%E5%A0%82%E5%AE%8C%E6%95%B4%E7%89%88.mp3	mp3 l3v1				0	0	289	0	0	1380115606	/home/fighting/Music	0		0	0	0	0	44100	4629285	0	三寸天堂（电视剧《步步惊心》片尾曲）	0		0
+166	1387725376	怒放的生命		汪峰	128	2		0	0	%E6%B1%AA%E5%B3%B0 - %E6%80%92%E6%94%BE%E7%9A%84%E7%94%9F%E5%91%BD.mp3	mp3 l3v1				0	0	275	0	0	1380115606	/home/fighting/Music	0		0	0	0	0	44100	4418087	0	怒放的生命	0		0
+167	1387725376	怒放的生命		汪峰	128	2		0	0	%E6%B1%AA%E5%B3%B0 - %E6%80%92%E6%94%BE%E7%9A%84%E7%94%9F%E5%91%BD(1).mp3	mp3 l3v1				0	0	275	0	0	1380115606	/home/fighting/Music	0		0	0	0	0	44100	4418087	0	怒放的生命	0		0
+168	1387725376	怒放的生命		汪峰	320	2	Mu11055200SL1087719	0	0	%E6%B1%AA%E5%B3%B0-%E6%80%92%E6%94%BE%E7%9A%84%E7%94%9F%E5%91%BD.mp3	mp3 l3v1	Other			0	0	275	0	0	1380115607	/home/fighting/Music	0		0	0	0	0	44100	11011454	0	怒放的生命	32		0
+169	1387725376	火力全开 新歌 精选		王力宏	128	2		0	0	%E7%8E%8B%E5%8A%9B%E5%AE%8F - %E4%BE%9D%E7%84%B6%E7%88%B1%E4%BD%A0.mp3	mp3 l3v1				0	0	246	0	0	1380115608	/home/fighting/Music	0		0	0	0	0	44100	3953704	0	依然爱你	0		0
+170	1387725376	十八般武艺		王力宏	128	2		0	0	%E7%8E%8B%E5%8A%9B%E5%AE%8F - %E9%9C%80%E8%A6%81%E4%BA%BA%E9%99%AA.mp3	mp3 l3v1				0	0	251	0	0	1380115608	/home/fighting/Music	0		0	0	0	0	44100	4033753	0	需要人陪	0		0
+171	1387725376	你王菲所以我王菲 (disc 1)		王菲	128	2		0	0	%E7%8E%8B%E8%8F%B2 - %E6%80%80%E5%BF%B5.mp3	mp3 l3v1				0	0	200	0	0	1380115613	/home/fighting/Music	0		0	0	0	0	44100	3218846	0	怀念	0		0
+172	1387725376	2011年8月新歌速递2		群星	128	2		0	0	%E7%BE%A4%E6%98%9F - %E6%A2%A6%E6%83%B3%EF%BC%88%E8%83%A1%E5%A4%8F %E4%BB%98%E8%BE%9B%E5%8D%9A %E9%99%88%E7%BF%94 %EF%BC%89.mp3	mp3 l3v1				0	0	281	0	0	1380115614	/home/fighting/Music	0		0	0	0	0	44100	4513558	0	梦想（胡夏 付辛博 陈翔 ）	0		0
+173	1387725376	RADIO HITS J-POP PUNK-COVERS		群星	128	2		0	0	%E7%BE%A4%E6%98%9F - %E7%B2%89%E9%9B%AA(%E3%83%AC%E3%83%9F%E3%82%AA%E3%83%AD%E3%83%A1%E3%83%B3).mp3	mp3 l3v1				0	0	326	0	0	1380115614	/home/fighting/Music	0		0	0	0	0	44100	5209630	0	粉雪(レミオロメン)	0		0
+174	1387725376	燃点		胡夏	128	2		0	0	%E8%83%A1%E5%A4%8F - %E5%BD%93%E4%BD%A0%E5%90%AC%E6%88%91%E8%AF%B4.mp3	mp3 l3v1				0	0	283	0	0	1380115614	/home/fighting/Music	0		0	0	0	0	44100	4535608	0	当你听我说	0		0
+175	1387725376	轩辕剑之天之痕		胡歌	128	2		0	0	%E8%83%A1%E6%AD%8C - %E4%B8%80%E5%90%BB%E5%A4%A9%E8%8D%92.mp3	mp3 l3v1				0	0	250	0	0	1380115614	/home/fighting/Music	0		0	0	0	0	44100	4012900	0	一吻天荒	0		0
+176	1387725376			胡歌	128	2		0	0	%E8%83%A1%E6%AD%8C - %E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83.mp3	mp3 l3v1				0	0	121	0	0	1380115614	/home/fighting/Music	0		0	0	0	0	44100	1947089	0	步步惊心	0		0
+177	1387725376	十年一刻		苏打绿	128	2		0	0	%E8%8B%8F%E6%89%93%E7%BB%BF - %E5%B0%8F%E6%83%85%E6%AD%8C(live%E7%89%88).mp3	mp3 l3v1				0	0	278	0	0	1380115614	/home/fighting/Music	0		0	0	0	0	44100	4467848	0	小情歌(live版)	0		0
+178	1387725376	无与伦比的美丽		苏打绿	128	2		0	0	%E8%8B%8F%E6%89%93%E7%BB%BF - %E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB.mp3	mp3 l3v1				0	0	297	0	0	1380115614	/home/fighting/Music	0		0	0	0	0	44100	4767841	0	简单生活	0		0
+179	1387725376	最初的梦想(新歌+精选)		范玮琪	224	2	Mu11007113SL1058966	0	0	%E8%8C%83%E7%8E%AE%E7%90%AA-%E6%9C%80%E5%88%9D%E7%9A%84%E6%A2%A6%E6%83%B3.mp3	mp3 l3v1				0	0	297	0	0	1380115614	/home/fighting/Music	0		0	0	0	0	44100	8312736	0	最初的梦想	0		0
+180	1387725376	陌生人		蔡健雅	128	2		0	0	%E8%94%A1%E5%81%A5%E9%9B%85 - %E9%99%8C%E7%94%9F%E4%BA%BA.mp3	mp3 l3v1				0	0	232	0	0	1380115615	/home/fighting/Music	0		0	0	0	0	44100	3725290	0	陌生人	0		0
+181	1387725376	爱 原色		袁惟仁	192	2		0	0	%E8%A2%81%E6%83%9F%E4%BB%81 - %E6%97%8B%E6%9C%A8.mp3	mp3 l3v1	Pop			0	0	262	0	0	1380115615	/home/fighting/Music	0		0	0	0	0	44100	6282461	0	旋木 (王菲)	16		2004
+182	1387725376	星月神话		金莎	128	2		0	0	%E9%87%91%E8%8E%8E - %E6%98%9F%E6%9C%88%E7%A5%9E%E8%AF%9D.mp3	mp3 l3v1				0	0	248	0	0	1380115615	/home/fighting/Music	0		0	0	0	0	44100	3978848	0	星月神话	0		0
+183	1387725376				0	0		0	0	%E9%99%88%E5%A5%95%E8%BF%85 - K%E6%AD%8C%E4%B9%8B%E7%8E%8B(%E7%B2%A4%E8%AF%AD%E7%89%88).mp3					0	0	0	0	0	1374678052	/home/fighting/Music	0		0	0	0	0	0	3557376	0		0		0
+184	1387725376	七		陈奕迅	192	2		0	0	%E9%99%88%E5%A5%95%E8%BF%85 - %E4%BD%A0%E7%9A%84%E8%83%8C%E5%8C%85.mp3	mp3 l3v1	Pop			0	0	238	0	0	1380115615	/home/fighting/Music	0		0	0	0	0	44100	5711872	0	你的背包	10		2003
+185	1387725376				0	0		0	0	%E9%99%88%E5%A5%95%E8%BF%85 - %E5%8D%81%E5%B9%B4.mp3					0	0	0	0	0	1374678050	/home/fighting/Music	0		0	0	0	0	0	4855808	0		0		0
+186	1387725376	LOVE情歌集		陈奕迅	320	2	Mu12774578SL1023027	0	0	%E9%99%88%E5%A5%95%E8%BF%85-%E6%B7%98%E6%B1%B0.mp3	mp3 l3v1				0	0	285	0	0	1380115616	/home/fighting/Music	0		0	0	0	0	44100	11414505	0	淘汰	0		0
+187	1387725376	后来 我们都哭了		陈珊妮	128	2		0	0	%E9%99%88%E7%8F%8A%E5%A6%AE - %E5%B0%8F%E7%81%B0%E5%B0%98(%E6%B8%85%E6%99%B0%E7%89%88).mp3	mp3 l3v1				0	0	274	0	0	1380115616	/home/fighting/Music	0		0	0	0	0	44100	4390642	0	小灰尘(清晰版)	0		0
+188	1387725376	精选		陈绮贞	128	2		0	0	%E9%99%88%E7%BB%AE%E8%B4%9E - %E4%B9%9D%E4%BB%BD%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97.mp3	mp3 l3v1				0	0	292	0	0	1380115616	/home/fighting/Music	0		0	0	0	0	44100	4676885	0	九份的咖啡店	0		0
+189	1387725376	华丽的冒险		陈绮贞	128	2		0	0	%E9%99%88%E7%BB%AE%E8%B4%9E - %E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E4%B9%89.mp3	mp3 l3v1				0	0	258	0	0	1380115616	/home/fighting/Music	0		0	0	0	0	44100	4142007	0	旅行的意义	0		0
+190	1387725376	甜蜜生活		魏如萱	128	2		0	0	%E9%AD%8F%E5%A6%82%E8%90%B1 - %E4%B8%80%E8%B5%B7%E5%8E%BB%E6%97%85%E8%A1%8C.mp3	mp3 l3v1				0	0	223	0	0	1380115616	/home/fighting/Music	0		0	0	0	0	44100	3577341	0	一起去旅行	0		0
+
+[album]
+album_picture
+\x00artist=胡歌	/home/fighting/Music/%E8%83%A1%E6%AD%8C - %E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83.mp3
+2011年8月新歌速递2\x00	/home/fighting/Music/%E7%BE%A4%E6%98%9F - %E6%A2%A6%E6%83%B3%EF%BC%88%E8%83%A1%E5%A4%8F %E4%BB%98%E8%BE%9B%E5%8D%9A %E9%99%88%E7%BF%94 %EF%BC%89.mp3
+ANG 5.0\x00	/home/fighting/Music/%E5%BC%A0%E9%9F%B6%E6%B6%B5 - %E4%BA%B2%E7%88%B1%E7%9A%84%E9%82%A3%E4%B8%8D%E6%98%AF%E7%88%B1%E6%83%85.mp3
+Best of Olivia\x00	/home/fighting/Music/Olivia Ong%EF%BC%88%E6%96%B0%E5%8A%A0%E5%9D%A1%EF%BC%89 - Sometimes When We Touch.mp3
+Curved Music II - CM Tracks of Joe Hisaishi\x00	/home/fighting/Music/%E4%B9%85%E7%9F%B3%E8%AE%A9 - Summer.mp3
+Fu Good 下一站 天后 自选＋精选\x00	/home/fighting/Music/%E4%B8%81%E5%BD%93 - %E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%8F%AF%E4%BB%A5.mp3
+Lenka\x00	/home/fighting/Music/Lenka - Like a Song.mp3
+Let’s Bobo\x00	/home/fighting/Music/BOBO - %E6%88%91%E5%8F%AA%E5%9C%A8%E4%B9%8E%E4%BD%A0.mp3
+Shin\x00	/home/fighting/Music/%E4%BF%A1%E4%B9%90%E5%9B%A2 - %E6%AD%BB%E4%BA%86%E9%83%BD%E8%A6%81%E7%88%B1.mp3
+Speak Now\x00	/home/fighting/Music/Taylor Swift - Long Live.mp3
+Wake up and Smell the Coffee\x00	/home/fighting/Music/The Cranberries - Never Grow Old.mp3
+二月份最新单曲推荐(2006)\x00	/home/fighting/Music/%E5%85%89%E8%89%AF - %E7%BA%A6%E5%AE%9A.mp3
+五月天你要去那里台湾巡回演唱会Live全纪录\x00	/home/fighting/Music/%E4%BA%94%E6%9C%88%E5%A4%A9 - %E7%BA%AF%E7%9C%9F.mp3
+今天情人节\x00	/home/fighting/Music/%E6%A2%81%E9%9D%99%E8%8C%B9 - %E6%A2%A6%E9%86%92%E6%97%B6%E5%88%86.mp3
+你王菲所以我王菲 (disc 1)\x00	/home/fighting/Music/%E7%8E%8B%E8%8F%B2 - %E6%80%80%E5%BF%B5.mp3
+初恋这件小事\x00	/home/fighting/Music/%E5%8E%9F%E5%A3%B0%E5%B8%A6 - %E5%BF%83%E7%9A%84%E5%8F%AC%E5%94%A4%E3%80%90%E5%88%9D%E6%81%8B%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B%E3%80%91.mp3
+十八般武艺\x00	/home/fighting/Music/%E7%8E%8B%E5%8A%9B%E5%AE%8F - %E9%9C%80%E8%A6%81%E4%BA%BA%E9%99%AA.mp3
+十年一刻\x00	/home/fighting/Music/%E8%8B%8F%E6%89%93%E7%BB%BF - %E5%B0%8F%E6%83%85%E6%AD%8C(live%E7%89%88).mp3
+华丽的冒险\x00	/home/fighting/Music/%E9%99%88%E7%BB%AE%E8%B4%9E - %E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E4%B9%89.mp3
+后来 我们都哭了\x00	/home/fighting/Music/%E9%99%88%E7%8F%8A%E5%A6%AE - %E5%B0%8F%E7%81%B0%E5%B0%98(%E6%B8%85%E6%99%B0%E7%89%88).mp3
+壮志凌云\x00	/home/fighting/Music/Berlin - Take My Breath Away.mp3
+大过天\x00	/home/fighting/Music/Twins - %E5%A4%A7%E8%BF%87%E5%A4%A9.mp3
+奋斗\x00	/home/fighting/Music/%E5%88%98%E6%B2%81 - %E6%88%91%E5%BE%88%E5%A5%BD%EF%BC%88%E5%A5%8B%E6%96%97%E6%8F%92%E6%9B%B2%EF%BC%89.mp3
+如果...阳光．雨（新曲+精选）\x00	/home/fighting/Music/%E5%86%AF%E6%9B%A6%E5%A6%A4 - %E5%A6%82%E6%9E%9C%E2%80%A6%E9%98%B3%E5%85%89(%E9%98%B3%E5%85%89%E6%9F%A0%E6%AA%AC%E8%8C%B6%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E4%B8%BB%E9%A2%98%E6%9B%B2).mp3
+小红莓精选Best of the Cranberries 1\x00	/home/fighting/Music/The Cranberries - Dying In the Sun.mp3
+微笑的鱼\x00	/home/fighting/Music/%E5%87%A0%E7%B1%B3 - %E6%8B%A5%E6%9C%89.mp3
+怒放的生命\x00	/home/fighting/Music/%E6%B1%AA%E5%B3%B0 - %E6%80%92%E6%94%BE%E7%9A%84%E7%94%9F%E5%91%BD(1).mp3
+恋恋情深\x00	/home/fighting/Music/%E5%8F%A4%E5%B7%A8%E5%9F%BA - %E5%A5%BD%E6%83%B3%E5%A5%BD%E6%83%B3%E3%80%90%E6%83%85%E6%B7%B1%E6%B7%B1%E9%9B%A8%E6%BF%9B%E6%BF%9B%E3%80%91.mp3
+我很忙\x00	/home/fighting/Music/%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E6%9C%80%E9%95%BF%E7%9A%84%E7%94%B5%E5%BD%B1.mp3
+我是小贱 EP\x00	/home/fighting/Music/%E5%B0%8F%E8%B4%B1%26%E6%98%9F%E5%BC%9F - %E5%BD%93%E6%88%91%E5%94%B1%E8%B5%B7%E8%BF%99%E9%A6%96%E6%AD%8C.mp3
+新白发魔女传 电视原声带\x00	/home/fighting/Music/%E5%90%B4%E5%A5%87%E9%9A%86 - %E7%95%99%E9%A6%99.mp3
+无与伦比的美丽\x00	/home/fighting/Music/%E8%8B%8F%E6%89%93%E7%BB%BF - %E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB.mp3
+星月神话\x00	/home/fighting/Music/%E9%87%91%E8%8E%8E - %E6%98%9F%E6%9C%88%E7%A5%9E%E8%AF%9D.mp3
+毕业声\x00	/home/fighting/Music/%E5%AD%99%E5%AD%90%E6%B6%B5 - %E6%AF%95%E4%B8%9A%E5%90%8E%E4%BD%A0%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84.mp3
+深情密码 (电视原声音乐)\x00	/home/fighting/Music/%E5%BA%BE%E6%BE%84%E5%BA%86 - %E9%9D%99%E9%9D%99%E7%9A%84%EF%BC%88%E6%B7%B1%E6%83%85%E5%AF%86%E7%A0%81 (%E7%94%B5%E8%A7%86%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90)%E6%8F%92%E6%9B%B2%EF%BC%89.mp3
+火力全开 新歌 精选\x00	/home/fighting/Music/%E7%8E%8B%E5%8A%9B%E5%AE%8F - %E4%BE%9D%E7%84%B6%E7%88%B1%E4%BD%A0.mp3
+燃点\x00	/home/fighting/Music/%E8%83%A1%E5%A4%8F - %E5%BD%93%E4%BD%A0%E5%90%AC%E6%88%91%E8%AF%B4.mp3
+甄嬛传原声大碟\x00	/home/fighting/Music/%E5%A7%9A%E8%B4%9D%E5%A8%9C - %E7%BA%A2%E9%A2%9C%E5%8A%AB%E3%80%90%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%91.mp3
+甜蜜生活\x00	/home/fighting/Music/%E9%AD%8F%E5%A6%82%E8%90%B1 - %E4%B8%80%E8%B5%B7%E5%8E%BB%E6%97%85%E8%A1%8C.mp3
+生存之道 Fighting(超值庆功版)\x00	/home/fighting/Music/Tank - %E5%8D%83%E5%B9%B4%E6%B3%AA%E3%80%90%E5%A4%A9%E5%A4%96%E9%A3%9E%E4%BB%99%E3%80%91.mp3
+画情\x00	/home/fighting/Music/%E5%A7%9A%E8%B4%9D%E5%A8%9C - %E7%94%BB%E6%83%85%E3%80%90%E7%94%BB%E7%9A%AE2%E3%80%91.mp3
+穿越三部曲\x00	/home/fighting/Music/%E5%BC%A0%E6%9D%B0 - %E4%BD%95%E5%BF%85%E5%9C%A8%E4%B8%80%E8%B5%B7.mp3
+第二人生(明日版)\x00	/home/fighting/Music/%E4%BA%94%E6%9C%88%E5%A4%A9 - %E4%BB%93%E9%A2%89.mp3
+第二人生(末日版)\x00	/home/fighting/Music/%E4%BA%94%E6%9C%88%E5%A4%A9 - %E6%98%9F%E7%A9%BA(%E5%90%8C%E5%90%8D%E7%94%B5%E5%BD%B1%E4%B8%BB%E9%A2%98%E6%9B%B2).mp3
+精选\x00	/home/fighting/Music/%E9%99%88%E7%BB%AE%E8%B4%9E - %E4%B9%9D%E4%BB%BD%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97.mp3
+至少还有你\x00	/home/fighting/Music/%E6%9E%97%E5%BF%86%E8%8E%B2 - %E6%88%91%E5%9D%90%E5%9C%A8%E8%BF%99%E9%87%8C.mp3
+赤沙印记 四叶草2\x00	/home/fighting/Music/%E5%AD%99%E7%87%95%E5%A7%BF - %E9%81%87%E8%A7%81.mp3
+轩辕剑之天之痕\x00	/home/fighting/Music/%E8%83%A1%E6%AD%8C - %E4%B8%80%E5%90%BB%E5%A4%A9%E8%8D%92.mp3
+陌生人\x00	/home/fighting/Music/%E8%94%A1%E5%81%A5%E9%9B%85 - %E9%99%8C%E7%94%9F%E4%BA%BA.mp3
+霍元甲 EP\x00	/home/fighting/Music/%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E9%9C%8D%E5%85%83%E7%94%B2%E3%80%90%E9%9C%8D%E5%85%83%E7%94%B2%E3%80%91.mp3
+黄金甲EP\x00	/home/fighting/Music/%E5%91%A8%E6%9D%B0%E4%BC%A6 - %E9%BB%84%E9%87%91%E7%94%B2%E3%80%90%E6%BB%A1%E5%9F%8E%E5%B0%BD%E5%B8%A6%E9%BB%84%E9%87%91%E7%94%B2%E3%80%91.mp3
+
+[artist]
+artist_picture

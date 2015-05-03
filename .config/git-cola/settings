@@ -1,0 +1,42 @@
+{
+    "gui_state": {
+        "mainview": {
+            "lock_layout": false,
+            "height": 708,
+            "windowstate": "AAAA/wAAAAL9AAAAAwAAAAAAAAKqAAACqPwCAAAAAvsAAAAMAEMAbwBtAG0AaQB0AQAAABwAAADpAAAASwEAAAX7AAAACABEAGkAZgBmAQAAAQgAAAG8AAAAKQEAAAUAAAABAAACqQAAAqj8AgAAAAH7AAAADABTAHQAYQB0AHUAcwEAAAAcAAACqAAAAGwBAAAFAAAAAwAABVYAAAA2/AEAAAAB/AAAAAAAAAVWAAAAAAD////6/////wEAAAAC+wAAAA4AQQBjAHQAaQBvAG4AcwAAAAAA/////wAAAG8BAAAF+wAAAA4AQwBvAG4AcwBvAGwAZQAAAAAA/////wAAAHQBAAAFAAAAAAAAAqgAAAAEAAAABAAAAAgAAAAI/AAAAAA=",
+            "width": 1366,
+            "maximized": true,
+            "y": 39,
+            "x": 0
+        },
+        "comparebranchesdialog": {
+            "y": 39,
+            "x": 354,
+            "maximized": false,
+            "width": 658,
+            "height": 350
+        },
+        "dagview": {
+            "count": 1000,
+            "lock_layout": false,
+            "height": 708,
+            "windowstate": "AAAA/wAAAAH9AAAAAwAAAAAAAAKqAAAAyvwCAAAAAfsAAAAGAEwAbwBnAQAAABwAAADKAAAAdAEAAAUAAAABAAACqQAAAMr8AgAAAAH7AAAACgBHAHIAYQBwAGgBAAAAHAAAAMoAAABsAQAABQAAAAMAAAVWAAAB2/wBAAAAAfsAAAAIAEQAaQBmAGYBAAAAAAAABVYAAAHFAQAABQAAAAAAAADKAAAABAAAAAQAAAAIAAAACPwAAAAA",
+            "width": 1366,
+            "maximized": true,
+            "y": 36,
+            "x": -2
+        },
+        "preferencesview": {
+            "y": 105,
+            "x": 425,
+            "maximized": false,
+            "width": 600,
+            "height": 437
+        }
+    },
+    "bookmarks": [],
+    "recent": [
+        "/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00",
+        "/home/fighting/tmp/QGit-mod"
+    ]
+}

@@ -1,0 +1,242 @@
+[Carbon Copy Settings]
+CC app/plugin commands=false
+CC command output=true
+CC console commands=true
+CC enabled=false
+CC script commands=false
+
+[Command Editor Windows]
+Argument hinting enabled=true
+Autosave enabled=true
+Autosave interval=5
+Autosave keep saves=false
+Completion enabled=true
+Completion min chars=2
+Completion timeout=500
+Max number of recent files=10
+Script file filter=*.R *.S *.q *.Rhistory
+
+[Console Settings]
+add piped commands to history=1
+command history defaults to context sensitive=false
+history=use ggplot
+max console lines=500
+max history length=100
+pipe user commands through console=true
+save history=true
+
+[Editor]
+large object warning limit=250000
+
+[General]
+initial dir mode=0
+initial dir spec=
+show help on startup=true
+startup action=3
+
+[General Options]
+Geometry=1366,713
+
+[Graphics Device Windows]
+graphics_height=7
+graphics_hist_enable=true
+graphics_hist_max_length=20
+graphics_hist_max_plotsize=1024
+graphics_width=7
+kde printing=true
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[Internal]
+config file version=2
+previous runtime version=0.6.1
+
+[KFileDialog Settings]
+Height 768=660
+Width 1366=1056
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+BOM=false
+Backup Flags=0
+Backup Prefix=
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=false
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=2
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline At EOF=false
+No sync=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=false
+Search Dir Config Depth=9
+Show Spaces=false
+Show Tabs=true
+Smart Home=true
+Tab Handling=2
+Tab Width=8
+Word Wrap=false
+Word Wrap Column=80
+
+[Kate Part Defaults]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[Kate Renderer Defaults]
+Animate Bracket Matching=false
+Schema=Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[Kate Vi Input Mode Settings]
+Command Mode Mapping Keys=
+Command Mode Mappings=
+Command Mode Mappings Recursion=
+Insert Mode Mapping Keys=
+Insert Mode Mappings=
+Insert Mode Mappings Recursion=
+Macro Completions=
+Macro Contents=
+Macro Registers=
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+Normal Mode Mappings Recursion=
+Visual Mode Mapping Keys=
+Visual Mode Mappings=
+Visual Mode Mappings Recursion=
+
+[Kate View Defaults]
+Allow Mark Menu=true
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Default Mark Type=1
+Dynamic Word Wrap=false
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Indicators=1
+Folding Bar=true
+Icon Bar=false
+Keyword Completion=true
+Line Modification=false
+Line Numbers=false
+Maximum Search History Size=100
+Persistent Selection=false
+Replacement Text History=
+Scroll Bar Marks=false
+Scroll Bar Mini Map=false
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=60
+Scroll Past End=false
+Search Pattern History=
+Search/Replace Flags=140
+Show Scrollbars=0
+Smart Copy Cut=false
+Vi Input Mode=false
+Vi Input Mode Emulate Command Bar=false
+Vi Input Mode Steal Keys=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[Logfiles]
+logfile dir=/home/fighting/.rkward/
+
+[MDI]
+focus policy=0
+
+[Object Browser]
+package blacklist=GO
+show all environments=true
+show class field=true
+show container objects=true
+show function objects=true
+show hidden vars=false
+show label field=true
+show type field=true
+show variable objects=true
+
+[Output Window]
+auto_raise=true
+auto_show=true
+graphics_height=480
+graphics_jpg_quality=75
+graphics_type=NULL
+graphics_width=480
+
+[Plugin Settings]
+All known plugin maps=/usr/share/kde4/apps/rkward/all.pluginmap
+Code display default=false
+Code display size=250
+Interface Preferences=1
+
+[Plugin Settings][Known Plugin maps][/usr/share/kde4/apps/rkward/all.pluginmap]
+Active=true
+Broken=false
+Quirky=false
+id=rkward::all_rkward_plugins
+priority=2
+timestamp=2013,3,27,0,21,32
+
+[R Settings]
+CRAN mirror url=@CRAN@
+LibraryLocations=
+OutDec=.
+Repositories=http://rkward.sf.net/R/,http://rkward.sf.net/R/
+archive packages=false
+check.bounds=false
+digits=7
+editor=<rkward>
+expressions=5000
+further init commands=
+keep.source=true
+keep.source.pkgs=false
+maxprint=99999
+pager=<rkward>
+source_packages=true
+warn=0
+warnings.length=1000
+width=80
+
+[RInterface Watch Settings]
+app command filter=5
+max log lines=1000
+plugin command filter=5
+sync command filter=4
+user command filter=15
+
+[ToolwindowBars]
+view_size_0=200
+view_size_1=200
+view_size_2=200
+view_size_3=200
+
+[Workplace]
+cd to workspace on load=true
+save mode=0
+
+[file browser window]
+Decoration position=0
+Previews=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+View Style=Simple
+listViewIconSize=0
+
+[main window options]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAJ2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAFABtAGQAaQBUAG8AbwBsAEIAYQByAQAAAn//////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1367

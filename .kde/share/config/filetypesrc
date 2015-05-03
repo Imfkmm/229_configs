@@ -1,0 +1,6 @@
+[EmbedSettings]
+embed-application/vnd.openxmlformats-officedocument.presentationml.presentation=false
+embed-application/x-wine-extension-ini=false
+embed-text/x-markdown=false
+embed-text/x-tex=false
+embed-video/mp4=false

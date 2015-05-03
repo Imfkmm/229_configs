@@ -1,0 +1,11 @@
+[Containments][1][General]
+AppletOrder=2;3;13;14;5;6
+
+[PlasmaViews][Panel 13][Types::Vertical768]
+panelVisibility=0
+
+[PlasmaViews][Panel 15][Types::Vertical768]
+panelVisibility=0
+
+[PlasmaViews][Panel 19][Horizontal1920]
+thickness=35

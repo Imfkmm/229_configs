@@ -1,0 +1,13 @@
+[MainWindow]
+CommandList=
+Height 1080=667
+Height 768=457
+HostList=
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=808,555
+State=AAAA/wAAAAD9AAAAAAAABPwAAAJMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=906
+Width 1920=1276
+currentSheet=0
+isMinimized=false

@@ -1,0 +1,28 @@
+[$Version]
+update_info=kmail.upd:3.3-move-identities-to-own-file,kmail.upd:3.3-aegypten-emailidentities-split-sign-encr-keys
+
+[General]
+Default Identity=557444530
+
+[Identity #0]
+Attach Vcard=false
+Default Domain=229
+Dictionary=English (United States of America)
+Disable Fcc=false
+Drafts=6
+Email Address=fighting@zhangjun.xyz
+Email Aliases=
+Fcc=4
+Identity=zj
+Image Location=
+Inline Signature=
+Inlined Html=false
+Name=fighting
+Pgp Auto Sign=false
+Preferred Crypto Message Format=auto
+Signature Enabled=false
+Signature Type=inline
+Templates=8
+VCardFile=/home/fighting/.kde/share/apps/kmail2/zj.vcf
+X-FaceEnabled=false
+uoid=557444530

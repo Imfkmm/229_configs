@@ -1,0 +1,30 @@
+VirtualBox XPCOM Server 4.3.20 r96996 linux.amd64 (Nov 21 2014 14:43:48) release log
+00:00:00.000447 main     Log opened 2015-03-23T13:18:11.834898000Z
+00:00:00.000452 main     Build Type: release
+00:00:00.000462 main     OS Product: Linux
+00:00:00.000465 main     OS Release: 3.13.0-46-generic
+00:00:00.000468 main     OS Version: #79-Ubuntu SMP Tue Mar 10 20:06:50 UTC 2015
+00:00:00.000524 main     DMI Product Name: Satellite L700
+00:00:00.000543 main     DMI Product Version: PSK12Q-00V006
+00:00:00.000735 main     Host RAM: 5950MB total, 3804MB available
+00:00:00.000748 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000750 main     Process ID: 7513
+00:00:00.000752 main     Package type: LINUX_64BITS_UBUNTU_13_04
+00:00:00.107567 nspr-2   Loading settings file "/home/fighting/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.113196 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.118697 nspr-2   HostDnsMonitorProxy: Host's DNS information updated:
+00:00:00.118724 nspr-2   DNS server 1: 127.0.1.1
+00:00:00.120270 nspr-2   VDInit finished
+00:00:00.208453 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Runtime error opening '/home/fighting/VirtualBox VMs/win7/win7.vbox' for reading: -102(File not found.).
+00:00:00.208476 nspr-2   /home/vbox/vbox-4.3.20/src/VBox/Main/src-server/MachineImpl.cpp[731] (nsresult Machine::registeredInit())}, preserve=false
+00:00:00.310584 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Runtime error opening '/home/fighting/VirtualBox VMs/win7/win7.vbox' for reading: -102(File not found.).
+00:00:00.310593 nspr-2   /home/vbox/vbox-4.3.20/src/VBox/Main/src-server/MachineImpl.cpp[731] (nsresult Machine::registeredInit())}, preserve=false
+00:00:00.311066 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Runtime error opening '/home/fighting/VirtualBox VMs/win7/win7.vbox' for reading: -102(File not found.).
+00:00:00.311070 nspr-2   /home/vbox/vbox-4.3.20/src/VBox/Main/src-server/MachineImpl.cpp[731] (nsresult Machine::registeredInit())}, preserve=false
+00:00:00.311983 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Runtime error opening '/home/fighting/VirtualBox VMs/win7/win7.vbox' for reading: -102(File not found.).
+00:00:00.311988 nspr-2   /home/vbox/vbox-4.3.20/src/VBox/Main/src-server/MachineImpl.cpp[731] (nsresult Machine::registeredInit())}, preserve=false
+00:00:00.319793 nspr-2   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={The object functionality is limited}, preserve=false
+00:00:00.319893 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={Could not find a registered machine named 'win7'}, preserve=false
+00:00:06.743330 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Runtime error opening '/home/fighting/VirtualBox VMs/win7/win7.vbox' for reading: -102(File not found.).
+00:00:06.743340 nspr-2   /home/vbox/vbox-4.3.20/src/VBox/Main/src-server/MachineImpl.cpp[731] (nsresult Machine::registeredInit())}, preserve=false
+00:00:17.513978 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={The object is not ready}, preserve=false

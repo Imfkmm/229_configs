@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/fighting/study/毕业设计/cmac.pdf">
+ <pageList>
+  <page number="2">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-16T21:48:08" uniqueName="okular-{63c03592-8743-4ca7-bbbf-309b6ef366e0}" author="zj" modifyDate="2014-12-16T21:48:08" color="#ffff00">
+      <boundary l="0.239017" r="0.905436" b="0.209798" t="0.195965"/>
+     </base>
+     <hl>
+      <quad dx="0.239679" cx="0.905963" dy="0.196096" bx="0.905963" cy="0.196096" ax="0.239679" by="0.210293" ay="0.210293" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-16T21:48:14" uniqueName="okular-{16271eef-bdea-432a-bf98-9c98408178a9}" author="zj" modifyDate="2014-12-16T21:48:14" color="#ffff00">
+      <boundary l="0.16828" r="0.909903" b="0.208069" t="0.178674"/>
+     </base>
+     <hl>
+      <quad dx="0.168578" cx="0.91055" dy="0.179237" bx="0.91055" cy="0.179237" ax="0.168578" by="0.193434" ay="0.193434" feather="1"/>
+      <quad dx="0.168578" cx="0.239679" dy="0.196096" bx="0.239679" cy="0.196096" ax="0.168578" by="0.208518" ay="0.208518" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-16T22:02:20" uniqueName="okular-{10bc12b5-2b32-4175-9d26-3d78a2912d81}" author="zj" modifyDate="2014-12-16T22:02:20" color="#ffff00">
+      <boundary l="0.16828" r="0.909903" b="0.330836" t="0.283573"/>
+     </base>
+     <hl>
+      <quad dx="0.720183" cx="0.91055" dy="0.28394" bx="0.91055" cy="0.28394" ax="0.720183" by="0.296362" ay="0.296362" feather="1"/>
+      <quad dx="0.168578" cx="0.91055" dy="0.301686" bx="0.91055" cy="0.301686" ax="0.168578" by="0.313221" ay="0.313221" feather="1"/>
+      <quad dx="0.168578" cx="0.510321" dy="0.318545" bx="0.510321" cy="0.318545" ax="0.168578" by="0.330967" ay="0.330967" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-16T22:02:26" uniqueName="okular-{334059fb-03b9-401e-b88a-4464ff2828eb}" author="zj" modifyDate="2014-12-16T22:02:26" color="#ffff00">
+      <boundary l="0.16828" r="0.909903" b="0.296254" t="0.247262"/>
+     </base>
+     <hl>
+      <quad dx="0.34289" cx="0.91055" dy="0.24756" bx="0.91055" cy="0.24756" ax="0.34289" by="0.263531" ay="0.263531" feather="1"/>
+      <quad dx="0.168578" cx="0.584862" dy="0.266193" bx="0.584862" cy="0.266193" ax="0.168578" by="0.278616" ay="0.278616" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="4;C2:0.499628:0.970029:1"/>
+   <oldPage viewport="5;C2:0.499628:-0.00230548:1"/>
+   <oldPage viewport="4;C2:0.499628:0.00172911:1"/>
+   <oldPage viewport="3;C2:0.499628:0.00576369:1"/>
+   <oldPage viewport="2;C2:0.499628:0.00979827:1"/>
+   <oldPage viewport="1;C2:0.499628:0.982133:1"/>
+   <oldPage viewport="2;C2:0.499628:0.00979827:1"/>
+   <oldPage viewport="1;C2:0.499628:0.982133:1"/>
+   <oldPage viewport="2;C2:0.499628:0.998271:1"/>
+   <oldPage viewport="3;C2:0.499628:0.00288184:1"/>
+   <current viewport="2;C2:0.499628:0.535447:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.40712"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

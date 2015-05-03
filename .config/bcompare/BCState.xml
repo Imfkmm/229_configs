@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TViewFrame Value="0;56;1161;708;114"/>
+		</FormPositions>
+	</TBcState>
+	<TCheckForUpdatesState>
+		<Build Value="19186"/>
+		<LastChecked Value="2014-12-25 00:07:19"/>
+	</TCheckForUpdatesState>
+	<THomeState>
+		<SessionType Value="TTextCompareSession"/>
+	</THomeState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/tmp/sJqcVi_earlysuspend.h"/>
+			<_1 Value="/tmp/XqBrlE_ft5x06_ts.c"/>
+			<_2 Value="/tmp/xPPfkk_board-am335xevm.c"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Monospace;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/arch/arm/mach-omap2/board-am335xevm.c"/>
+			<_1 Value="/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/0001-cpu.patch"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+</BCState>

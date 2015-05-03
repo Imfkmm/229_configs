@@ -1,0 +1,33 @@
+[DownloadDialog Settings]
+Height 1080=400
+Height 768=707
+Width 1366=1366
+Width 1920=700
+
+[KFileDialog Settings]
+Autoplay sounds=true
+Height 768=510
+Recent Files[$e]=DroidSansFallback.ttf,/usr/share/sounds/KDE-Sys-Log-In-Long.ogg,$HOME/.fonts/old-win/simsunb.ttf,$HOME/app/fonts/DroidSansFallback.ttf
+Recent URLs[$e]=$HOME/app/fonts/,$HOME/app/,$HOME/app/altera/,$HOME/.fonts/old-win/,$HOME/.fonts/,$HOME/tmp/,/usr/share/sounds/
+Width 1366=816
+
+[KPropertiesDialog]
+Height 1080=427
+Height 768=452
+Width 1366=635
+Width 1920=412
+
+[MainWindow]
+Height 1080=667
+Height 480=481
+Height 768=769
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABPwAAAJ9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+Width 1920=1276
+Width 640=620
+
+[Open-with settings]
+CompletionMode=5
+History=yakuake-session

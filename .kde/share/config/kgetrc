@@ -1,0 +1,16 @@
+[$Version]
+update_info=kget.upd:2.8.0,kget.upd:2.8.0/sensitive,kget.upd:2.8.0/limitdownloads
+
+[Advanced]
+KonquerorIntegration=true
+
+[Appearance]
+HeaderState=AAAA/wAAAAAAAAABAAAAAQAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAs0AAAAGAQEAAQAAAAAAAAAAAAAAAGQAAABQAAAAhAAAAAAAAAACAAAB9AAAAAUAAAAAAAAA2QAAAAEAAAAA
+
+[Internal]
+FirstRun=false
+LastDirectory[$e]=$HOME/Downloads
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAuIAAAFFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAYAGsAZwBlAHQAXwB0AG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled

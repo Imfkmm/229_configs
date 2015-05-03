@@ -1,0 +1,71 @@
+Height 768=769
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADYAAAB9vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAeAAAAiwAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAA3AAAB9gAAAFABAAAFAAAAAQAAANgAAAH2/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAADcAAAH2AAAA/AEAAAUAAAADAAAFVgAAAJP8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAAFVgAAAAgBAAAFAAADoAAAAfYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Width 1366=1367
+
+[AdditionalInfoDialog]
+Height 768=296
+Width 1366=290
+
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=32
+
+[Favorite Profiles]
+Favorites=
+
+[FileMetaDataConfigurationDialog]
+Height 768=296
+Width 1366=277
+
+[General]
+ShowSpaceInfo=true
+Version=200
+ViewPropsTimestamp=2014,11,28,14,13,47
+
+[IconsMode]
+FontWeight=50
+PreviewSize=16
+
+[KFileDialog Settings]
+Height 768=660
+Recent Files[$e]=pycharm.sh,$HOME/app/pycharm-4.0.1/bin/pycharm.sh
+Recent URLs[$e]=$HOME/app/pycharm-4.0.1/bin/
+Width 1366=1056
+
+[KPropertiesDialog]
+Height 1080=438
+Height 768=479
+Width 1366=528
+Width 1920=332
+
+[MainWindow]
+Height 1080=1081
+Height 768=769
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAEjAAAC1PwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAA3AAAA9QAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAA3AAAC1AAAAFABAAAFAAAAAQAAALIAAALU/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAADcAAALUAAAA/AEAAAUAAAADAAAHgAAAAO/8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAAHgAAAAAgBAAAFAAAFpQAAAtQAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1367
+Width 1920=1921
+
+[Open-with settings]
+CompletionMode=5
+History=muon-discover,mdcharm,google-chrome,texmacs,kate,gwenview,VirtualBox %U,kate -b %U,libreoffice --writer %U,haroopad,/usr/bin/vlc --started-from-file %U,libreoffice --impress %U,/usr/bin/wpp %f,/home/fighting/app/pycharm-4.0.1/bin/pycharm.sh,vlc
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[Search]
+What=Content
+
+[SettingsDialog]
+Height 768=458
+Width 1366=906
+
+[ViewPropertiesDialog]
+Height 768=462
+Width 1366=421

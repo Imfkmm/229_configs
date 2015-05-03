@@ -1,0 +1,21 @@
+[DownloadDialog Settings]
+Height 768=468
+Width 1366=700
+
+[KFileDialog Settings]
+Height 768=512
+Recent Files[$e]=zip:/home/fighting/Downloads/temp/personal_conf-master.zip/personal_conf-master/kde/share/apps/ksysguard/SystemLoad2.sgrd,zip:/home/fighting/Downloads/temp/personal_conf-master.zip/personal_conf-master/kde/share/apps/ksysguard/Sheet 1.sgrd
+Recent URLs[$e]=zip:/home/fighting/Downloads/temp/personal_conf-master.zip/personal_conf-master/kde/share/apps/ksysguard/
+Width 1366=864
+
+[MainWindow]
+CommandList=
+Height 768=600
+HostList=
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd,Sheet 2.sgrd,Sheet 3.sgrd
+SplitterSizeList=794,0
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAIIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=800
+currentSheet=3
+isMinimized=false

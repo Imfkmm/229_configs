@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE KSysGuardWorkSheet>
+<WorkSheet title="Sheet 1" interval="0.5" locked="0" rows="3" columns="1">
+ <host port="-1" command="ksysguardd" shell="" name="localhost"/>
+ <display title="Battery" columnSpan="1" hScale="6" svgBackground="" version="1" vLines="0" labels="1" manualRange="0" autoRange="1" rowSpan="1" stacked="0" vDistance="30" fontSize="8" vScroll="0" column="0" unit="" hLines="1" showUnit="0" class="FancyPlotter" row="0">
+  <beam sensorName="acpi/battery/0/batterycharge" sensorType="integer" hostName="localhost" color="0xff0057ae"/>
+  <beam sensorName="network/interfaces/wlan0/receiver/data" sensorType="float" hostName="localhost" color="0xffe20800"/>
+ </display>
+ <display title="Current" columnSpan="1" upperLimitActive="0" lowerLimitActive="0" hostName="localhost" sensorType="integer" backgroundColor="0xffffffff" upperLimit="0" lowerLimit="0" rowSpan="1" sensorName="acpi/Cooling_Device/0/Current_State" mAlarmDigitColor="0xffff0000" column="0" normalDigitColor="0xff888888" unit="boolean" showUnit="1" class="MultiMeter" row="1"/>
+ <display title="Temperature" columnSpan="1" hScale="6" svgBackground="" version="1" vLines="0" labels="1" manualRange="0" autoRange="1" rowSpan="1" stacked="0" vDistance="30" fontSize="8" vScroll="0" column="0" unit="" hLines="1" showUnit="0" class="FancyPlotter" row="2">
+  <beam sensorName="acpi/Thermal_Zone/0/Temperature" sensorType="integer" hostName="localhost" color="0xff0057ae"/>
+  <beam sensorName="pscount" sensorType="integer" hostName="localhost" color="0xffe20800"/>
+  <beam sensorName="disk/ram15_(1:15)/Rate/totalio" sensorType="float" hostName="localhost" color="0xfff3c300"/>
+  <beam sensorName="partitions//freespace" sensorType="integer" hostName="localhost" color="0xffff0000"/>
+ </display>
+</WorkSheet>

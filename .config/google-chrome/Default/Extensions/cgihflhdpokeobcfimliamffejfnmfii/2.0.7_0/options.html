@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Options - APK Downloader</title>
+  <link rel="stylesheet" href="css/options.css" type="text/css" media="all" />
+  <meta charset="utf-8" />
+</head>
+
+<body>
+  <div class="content-wrapper">
+    <h1 class="title">Options</h1>
+    <form>
+      <div id="info_form" class="hide-advanced">
+        <label>
+          Email<br />
+          <span id="auth_email"></span>
+        </label>
+        <label>
+          Android Device ID<br />
+          <span id="device_id"></span>
+        </label>
+        <label for="android_version">
+          Android Version
+        </label>
+        <select class="slt" id="android_version"></select>
+        <div class="help-msg">
+          <p>It's recommend to select the current Android version of your Android device.</p>
+        </div>
+        <br />
+
+        <label for="android_device">
+          Device Name
+        </label>
+        <select class="slt" id="android_device"></select>
+
+        <br />
+        <label for="android_codename">
+          Device Codename
+        </label>
+        <input id="android_codename" type="text" class="input" />
+        <div class="help-msg">
+          <p>
+            Please enter the codename showed in the Device ID app.
+            <br />
+            Also you can enter codename of any another device. For more device codenames, please view <a target="_blank" href="http://codekiem.com/android-device-codenames">this post</a>.
+          </p>
+        </div>
+
+        <p class="submit">
+          <span class="button-wrapper" id="btn_save">
+            <button class="button">
+              <span id="button-text">Save settings</span>
+            </button>
+          </span>
+          <br />
+          <a href="#" id="btn_logout">Logout</a>
+        </p>
+      </div>
+    </form>
+    <div class="footer-wrapper">
+      <div class="donate">
+        Like APK Downloader? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=redphoenix89%40gmail%2ecom&amp;lc=US&amp;item_name=APK%20Downloader&amp;item_number=apk%2ddownloader&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" target="_blank">Buy me a coffee</a> or <a href="https://chrome.google.com/webstore/detail/apk-downloader/cgihflhdpokeobcfimliamffejfnmfii/reviews" target="_blank">leave a review</a> :)
+      </div>
+      <div class="extensions">
+        My other extensions:
+        <a href="http://facemoji.com" title="Stickers, emoji (hidden emoticons) and drawing board for Facebook" target="_blank">facemoji</a>
+        &#9679;
+        <a href="http://facetalk.codekiem.com" title="Send voice message on Facebook from your computer" target="_blank">facetalk</a>
+      </div>
+      <div class="links">
+        <a href="http://codekiem.com/apk-downloader" target="_blank">Homepage</a>
+         &#9679;
+         <a href="mailto:redphoenix89+apk@gmail.com?Subject=APK%20Downloader">Contact me</a>
+      </div>
+    </div>
+  </div>
+  <script src="js/browser_support.js"></script><script src="js/utils.js"></script><script src="js/options.js"></script>
+</body>
+</html>

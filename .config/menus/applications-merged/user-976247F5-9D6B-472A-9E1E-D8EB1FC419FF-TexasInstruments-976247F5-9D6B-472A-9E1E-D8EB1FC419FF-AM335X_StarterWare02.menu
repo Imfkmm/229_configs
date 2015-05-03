@@ -1,0 +1,18 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>976247F5-9D6B-472A-9E1E-D8EB1FC419FF-TexasInstruments</Name>
+    <Directory>976247F5-9D6B-472A-9E1E-D8EB1FC419FF-TexasInstruments.directory</Directory>
+<Menu>
+    <Name>976247F5-9D6B-472A-9E1E-D8EB1FC419FF-AM335X_StarterWare02</Name>
+    <Directory>976247F5-9D6B-472A-9E1E-D8EB1FC419FF-AM335X_StarterWare02.00.01.01.directory</Directory>
+    <Include>
+        <Filename>AM335X_StarterWare-program.desktop</Filename>
+        <Filename>AM335X_StarterWare-uninstall.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>
+</Menu>

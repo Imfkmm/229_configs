@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Network;Proxy;
+Comment=GoAgent GTK Launcher
+Exec=/usr/bin/env python2 "/home/fighting/app/goagent/local/goagent-gtk.py"
+Hidden=true
+Icon=/home/fighting/app/goagent/local/goagent-logo.png
+Name=GoAgent GTK
+NoDisplay=false
+Type=Application
+X-GNOME-Autostart-enabled=true

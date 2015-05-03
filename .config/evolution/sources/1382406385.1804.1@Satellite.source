@@ -1,0 +1,13 @@
+[Data Source]
+DisplayName=651927693@qq.com
+Enabled=true
+Parent=1376571878.17636.19@Satellite
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp.qq.com
+
+[Security]
+Method=starttls-on-standard-port

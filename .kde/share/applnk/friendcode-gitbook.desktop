@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=GitBook
+GenericName=Code Editor
+Comment=Code Editor
+Exec=bash /home/fighting/.gitbook/start.sh
+Icon= /home/fighting/.gitbook/icon.png
+Categories=Development;Utilities;TextEditor
+Terminal=false
+OnlyShowIn=Old;

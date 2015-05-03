@@ -1,0 +1,132 @@
+<div class="menu page">
+
+    <div ng-switch x-on="state">
+        <div class="domain section block" ng-switch-when="blocked"><!-- blocked -->
+            <span class="section-title" translate="popup.menu.unavailable_domains"></span>
+
+            <ul class="block-list list-unstyled">
+                <li ng-repeat="domain in blockedDomains">
+                    <label>
+                        <input type="checkbox" ng-model="domain.selected">
+                        <span class="text-danger">{{ domain.name }}</span>
+                    </label>
+                </li>
+            </ul>
+
+            <button type="button" class="add btn btn-block btn-sm"
+                    ng-class="{'btn-default': blockedDomains.length == 0, 'btn-success': blockedDomains.length != 0}"
+                    ng-click="addSelectedDomains()">
+                <i class="fa fa-plus"></i>
+                <span>{{'popup.menu.add_domain'|translate}}</span>
+            </button>
+        </div>
+
+        <div class="domain section non-block" ng-switch-when="normal"><!-- normal -->
+            <span class="section-title" translate="popup.menu.current_domain"></span>
+
+            <div class="current-domain">
+                <img ng-if="currentFavIconUrl" class="domain-icon" ng-src="{{currentFavIconUrl}}">
+                <i ng-if="!currentFavIconUrl" class="domain-icon fa fa-link"></i>
+                <span>{{ currentDomain }}</span>
+            </div>
+
+            <div ng-switch x-on="currentDomainIsAdded">
+                <button ng-switch-when="no"
+                        type="button" class="add new btn btn-block btn-default btn-sm"
+                        ng-click="addDomain(currentDomain)">
+                    <i class="fa fa-plus"></i>
+                    {{'popup.menu.add_domain'|translate}}
+                </button>
+
+                <div ng-switch-when="yes">
+                    <button type="button"
+                            class="added left-btn old btn btn-block btn-default btn-sm pull-left"
+                            disabled>
+                        <i class="fa fa-check"></i>
+                        {{ "popup.menu.has_domain" | translate}}
+                    </button>
+
+                    <button type="button" class="added right-btn btn btn-default btn-sm pull-right"
+                            ng-click="removeDomain(currentDomain)"
+                            title="{{'popup.menu.delete_domain'|translate}}"
+                            data-title="{{'popup.menu.delete_domain'|translate}}"
+                            data-placement="left" data-type="info" bs-tooltip>
+                        <i class="fa fa-trash-o pull-right text-danger"></i>
+                    </button>
+                </div>
+
+            </div>
+            <div class="clearfix"></div>
+        </div>
+
+    </div>
+    <!-- /domains section -->
+
+    <hr>
+
+    <div class="mode section">
+
+        <span class="section-title" translate="popup.menu.mode"></span>
+
+        <div class="tips-box" ng-init="tips=''" ng-show="tips">
+            <div class="tips">
+                <div class="content">
+                    {{ tips }}
+                </div>
+            </div>
+        </div>
+
+        <div class="modes btn-group btn-group-justified btn-group-sm">
+            <a href="" class="btn"
+               ng-class="{'btn-success':$root.mode=='auto', 'btn-default': $root.mode!='auto'}"
+               ng-mouseenter="showModeTips('auto')"
+               ng-mouseleave="showModeTips()"
+               ng-click="switchMode('auto')">
+                {{"popup.menu.auto.name" | translate}}
+            </a>
+            <a href="" class="btn"
+               ng-class="{'btn-warning':$root.mode=='always', 'btn-default': $root.mode!='always'}"
+               ng-mouseenter="showModeTips('always')"
+               ng-mouseleave="showModeTips()"
+               ng-click="switchMode('always')">
+                {{'popup.menu.always.name'|translate}}
+            </a>
+            <a href="" class="btn"
+               ng-class="{'btn-danger':$root.mode=='never', 'btn-default': $root.mode!='never'}"
+               ng-mouseenter="showModeTips('never')"
+               ng-mouseleave="showModeTips()"
+               ng-click="switchMode('never')">
+                {{'popup.menu.never.name'|translate}}
+            </a>
+        </div>
+    </div>
+
+    <ul class="nav-menu">
+        <li>
+            <a href="javascript:" ng-click="openFiltersPage()" class="btn-default">
+                <i class="icon fa fa-filter"></i>
+                <i class="icon-next fa fa-chevron-right pull-right"></i>
+                <span translate="popup.menu.nav.filters"></span>
+            </a>
+        </li>
+
+        <li>
+            <a href="javascript:" ng-click="openInvitesPage()" class="btn-default">
+                <i class="icon fa fa-gift"></i>
+                <i class="icon-next fa fa-chevron-right pull-right"></i>
+                <span translate="popup.menu.nav.invitations"></span>
+            </a>
+        </li>
+    </ul>
+
+    <div class="footer">
+
+        <a href="javascript:" ng-click="openOptionsPage()" class="account">
+            {{$root.user.profile.name}}
+        </a>
+        <button ng-click="openPayPage()" class="btn btn-default btn-xs pull-right">
+            {{"popup.menu.renew"|translate}}
+        </button>
+        <div class="clearfix"></div>
+    </div>
+</div>

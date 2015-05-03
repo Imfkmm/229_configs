@@ -1,0 +1,18 @@
+[Appearance]
+Fixed Font=Droid Sans Mono
+Sans Serif Font=STXihei
+Serif Font=STXihei
+Standard Font=STXihei
+
+[General]
+ArticleListFeedHeaders=
+ArticleListGroupHeaders=
+SubscriptionListHeaders=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAAADAAABOwAAAAMBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAIAAAE7AAAAAQAAAAAAAAAAAAAAAgAAAAA=
+
+[HTML Settings]
+Fonts=STXihei,Droid Sans Mono,STXihei,STXihei,0
+MediumFontSize=10
+MinimumFontSize=8
+
+[View]
+Splitter 1 Sizes=321,929

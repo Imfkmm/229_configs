@@ -1,0 +1,11 @@
+[Event/new-email]
+Execute=
+KTTS=
+Logfile=
+Sound=
+
+[Event/text-to-speak-not-found]
+Execute=
+KTTS=
+Logfile=
+Sound=

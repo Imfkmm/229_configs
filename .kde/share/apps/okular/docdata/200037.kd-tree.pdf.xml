@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/fighting/Videos/ML/kd-tree.pdf">
+ <pageList>
+  <page number="5">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-18T15:56:05" uniqueName="okular-{795daf24-9454-4f16-b5df-ad20fe29a279}" author="zj" modifyDate="2014-12-18T15:56:05" color="#ffff00">
+      <boundary l="0.117647" r="0.880119" b="0.706628" t="0.639193"/>
+     </base>
+     <hl>
+      <quad dx="0.466743" cx="0.880734" dy="0.639752" bx="0.880734" cy="0.639752" ax="0.466743" by="0.664596" ay="0.664596" feather="1"/>
+      <quad dx="0.118119" cx="0.880734" dy="0.661047" bx="0.880734" cy="0.661047" ax="0.118119" by="0.685892" ay="0.685892" feather="1"/>
+      <quad dx="0.118119" cx="0.627294" dy="0.682343" bx="0.627294" cy="0.682343" ax="0.118119" by="0.707187" ay="0.707187" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-18T15:56:14" uniqueName="okular-{ce98119c-9cd8-4c1d-af10-596fab968485}" author="zj" modifyDate="2014-12-18T15:56:14" color="#ffff00">
+      <boundary l="0.117647" r="0.880119" b="0.727954" t="0.681844"/>
+     </base>
+     <hl>
+      <quad dx="0.641055" cx="0.880734" dy="0.682343" bx="0.880734" cy="0.682343" ax="0.641055" by="0.707187" ay="0.707187" feather="1"/>
+      <quad dx="0.118119" cx="0.27867" dy="0.703638" bx="0.27867" cy="0.703638" ax="0.118119" by="0.728483" ay="0.728483" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-18T15:56:54" uniqueName="okular-{7d1b58b0-8a78-4fa7-b9cc-26bdc771fafe}" author="zj" modifyDate="2014-12-18T15:56:54" color="#ffff00">
+      <boundary l="0.117647" r="0.881608" b="0.834582" t="0.70317"/>
+     </base>
+     <hl>
+      <quad dx="0.618119" cx="0.881881" dy="0.703638" bx="0.881881" cy="0.703638" ax="0.618119" by="0.728483" ay="0.728483" feather="1"/>
+      <quad dx="0.118119" cx="0.880734" dy="0.724933" bx="0.880734" cy="0.724933" ax="0.118119" by="0.749778" ay="0.749778" feather="1"/>
+      <quad dx="0.118119" cx="0.880734" dy="0.746229" bx="0.880734" cy="0.746229" ax="0.118119" by="0.771074" ay="0.771074" feather="1"/>
+      <quad dx="0.118119" cx="0.880734" dy="0.767524" bx="0.880734" cy="0.767524" ax="0.118119" by="0.792369" ay="0.792369" feather="1"/>
+      <quad dx="0.118119" cx="0.861239" dy="0.78882" bx="0.861239" cy="0.78882" ax="0.118119" by="0.813665" ay="0.813665" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-18T15:57:07" uniqueName="okular-{62f89841-a4bc-4da0-a0d2-bbf5f9ad2acb}" author="zj" modifyDate="2014-12-18T15:57:07" color="#ffff00">
+      <boundary l="0.117647" r="0.880119" b="0.857061" t="0.809798"/>
+     </base>
+     <hl>
+      <quad dx="0.118119" cx="0.880734" dy="0.810115" bx="0.880734" cy="0.810115" ax="0.118119" by="0.83496" ay="0.83496" feather="1"/>
+      <quad dx="0.118119" cx="0.557339" dy="0.831411" bx="0.557339" cy="0.831411" ax="0.118119" by="0.857143" ay="0.857143" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="2;C2:0.499628:0.170317:1"/>
+   <oldPage viewport="1;C2:0.499628:0.430259:1"/>
+   <oldPage viewport="0;C2:0.499628:1.00144:1"/>
+   <oldPage viewport="1;C2:0.499628:0.679251:1"/>
+   <oldPage viewport="2;C2:0.499628:0.699424:1"/>
+   <oldPage viewport="3;C2:0.499628:0.719597:1"/>
+   <oldPage viewport="4;C2:0.499628:0.739769:1"/>
+   <oldPage viewport="5;C2:0.499628:0.759942:1"/>
+   <oldPage viewport="6;C2:0.499628:0.095389:1"/>
+   <oldPage viewport="5;C2:0.499628:1.00086:1"/>
+   <current viewport="6;C2:0.499628:0.372622:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.40712"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

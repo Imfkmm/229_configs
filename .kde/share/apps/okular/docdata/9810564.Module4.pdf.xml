@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/fighting/study/control of mobile robots/lesson 4/Module4.pdf">
+ <pageList>
+  <page number="56">
+   <annotationList>
+    <annotation type="3">
+     <base flags="0" creationDate="2015-01-22T11:25:42" uniqueName="okular-{b95bc793-c037-4ef7-bd08-22985a15b81d}" author="zhangjun" modifyDate="2015-01-22T11:25:42" color="#00ffff">
+      <boundary l="0.385613" r="0.636792" b="0.480122" t="0.302752"/>
+      <penStyle width="5" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <geom type="1"/>
+    </annotation>
+    <annotation type="3">
+     <base flags="0" creationDate="2015-01-22T12:42:15" uniqueName="okular-{58bc8562-95a8-4461-8ec0-9292f337d7eb}" author="zhangjun" modifyDate="2015-01-22T12:42:15" color="#00ffff">
+      <boundary l="0.0341981" r="0.818396" b="0.721713" t="0.377676"/>
+      <penStyle width="5" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <geom type="1"/>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="59">
+   <annotationList>
+    <annotation type="3">
+     <base flags="0" creationDate="2015-01-22T13:09:29" uniqueName="okular-{f6478976-7a19-4656-ba5e-50a717fb222d}" author="zhangjun" modifyDate="2015-01-22T13:09:29" color="#00ffff">
+      <boundary l="0.338443" r="0.375" b="0.622324" t="0.570336"/>
+      <penStyle width="5" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <geom type="1"/>
+    </annotation>
+    <annotation type="3">
+     <base flags="0" creationDate="2015-01-22T13:09:37" uniqueName="okular-{3f984857-4680-41a3-abf4-12099a5ab518}" author="zhangjun" modifyDate="2015-01-22T13:09:37" color="#00ffff">
+      <boundary l="0.5" r="0.535377" b="0.623853" t="0.576453"/>
+      <penStyle width="5" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <geom type="1"/>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="21;C2:0.499351:0.786555:1"/>
+   <oldPage viewport="20;C2:0.499351:0.702521:1"/>
+   <oldPage viewport="19;C2:0.499351:0.616807:1"/>
+   <oldPage viewport="17;C2:0.499351:0.154622:1"/>
+   <oldPage viewport="15;C2:0.499351:0.794958:1"/>
+   <oldPage viewport="13;C2:0.499351:0.0369748:1"/>
+   <oldPage viewport="11;C2:0.499351:0.678992:1"/>
+   <oldPage viewport="9;C2:0.499351:0.0689076:1"/>
+   <oldPage viewport="6;C2:0.499351:0.773109:1"/>
+   <oldPage viewport="3;C2:0.499351:0.371429:1"/>
+   <current viewport="0;C2:0.499351:0.781513:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="0" value="0.687"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

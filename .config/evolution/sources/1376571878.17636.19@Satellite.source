@@ -1,0 +1,24 @@
+[Data Source]
+DisplayName=651927693@qq.com
+Enabled=true
+
+Parent=
+
+[Mail Account]
+IdentityUid=1382406385.1804.0@Satellite
+BackendName=imapx
+
+[Refresh]
+Enabled=true
+IntervalMinutes=10
+
+[Authentication]
+Host=imap.qq.com
+Port=143
+User=651927693
+
+[Security]
+Method=starttls-on-standard-port
+
+[Message Disposition Notifications]
+ResponsePolicy=never

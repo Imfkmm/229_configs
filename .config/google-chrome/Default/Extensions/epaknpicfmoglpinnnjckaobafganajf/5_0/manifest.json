@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.soundtrap.com/?utm_medium=referral&utm_campaign=chrome_store&utm_source=chrome_store"
+      },
+      "urls": [ "https://www.soundtrap.com/studio/" ]
+   },
+   "description": "Make music online. Record instruments, vocals and use loops. Collaborate and create music with friends from anywhere.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh8QMzkXztPlvURTYDLb2BmkPRMS1M69EHx9dR3onBbJPgyqFR4u0Sa7vswm0kxsV+MVOvZu9lfr4/FqGAzqmRkbJfZhQTfliRjzkZtnSWkb/GcFUJd/irrU5sYrMD2XDf+BZwJiUSgFmXOffqpLIDcIzUuEtOZUqg35PoWwOgESXcpYmAR1EWEhI1LQZ62kip2Qiye4nd35QBIuiK4DwG5m8vEMzgCd3dFQjlGq4MnRvr0EGr1v81QOCTT8YXLpLX0SsYGOGJR2Dhgp7CgD8HojH6RqrJn6Ao4n7LYoEq40PisaGV8esAfIokFMMinBEn9C/g6BnLnfQT4fZKfMPJQIDAQAB",
+   "manifest_version": 2,
+   "name": "Soundtrap - Make Music Online",
+   "permissions": [  ],
+   "short_name": "Soundtrap",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5"
+}

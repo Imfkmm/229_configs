@@ -1,0 +1,8 @@
+[myself]
+id=ae11c4a7_e35d_4dbf_bf05_d72a9846f6b3
+privateKeyPath=/home/fighting/.kde/share/apps/kdeconnect/key.pem
+
+[trusted_devices][29d9157ef3d78e3c]
+deviceName=Lenovo S810t
+deviceType=phone
+publicKey=-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA82/uaJ4LwEZGKQ3zwygI\nR4vCsN8pHj6jXTJLrsItoMuUC4yzFRFIA3rWjIXjlOeYGrxmaxylgiFzTdVwv25f\njjRhIed7xeBVhDOpU/1qciKKEFliqzYCec87kyURQn/IIiqF1m1U8A0SMOJjuea2\nLqI3IIkW8qnCT/vz7gqcsct4HUoQdSvN7fCs+yXKZU32cEvVaWaX031CklOYyVUD\nyT3uZeIM2oQI/UiFiWfzcPclZ1TozdyWngoxQVRm1i3xwZ+S7S6JXNMFXJGv3NyA\nIyDUNUDdES8cO6DTQYDHyHenzvQ9Kg3/ygDDesDDxnaH11zZ4OXpRydqhFIlEIst\nYQIDAQAB\n-----END PUBLIC KEY-----\n

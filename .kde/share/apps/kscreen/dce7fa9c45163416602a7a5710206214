@@ -1,0 +1,1 @@
+[ { "enabled" : true, "id" : "VGA-0", "metadata" : { "name" : "VGA-0" }, "mode" : { "refresh" : 60.0038, "size" : { "height" : 768, "width" : 1024 } }, "pos" : { "x" : 0, "y" : 0 }, "primary" : true, "rotation" : 1 } ]

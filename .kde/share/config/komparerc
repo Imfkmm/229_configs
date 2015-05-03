@@ -1,0 +1,54 @@
+[Diff Options]
+CompareRecursively=true
+ConvertTabsToSpaces=false
+CreateSmallerDiff=true
+DiffProgram=
+Format=\x04
+IgnoreAllWhiteSpace=false
+IgnoreChangesDueToTabExpansion=false
+IgnoreChangesInCase=false
+IgnoreEmptyLines=false
+IgnoreRegExp=false
+IgnoreRegExpText=
+IgnoreRegExpTextHistory=
+IgnoreWhiteSpace=false
+LargeFiles=true
+LinesOfContext=3
+NewFiles=true
+ShowCFunctionChange=false
+
+[Exclude File Options]
+File=false
+FileHistoryList=
+FileURL=
+Pattern=false
+PatternList=
+
+[General Options]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAgAAAAIAAAVWAAAAbvwBAAAAAfsAAAAUAE4AYQB2AGkAZwBhAHQAaQBvAG4BAAAAAAAABVYAAAE/AQAABQAAAAMAAAVWAAAAaPwBAAAAAfsAAAASAFQAZQB4AHQAIABWAGkAZQB3AAAAAAD/////AAAAAAAAAAAAAAVWAAACOwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[KFileDialog Settings]
+Autoplay sounds=true
+Height 768=660
+Recent Files[$e]=board-am335xevm.c,$HOME/1,$HOME/minicom.log,$HOME/tmp/ti-sdk-am335x-evm-06.00.00.00/0001-cpu.patch,$HOME/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/mfd/ezx-pcap.h,$HOME/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/gpio.h,$HOME/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/drivers/mfd/ezx-pcap.c,$HOME/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/arch/arm/mach-omap2/clkt2xxx_apll.c,$HOME/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/arch/arm/mach-omap2/board-am335xevm.c
+Recent URLs[$e]=$HOME/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/drivers/mfd/,$HOME/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/arch/arm/mach-omap2/,$HOME/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/arch/arm/mach-omap2/,$HOME/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/,$HOME/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/mfd/,$HOME/tmp/ti-sdk-am335x-evm-06.00.00.00/,$HOME/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/drivers/mfd/
+Width 1366=1056
+
+[Recent Compare Files]
+Encoding=Default
+LastChosenDestinationListEntry=/home/fighting/1
+LastChosenSourceListEntry=/home/fighting/minicom.log
+Recent Destinations=/home/fighting/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/arch/arm/mach-omap2/board-am335xevm.c,/home/fighting/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/drivers/mfd/ezx-pcap.c,/home/fighting/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/gpio.h,/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/gpio.h,/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/irq.h,/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/platform_device.h,/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/mfd/ezx-pcap.h,/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/drivers/mfd/ezx-pcap.c,/home/fighting/1
+Recent Sources=/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/arch/arm/mach-omap2/board-am335xevm.c,/home/fighting/tmp/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/drivers/mfd/ezx-pcap.c,/home/fighting/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/gpio.h,/home/fighting/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/irq.h,/home/fighting/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/platform_device.h,/home/fighting/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/include/linux/mfd/ezx-pcap.h,/home/fighting/project/bbb/ti-sdk-am335x-evm-06.00.00.00/board-support/linux-3.2.0-psp04.06.00.11/drivers/mfd/ezx-pcap.c,/home/fighting/minicom.log
+
+[View Options]
+AddColor=190,190,237
+AppliedColor=237,237,190
+ChangeColor=237,190,190
+RemoveColor=190,237,190
+ScrollNoOfLines=3
+TabToNumberOfSpaces=4
+TextFont=Droid Sans Mono,10,-1,5,50,0,0,0,0,0

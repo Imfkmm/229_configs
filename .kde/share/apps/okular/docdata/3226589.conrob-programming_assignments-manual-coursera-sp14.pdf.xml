@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/fighting/study/control of mobile robots/lesson 3/conrob-programming_assignments-manual-coursera-sp14.pdf">
+ <pageList>
+  <page number="3">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2015-01-05T16:24:17" uniqueName="okular-{0514058e-394d-4e9f-9aea-71c4645dc854}" author="zhangjun" modifyDate="2015-01-05T16:24:17" color="#ffff00">
+      <boundary l="0.136262" r="0.877141" b="0.653026" t="0.565994"/>
+     </base>
+     <hl>
+      <quad dx="0.579128" cx="0.877294" dy="0.581189" bx="0.877294" cy="0.581189" ax="0.579128" by="0.592724" ay="0.592724" feather="1"/>
+      <quad dx="0.136468" cx="0.877294" dy="0.596273" bx="0.877294" cy="0.596273" ax="0.136468" by="0.607808" ay="0.607808" feather="1"/>
+      <quad dx="0.136468" cx="0.178899" dy="0.611358" bx="0.178899" cy="0.611358" ax="0.136468" by="0.622893" ay="0.622893" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2015-01-05T16:29:38" uniqueName="okular-{01d9885a-4687-40b1-82b9-ce4bb235e423}" author="zhangjun" modifyDate="2015-01-05T16:29:38" color="#ffff00">
+      <boundary l="0.136262" r="0.548027" b="0.88415" t="0.805187"/>
+     </base>
+     <hl>
+      <quad dx="0.136468" cx="0.448394" dy="0.805679" bx="0.448394" cy="0.805679" ax="0.136468" by="0.817214" ay="0.817214" feather="1"/>
+      <quad dx="0.465596" cx="0.548165" dy="0.833185" bx="0.548165" cy="0.833185" ax="0.465596" by="0.843833" ay="0.843833" feather="1"/>
+      <quad dx="0.465596" cx="0.548165" dy="0.851819" bx="0.548165" cy="0.851819" ax="0.465596" by="0.863354" ay="0.863354" feather="1"/>
+      <quad dx="0.469037" cx="0.473624" dy="0.869565" bx="0.473624" cy="0.869565" ax="0.469037" by="0.8811" ay="0.8811" feather="1"/>
+      <quad dx="0.466743" cx="0.511468" dy="0.873114" bx="0.511468" cy="0.873114" ax="0.466743" by="0.88465" ay="0.88465" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="4">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2015-01-05T16:29:44" uniqueName="okular-{c7d48cb2-7f18-4ebc-8dea-6c368e860e87}" author="zhangjun" modifyDate="2015-01-05T16:29:44" color="#ffff00">
+      <boundary l="0.136262" r="0.583023" b="0.219597" t="0.104323"/>
+     </base>
+     <hl>
+      <quad dx="0.136468" cx="0.512615" dy="0.104703" bx="0.512615" cy="0.104703" ax="0.136468" by="0.116238" ay="0.116238" feather="1"/>
+      <quad dx="0.463303" cx="0.475917" dy="0.129547" bx="0.475917" cy="0.129547" ax="0.463303" by="0.141083" ay="0.141083" feather="1"/>
+      <quad dx="0.430046" cx="0.582569" dy="0.138421" bx="0.582569" cy="0.138421" ax="0.430046" by="0.150843" ay="0.150843" feather="1"/>
+      <quad dx="0.465596" cx="0.473624" dy="0.147294" bx="0.473624" cy="0.147294" ax="0.465596" by="0.157941" ay="0.157941" feather="1"/>
+      <quad dx="0.463303" cx="0.475917" dy="0.160603" bx="0.475917" cy="0.160603" ax="0.463303" by="0.172138" ay="0.172138" feather="1"/>
+      <quad dx="0.431193" cx="0.583716" dy="0.169476" bx="0.583716" cy="0.169476" ax="0.431193" by="0.181012" ay="0.181012" feather="1"/>
+      <quad dx="0.465596" cx="0.473624" dy="0.177462" bx="0.473624" cy="0.177462" ax="0.465596" by="0.188997" ay="0.188997" feather="1"/>
+      <quad dx="0.463303" cx="0.475917" dy="0.191659" bx="0.475917" cy="0.191659" ax="0.463303" by="0.202307" ay="0.202307" feather="1"/>
+      <quad dx="0.431193" cx="0.456422" dy="0.196096" bx="0.456422" cy="0.196096" ax="0.431193" by="0.21118" ay="0.21118" feather="1"/>
+      <quad dx="0.456422" cx="0.543578" dy="0.198758" bx="0.543578" cy="0.198758" ax="0.456422" by="0.212067" ay="0.212067" feather="1"/>
+      <quad dx="0.46445" cx="0.474771" dy="0.208518" bx="0.474771" cy="0.208518" ax="0.46445" by="0.220053" ay="0.220053" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2015-01-05T16:29:53" uniqueName="okular-{384ceab8-0ed7-4b23-b97e-dcdbae3779f5}" author="zhangjun" modifyDate="2015-01-05T16:29:53" color="#ffff00">
+      <boundary l="0.136262" r="0.732688" b="0.257061" t="0.230548"/>
+     </base>
+     <hl>
+      <quad dx="0.136468" cx="0.690367" dy="0.230701" bx="0.690367" cy="0.230701" ax="0.136468" by="0.242236" ay="0.242236" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="12;C2:0.499736:0.0130453:1"/>
+   <oldPage viewport="11;C2:0.499736:0.0150836:1"/>
+   <oldPage viewport="10;C2:0.499736:0.995516:1"/>
+   <oldPage viewport="11;C2:0.499736:0.993477:1"/>
+   <oldPage viewport="12;C2:0.499736:0.0130453:1"/>
+   <oldPage viewport="11;C2:0.499736:0.895638:1"/>
+   <oldPage viewport="12;C2:0.499736:0.966979:1"/>
+   <oldPage viewport="13;C2:0.499736:0.0110069:1"/>
+   <oldPage viewport="12;C2:0.499736:0.991439:1"/>
+   <oldPage viewport="13;C2:0.499736:0.989401:1"/>
+   <current viewport="14;C2:0.499736:0.278027:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="2.18747"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

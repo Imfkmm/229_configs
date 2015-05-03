@@ -1,0 +1,26 @@
+{
+   "author": "redphx",
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/jsxcompressor.min.js", "js/browser_support.js", "js/protocol.js", "js/background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "js/browser_support.js", "js/content_scripts.js" ],
+      "matches": [ "*://play.google.com/store*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Download APK from Google Play Store (Android Market)",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png",
+      "48": "img/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkC4TsLfo8MJ7TvvxKDkLldd4EJtz9FZo8KbHunZl55SquMPLVCw3U04eS6Om2c8OITTkz6vh/+t5KvlLXsPXHphCFryklKZV2mg3/2ayFOy4bqyX5TkxhSBtyreDLKSEKEIcgWI2KQsIuE4f68JJ9yv3FnOIeSxFBQ+rUbcuQoxv2+rw/8mcHQIbrhSkv6hC02Xg/5sd2XzASIEcWYvySSDkaLgKz3BWI3nqOazWQGJPH3P+8sjRSsX9H2silaOYnMgEI5A7+bEvzb1H+iB5FNLEPp+9u4tyXyMj7KjhYy0CHuXHXgM7Hx8r/9c1MZHBFTloGjKRTmFR5MB7jXC/2wIDAQAB",
+   "manifest_version": 2,
+   "name": "APK Downloader",
+   "options_page": "options.html",
+   "permissions": [ "cookies", "tabs", "storage", "downloads", "https://www.google.com/accounts/ClientLogin", "*://android.clients.google.com/*", "*://*.android.clients.google.com/*", "*://play.google.com/store*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.7",
+   "web_accessible_resources": [ "img/*" ]
+}

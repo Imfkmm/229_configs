@@ -1,0 +1,20 @@
+[$Version]
+update_info=yakuake.upd:2.9.9-startupnotification
+
+[Appearance]
+BackgroundColorOpacity=30
+TerminalHighlightOnManualActivation=true
+Translucency=true
+
+[Colors]
+CurrentPalette=Forty Colors
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Shortcuts]
+close-session=Alt+X
+new-session=Alt+N
+rename-session=Alt+R
+split-left-right=Alt+V
+split-top-bottom=Alt+H

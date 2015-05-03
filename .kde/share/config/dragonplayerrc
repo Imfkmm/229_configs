@@ -1,0 +1,100 @@
+[General]
+Recent Urls[$e]=file://$HOME/Downloads/%3FHN%3F.Breakup.Buddies.2014.TC720P.X264.AAC.Mandarin.CHS-ENG.Mp4Ba.mp4,file://$HOME/Downloads/The.Continent.2014.1080p.WEB-DL.x264.AAC.mkv,file://$HOME/Downloads/%3F%3F%3F%3F/1 %3F%3F%3F%3F%3F%3F%3F%3F%3F.mp4,file://$HOME/Downloads/算法导论/1 课程简介及算法分析.mp4,file://$HOME/study/control of mobile robots/lesson 2/2.1 Driving Robots Around _ Control of Mobile Robots-s49315I3DLE.mp4,file://$HOME/study/control of mobile robots/lesson 2/2.3 Odometry _ Control of Mobile Robots-IgLyihZNl1U.mp4,file://$HOME/study/control of mobile robots/lesson 2/2.4 Sensors _ Control of Mobile Robots-dbu4r0RI58c.mp4,file://$HOME/Downloads/3 Idiots 2009 720p BluRay AC3%20 x264%20 [DDR].mkv
+TimeFormat=1
+Volume=1
+
+[MainWindow]
+Height 1080=628
+Height 768=348
+State=AAAA/wAAAAD9AAAAAQAAAAEAAABPAAACIPwCAAAAAfv/////AQAAADYAAAIgAAAAVwEAAAUAAASuAAACIAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1366=647
+Width 1920=1280
+
+[file:///home/fighting/Downloads/%3F%3F%3F%3F/1 %3F%3F%3F%3F%3F%3F%3F%3F%3F.mp4]
+Brightness=0
+Contrast=0
+Date=28/11/2014
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/fighting/Downloads/%3FHN%3F.Breakup.Buddies.2014.TC720P.X264.AAC.Mandarin.CHS-ENG.Mp4Ba.mp4]
+Brightness=0
+Contrast=0
+Date=28/11/2014
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/fighting/Downloads/3 Idiots 2009 720p BluRay AC3%20 x264%20 \x5bDDR\x5d.mkv]
+Brightness=0
+Contrast=0
+Date=17/04/2015
+Hue=0
+IsVideo=false
+Saturation=0
+Subtitle=0
+
+[file:///home/fighting/Downloads/The.Continent.2014.1080p.WEB-DL.x264.AAC.mkv]
+AudioChannel=1
+Brightness=0
+Contrast=0
+Date=28/11/2014
+Hue=0
+IsVideo=true
+Position=11392
+Preferred Size=647,263
+Saturation=0
+
+[file:///home/fighting/Downloads/心HN放.Breakup.Buddies.2014.TC720P.X264.AAC.Mandarin.CHS-ENG.Mp4Ba.mp4]
+Brightness=0
+Contrast=0
+Date=27/11/2014
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/fighting/Downloads/算法导论/1 课程简介及算法分析.mp4]
+AudioChannel=1
+Brightness=0
+Contrast=0
+Date=28/11/2014
+Hue=0
+IsVideo=true
+Position=6300
+Preferred Size=647,263
+Saturation=0
+
+[file:///home/fighting/study/control of mobile robots/lesson 2/2.1 Driving Robots Around _ Control of Mobile Robots-s49315I3DLE.mp4]
+Brightness=0
+Contrast=0
+Date=05/04/2015
+Hue=0
+IsVideo=true
+Position=1835
+Saturation=0
+Subtitle=0
+
+[file:///home/fighting/study/control of mobile robots/lesson 2/2.3 Odometry _ Control of Mobile Robots-IgLyihZNl1U.mp4]
+Brightness=0
+Contrast=0
+Date=05/04/2015
+Hue=0
+IsVideo=true
+Position=6328
+Saturation=0
+Subtitle=0
+
+[file:///home/fighting/study/control of mobile robots/lesson 2/2.4 Sensors _ Control of Mobile Robots-dbu4r0RI58c.mp4]
+Brightness=0
+Contrast=0
+Date=05/04/2015
+Hue=0
+IsVideo=true
+Position=1813
+Saturation=0
+Subtitle=0

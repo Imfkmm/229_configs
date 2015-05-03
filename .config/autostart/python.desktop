@@ -1,0 +1,23 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Comment[zh_CN]=
+Exec=konsole -e ~/app/goagent/local/proxy.py
+GenericName[en_US]=
+GenericName=
+Hidden=true
+MimeType=
+Name[en_US]=GoAgent
+Name=GoAgent
+Name[zh_CN]=GoAgent
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-GNOME-Autostart-enabled=true
+X-KDE-SubstituteUID=false
+X-KDE-Username=

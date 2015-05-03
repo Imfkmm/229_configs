@@ -1,0 +1,12 @@
+[General]
+PassiveResourceKeys=
+ResourceKeys=4GWNX4rEoA
+Standard=4GWNX4rEoA
+
+[Resource_4GWNX4rEoA]
+FileFormat=vcard
+ResourceIdentifier=4GWNX4rEoA
+ResourceIsActive=true
+ResourceIsReadOnly=false
+ResourceName=Default Address Book
+ResourceType=file

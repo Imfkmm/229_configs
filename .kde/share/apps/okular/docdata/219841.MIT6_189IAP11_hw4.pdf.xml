@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/fighting/study/python/6.189/homework4/MIT6_189IAP11_hw4.pdf">
+ <pageList>
+  <page number="2">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-10T00:14:23" uniqueName="okular-{beb4ea75-435b-4c8e-ad77-b0ef8967c770}" author="zj" modifyDate="2014-12-10T00:14:23" color="#ffff00">
+      <boundary l="0.134028" r="0.667163" b="0.819597" t="0.809222"/>
+     </base>
+     <hl>
+      <quad dx="0.134174" cx="0.667431" dy="0.809228" bx="0.667431" cy="0.809228" ax="0.134174" by="0.819876" ay="0.819876" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="7;C2:0.499628:0.0074928:1"/>
+   <oldPage viewport="6;C2:0.499628:0.979827:1"/>
+   <oldPage viewport="7;C2:0.499628:0.975793:1"/>
+   <oldPage viewport="8;C2:0.499628:0.00345821:1"/>
+   <oldPage viewport="7;C2:0.499628:0.00691643:1"/>
+   <oldPage viewport="6;C2:0.499628:0.010951:1"/>
+   <oldPage viewport="5;C2:0.499628:0.0149856:1"/>
+   <oldPage viewport="4;C2:0.499628:0.0190202:1"/>
+   <oldPage viewport="3;C2:0.499628:0.991354:1"/>
+   <oldPage viewport="4;C2:0.499628:0.0190202:1"/>
+   <current viewport="3;C2:0.499628:0.92219:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.40712"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

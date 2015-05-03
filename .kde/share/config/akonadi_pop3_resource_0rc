@@ -1,0 +1,8 @@
+[General]
+host=pop.qq.com
+intervalCheckEnabled=true
+leaveOnServerCount=0
+leaveOnServerDays=0
+leaveOnServerSize=0
+login=651927693@qq.com
+targetCollection=5

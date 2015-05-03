@@ -1,0 +1,7 @@
+[Main Settings]
+FontSize=1
+GroupSplitterSizes=140,634
+PreviewSplitterSizes=256,375
+
+[Runner Dialog]
+DontShowFinishedMsg=false

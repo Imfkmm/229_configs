@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<UgDownloadList version='1'>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='https://r14---sn-q4f7dn7y.googlevideo.com/videoplayback?mm=31&amp;source=youtube&amp;ratebypass=yes&amp;ipbits=0&amp;ip=107.178.200.199&amp;sver=3&amp;signature=50C569207872130F4A0C34AC2813E43F01A5907F.D79795BBA8E586B28332D3E174BF5B44CBCAF0F3&amp;id=o-AFKXNKXXK2qwKIIC7OdoCnNtX0Kgx0JIFVSTdIHt89Pi&amp;ms=au&amp;mt=1414321039&amp;mv=u&amp;key=yt5&amp;mime=video%2Fmp4&amp;requiressl=yes&amp;itag=22&amp;upn=PxnwPrVxmMY&amp;fexp=3300019%2C3300019%2C3300115%2C3300115%2C3300133%2C3300133%2C3300138%2C3300138%2C3312118%2C3312118%2C3312478%2C3312478%2C900064%2C927622%2C930666%2C930672%2C931983%2C932404%2C945219%2C947209%2C947215%2C948703%2C952103%2C952302%2C952901%2C957103&amp;sparams=id%2Cip%2Cipbits%2Citag%2Cmime%2Cmm%2Cms%2Cmv%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&amp;expire=1414342724'/>
+        <file value='videoplayback'/>
+        <folder value='/home/fighting/Downloads'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='490256697'/>
+        <total value='490256697'/>
+        <percent value='100.000000'/>
+        <elapsed value='7002.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-10-26 19:02:14'/>
+        <CompletedOn value='2014-10-26 22:35:00'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://downloads.ti.com/dsps/dsps_public_sw/sdo_sb/targetcontent/gfxsdk/latest/exports/Graphics_SDK_setuplinux_4_10_00_01.bin?tracked=1'/>
+        <file value='Graphics_SDK_setuplinux_4_10_00_01.bin'/>
+        <folder value='/home/fighting/project/bbb/sitara'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='1756726224'/>
+        <total value='1756726224'/>
+        <percent value='100.000000'/>
+        <elapsed value='10346.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-09-14 22:43:14'/>
+        <CompletedOn value='2014-09-15 03:22:31'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://eagle.timll.com/down/video/4.2-%E5%AE%9E%E4%BE%8B%E4%BB%8B%E7%BB%8D%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%BA%93%E5%85%83%E4%BB%B6.rar'/>
+        <file value='4.2-实例介绍如何创建一个简单的库元件.rar'/>
+        <folder value='/home/fighting/Downloads'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='10078997'/>
+        <total value='10078997'/>
+        <percent value='100.000000'/>
+        <elapsed value='257.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-08-07 17:23:44'/>
+        <CompletedOn value='2014-08-07 17:28:01'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://eagle.timll.com/down/video/3.1-EAGLE_PCB%E7%BC%96%E8%BE%91%E5%99%A8%E4%BB%8B%E7%BB%8D.rar'/>
+        <file value='3.1-EAGLE_PCB编辑器介绍.rar'/>
+        <folder value='/home/fighting/Videos/EAGLE'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='46730419'/>
+        <total value='46730419'/>
+        <percent value='100.000000'/>
+        <elapsed value='457.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-08-07 17:23:11'/>
+        <CompletedOn value='2014-08-07 17:30:48'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://eagle.timll.com/down/video/4.1-EAGLE%E5%85%83%E4%BB%B6%E5%BA%93%E7%BC%96%E8%BE%91%E5%99%A8%E4%BB%8B%E7%BB%8D.rar'/>
+        <file value='4.1-EAGLE元件库编辑器介绍.rar'/>
+        <folder value='/home/fighting/Downloads'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='28176012'/>
+        <total value='28176012'/>
+        <percent value='100.000000'/>
+        <elapsed value='583.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-08-07 17:23:32'/>
+        <CompletedOn value='2014-08-07 17:33:15'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://eagle.timll.com/down/video/4.3-%E5%AE%9E%E4%BE%8B%E4%BB%8B%E7%BB%8D%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E8%B4%9F%E8%B4%A3%E7%9A%84%EF%BC%8C%E5%85%B7%E6%9C%89%E5%A4%9A%E4%B8%AAGate%E7%9A%84%E5%BA%93%E5%85%83%E4%BB%B6.rar'/>
+        <file value='4.3-实例介绍如何创建一个负责的，具有多个Gate的库元件.rar'/>
+        <folder value='/home/fighting/Downloads'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='16647892'/>
+        <total value='16647892'/>
+        <percent value='100.000000'/>
+        <elapsed value='314.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-08-07 17:24:07'/>
+        <CompletedOn value='2014-08-07 17:33:15'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://eagle.timll.com/down/video/4.4-%E5%85%83%E4%BB%B6%E5%BA%93%E7%AE%A1%E7%90%86.rar'/>
+        <file value='4.4-元件库管理.rar'/>
+        <folder value='/home/fighting/Downloads'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='12562988'/>
+        <total value='12562988'/>
+        <percent value='100.000000'/>
+        <elapsed value='187.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-08-07 17:24:13'/>
+        <CompletedOn value='2014-08-07 17:33:56'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://eagle.timll.com/down/video/6.1-CAM%E5%A4%84%E7%90%86%E7%A8%8B%E5%BA%8F%E8%AE%BE%E7%BD%AE.rar'/>
+        <file value='6.1-CAM处理程序设置.rar'/>
+        <folder value='/home/fighting/Downloads'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='4007735'/>
+        <total value='4007735'/>
+        <percent value='100.000000'/>
+        <elapsed value='58.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-08-07 17:24:23'/>
+        <CompletedOn value='2014-08-07 17:34:13'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://eagle.timll.com/down/video/6.2-%E5%AE%9E%E4%BE%8B%E4%BB%8B%E7%BB%8D%E5%A6%82%E4%BD%95%E8%BE%93%E5%87%BA2%E5%B1%82%E3%80%814%E5%B1%82%E7%94%B5%E8%B7%AF%E6%9D%BF%E7%9A%84Gerber%E6%96%87%E4%BB%B6.rar'/>
+        <file value='6.2-实例介绍如何输出2层、4层电路板的Gerber文件.rar'/>
+        <folder value='/home/fighting/Downloads'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='10229241'/>
+        <total value='10229241'/>
+        <percent value='100.000000'/>
+        <elapsed value='84.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-08-07 17:24:29'/>
+        <CompletedOn value='2014-08-07 17:34:39'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://d1.amobbs.com/bbs_upload782111/files_51/ourdev_714616VSQYOU.rar'/>
+        <file value='ourdev_714616VSQYOU.rar'/>
+        <folder value='/home/fighting/Downloads'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='39468492'/>
+        <total value='39468492'/>
+        <percent value='100.000000'/>
+        <elapsed value='1569.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-08-08 14:55:47'/>
+        <CompletedOn value='2014-08-08 15:21:56'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='https://4fe835f16ae6b3c2724bb430809c585acf3bdc3c.googledrive.com/host/0B3Z340LOBulvMG5NRmNlZEppSEE/angstrom-2011.03-x86_64-linux-armv7a-linux-gnueabi-toolchain-qte-4.6.3.tar.bz2'/>
+        <file value='angstrom-2011.03-x86_64-linux-armv7a-linux-gnueabi-toolchain-qte-4.6.3.tar.bz2'/>
+        <folder value='/home/fighting/project/bbb/qt'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='144743381'/>
+        <total value='144743381'/>
+        <percent value='100.000000'/>
+        <elapsed value='1676.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='5'/>
+        <MessageString value='aria2.getVersion result error'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-08-31 23:09:07'/>
+        <CompletedOn value='2014-09-01 00:30:36'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://downloads.ti.com/sitara_linux/esd/AM335xSDK/06_00_00_00/exports/ti-sdk-am335x-evm-06.00.00.00-Linux-x86-Install.bin?tracked=1'/>
+        <file value='ti-sdk-am335x-evm-06.00.00.00-Linux-x86-Install.bin'/>
+        <folder value='/home/fighting/project/bbb/sitara'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='1279812002'/>
+        <total value='1279812002'/>
+        <percent value='100.000000'/>
+        <elapsed value='11449.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-09-14 23:01:17'/>
+        <CompletedOn value='2014-09-15 03:40:51'/>
+      </DataClass>
+    </DataList>
+  </download>
+  <download>
+    <DataList>
+      <DataClass name='common'>
+        <url value='http://180.97.83.169:443/down/f165c2eecca68aec4601e9d153c0f415-187676659/1300%E9%A6%96%E5%90%89%E4%BB%96%E8%B0%B1%EF%BC%88%E6%AF%8F%E9%A6%96%E9%83%BD%E6%98%AF%E7%B2%BE%E5%93%81%EF%BC%89.zip?cts=183A157A160A34696010&amp;ctp=183A157A160A34&amp;ctt=1414427910&amp;limit=2&amp;spd=50000&amp;ctk=052ade24f9480c8293a5a64704b5fe94&amp;chk=f165c2eecca68aec4601e9d153c0f415-187676659&amp;mtd=1'/>
+        <file value='1300首吉他谱（每首都是精品）.zip'/>
+        <folder value='/home/fighting/Music/guitar'/>
+        <ConnectTimeout value='30'/>
+        <TransmitTimeout value='30'/>
+        <RetryDelay value='6'/>
+        <RetryLimit value='99'/>
+        <MaxConnections value='16'/>
+        <MaxUploadSpeed value='0'/>
+        <MaxDownloadSpeed value='0'/>
+        <RetrieveTimestamp value='1'/>
+      </DataClass>
+      <DataClass name='proxy'>
+        <port value='80'/>
+        <type value='0'/>
+      </DataClass>
+      <DataClass name='progress'>
+        <complete value='187676659'/>
+        <total value='187676659'/>
+        <percent value='100.000000'/>
+        <elapsed value='1903.000000'/>
+        <uploaded value='0'/>
+        <ratio value='0.000000'/>
+      </DataClass>
+      <DataClass name='relation'>
+        <hints value='80'/>
+        <AttachedStamp value='0'/>
+        <MessageType value='0'/>
+      </DataClass>
+      <DataClass name='http'>
+        <RedirectionLimit value='30'/>
+        <RedirectionCount value='0'/>
+      </DataClass>
+      <DataClass name='log'>
+        <AddedOn value='2014-10-28 00:47:11'/>
+        <CompletedOn value='2014-10-28 01:18:54'/>
+      </DataClass>
+    </DataList>
+  </download>
+</UgDownloadList>

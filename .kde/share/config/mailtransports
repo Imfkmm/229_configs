@@ -1,0 +1,15 @@
+[$Version]
+update_info=mailtransports.upd:initial-kmail-migration,mailtransports.upd:initial-knode-migration
+
+[General]
+default-transport=890800976
+
+[Transport 890800976]
+auth=true
+authtype=0
+encryption=TLS
+host=smtp.qq.com
+id=890800976
+name=smtp.qq.com
+storepass=true
+user=651927693@qq.com

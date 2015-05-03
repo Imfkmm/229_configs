@@ -1,0 +1,14 @@
+[KFileDialog Settings]
+Height 768=655
+Width 1366=1056
+
+[KPropertiesDialog]
+Height 1080=438
+Width 1920=424
+
+[Notification Messages]
+FontSettingsChanged=false
+
+[Open-with settings]
+CompletionMode=5
+History=mplayer

@@ -1,0 +1,1 @@
+[ { "enabled" : true, "id" : "a008b3dd35d65e93317386c9d39362b6", "metadata" : { "fullname" : "xrandr-BenQG2222HDL-G2A04437026", "name" : "VGA-1" }, "mode" : { "refresh" : 60.0, "size" : { "height" : 1080, "width" : 1920 } }, "pos" : { "x" : 0, "y" : 0 }, "primary" : true, "rotation" : 1 } ]

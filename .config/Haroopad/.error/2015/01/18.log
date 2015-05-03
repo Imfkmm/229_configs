@@ -1,0 +1,8 @@
+ Information | Description 
+-------------|-----------------------------
+ Type        | Error
+ Date        | Sun Jan 18 2015 14:26:27 GMT+0800 (CST)
+ File        | file:///js/codemirror.min.js
+ Line Number | 8
+ Message     | Uncaught TypeError: Object #<error> has no method 'indexOf'
+

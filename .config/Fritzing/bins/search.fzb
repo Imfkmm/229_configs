@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.8.7b.01.24.1bf5" icon="Search.png" search="imu">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="ArduPilotMega_v15" modelIndex="86569" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/ArduPilotMega_v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-TLC5940-PWP" modelIndex="86570" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/sparkfun-digitalic-tlc5940-pwp.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="9DoF-Stick-v13" modelIndex="86572" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/9DoF-Stick-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="cb9c6041c0b15c9c1a63560527d7693a" modelIndex="86573" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/Peppermill Power Board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI Music Shield-v13" modelIndex="86574" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/MIDI Music Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7e3598758afd7c1363215b7f0c124af8" modelIndex="86575" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/Digital_Panel_Meter__Voltage__DMS_20PC.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="6DOF-Digital-v10" modelIndex="86576" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/6DOF-Digital-v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d30f97b6fbe1asdad59ea7f0d636a7a" modelIndex="86577" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/controller_propeller_D40.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c7acdd26ccb2e7e05c0ayxcva975c0afdsaPotentiometerModuleID" modelIndex="86578" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/SMD_AD5206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-QRB1114-2" modelIndex="86580" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/sparkfun-sensors-qrb1114-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3234DBDC00PotentiometerModuleID" modelIndex="86582" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/pot_trimmer_12mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4244TPM6MMPotentiometerModuleID" modelIndex="86583" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/pot_trimmer_6mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="quadstep-v12" modelIndex="86585" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/quadstep-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GSM-Quectel_updateTID_2_v1.3" modelIndex="86586" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/GSM-Quectel_updateTID_2_v1.3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EasyDriver_v44" modelIndex="86587" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/EasyDriver_v44.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-IMU3000-" modelIndex="86588" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/sparkfun-sensors-imu3000-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-V_REG_LD1085-D2" modelIndex="86590" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/sparkfun-poweric-v_reg_ld1085-d2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MonsterMoto-Shield-v12" modelIndex="86592" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/MonsterMoto-Shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3b1a8578c21940dfe27253a7b57c81f5PotentiometerModuleID" modelIndex="86593" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/pot-slider.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino DUE V02b" modelIndex="86594" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/Arduino_DUE_V02b.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="297c7ab01279c7b7f5c4ca77ec94554c" modelIndex="86595" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/Dial Potentiometer with switch.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ab15a34dfcf83e23a26e83fe8a5a4dac_2" modelIndex="86596" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/Textile Potentiometer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Real_Time_Clock_Module___DS1307_RTC_Breakout_Board" modelIndex="86597" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/Real_Time_Clock_Module___DS1307_RTC_Breakout_Board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="M5450_LED_Driver" modelIndex="86598" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/M5450_LED_Driver.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="054b3d1b56ef5470113b3e56d5dfc532" modelIndex="86599" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/KA78R05_Low_Dropout_Voltage_Regulator.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerIR-v11" modelIndex="86601" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/PowerIR-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ad5330 breakout-v11" modelIndex="86602" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/ad5330 breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-TLC5940--NT" modelIndex="86603" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/sparkfun-digitalic-tlc5940--nt.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5DOF-v25" modelIndex="86605" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/5DOF-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3234DFDC00PotentiometerModuleID" modelIndex="86606" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/pot_big.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c7acdd26c5e6355cb2e7e05c0aa975c0PotentiometerModuleID" modelIndex="86608" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/AD5206 Digital Potentiometer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="alps-starter-pot9mm" modelIndex="86609" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/alps-starter-pot9mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Shield_Eth06-PoE" modelIndex="86610" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/Shield_Eth06-PoE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-TLC5940--RHB" modelIndex="86611" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/sparkfun-digitalic-tlc5940--rhb.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-LMZ14203-" modelIndex="86613" path="/home/fighting/app/fritzing-0.8.7b.linux.AMD64/pdb/core/sparkfun-poweric-lmz14203-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+    </instances>
+</module>

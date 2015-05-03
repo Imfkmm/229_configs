@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login - APK Downloader</title>
+  <link rel="stylesheet" href="css/login.css" type="text/css" media="all" />
+  <meta charset="utf-8" />
+</head>
+
+<body>
+  <div class="content-wrapper">
+    <h1 class="title">Login</h1>
+    <form>
+      <div id="login_form">
+        <div class="step"><span>1</span> Install <strong><a href="https://play.google.com/store/apps/details?id=com.redphx.deviceid" target="_blank">Device ID</a></strong> (<a href="http://codekiem.com/apk-downloader/device-id" target="_blank">mirror</a>) on your Android device. This app will show necessary information for you to use on APK Downloader.</div>
+
+        <div class="step"><span>2</span> Log in to APK Downloader using the information showed in Device ID app.</div>
+
+        <label for="user_email">Email</label>
+        <input type="email" id="user_email" class="input" value="" size="20" tabindex="10" placeholder="your.email@gmail.com">
+        <div class="help-msg">
+          <p>Enter your email showed in the Device ID app. Do not log in with another email, or it won't work.</p>
+        </div>
+
+        <label for="user_password">Password</label>
+        <p><strong>2-step verification</strong> is not supported. If you're using it, please use <a href="https://support.google.com/mail/answer/1173270" target="_blank">Application-specific password</a> instead.</p>
+        <input type="password" id="user_password" class="input" value="" size="20" tabindex="20">
+
+        <div class="help-msg">
+          <p>This password is used once to retrieve an authentication
+          token and is not stored.<br />
+          <strong class="highlight">Note:</strong> If you entered correct email and password but still couldn't log in, please turn on <a href="https://www.google.com/settings/security/lesssecureapps" target="_blank">Access for less secure apps</a> setting and try again.
+          </p>
+        </div>
+
+        <label for="user_device_id">Android Device ID (16 hex characters)</label>
+        <input type="text" value="" maxlength="16" id="user_device_id" class="input" value="" size="20" tabindex="30" pattern="[0-9a-fA-F]{16}" placeholder="0123456789ABCDEF">
+        <div class="help-msg">
+          <p>Make sure you entered it correctly, or you won't be able to download APKs.</p>
+        </div>
+
+        <p class="submit">
+          <span class="button-wrapper" id="btn_login">
+            <button class="button">
+              <span id="button-text">Login</span>
+            </button>
+          </span>
+        </p>
+      </div>
+    </form>
+    <div class="footer-wrapper">
+      <div class="donate">
+        Like APK Downloader? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=redphoenix89%40gmail%2ecom&amp;lc=US&amp;item_name=APK%20Downloader&amp;item_number=apk%2ddownloader&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" target="_blank">Buy me a coffee</a> or <a href="https://chrome.google.com/webstore/detail/apk-downloader/cgihflhdpokeobcfimliamffejfnmfii/reviews" target="_blank">leave a review</a> :)
+      </div>
+      <div class="extensions">
+        My other extensions:
+        <a href="http://facemoji.com" title="Stickers, emoji (hidden emoticons) and drawing board for Facebook" target="_blank">facemoji</a>
+        &#9679;
+        <a href="http://facetalk.codekiem.com" title="Send voice message on Facebook from your computer" target="_blank">facetalk</a>
+      </div>
+      <div class="links">
+        <a href="http://codekiem.com/apk-downloader" target="_blank">Homepage</a>
+         &#9679;
+         <a href="mailto:redphoenix89+apk@gmail.com?Subject=APK%20Downloader">Contact me</a>
+      </div>
+    </div>
+  </div>
+  <script src="js/browser_support.js"></script><script src="js/utils.js"></script><script src="js/login.js"></script>
+</body>
+</html>

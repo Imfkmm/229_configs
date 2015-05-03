@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/fighting/Documents/Pro-Git.pdf">
+ <pageList>
+  <page number="55">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-24T16:15:56" uniqueName="okular-{ce836fa0-b000-4cc9-9eb4-f5c6b0e1513f}" author="zhangjun" modifyDate="2014-12-24T16:15:56" color="#ffff00">
+      <boundary l="0.119136" r="0.865227" b="0.852061" t="0.801807"/>
+     </base>
+     <hl>
+      <quad dx="0.515081" cx="0.865429" dy="0.802111" bx="0.865429" cy="0.802111" ax="0.515081" by="0.815303" ay="0.815303" feather="1"/>
+      <quad dx="0.11949" cx="0.849188" dy="0.82058" bx="0.849188" cy="0.82058" ax="0.11949" by="0.833773" ay="0.833773" feather="1"/>
+      <quad dx="0.11949" cx="0.438515" dy="0.838171" bx="0.438515" cy="0.838171" ax="0.11949" by="0.852243" ay="0.852243" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="56">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-24T16:16:56" uniqueName="okular-{9e7fd837-ed3e-462e-a1e3-60acec30afea}" author="zhangjun" modifyDate="2014-12-24T16:16:56" color="#ffff00">
+      <boundary l="0.119136" r="0.874162" b="0.156973" t="0.0903444"/>
+     </base>
+     <hl>
+      <quad dx="0.154292" cx="0.851508" dy="0.0905893" bx="0.851508" cy="0.0905893" ax="0.154292" by="0.103782" ay="0.103782" feather="1"/>
+      <quad dx="0.11949" cx="0.87471" dy="0.108179" bx="0.87471" cy="0.108179" ax="0.11949" by="0.121372" ay="0.121372" feather="1"/>
+      <quad dx="0.11949" cx="0.865429" dy="0.126649" bx="0.865429" cy="0.126649" ax="0.11949" by="0.139842" ay="0.139842" feather="1"/>
+      <quad dx="0.11949" cx="0.259861" dy="0.144239" bx="0.259861" cy="0.144239" ax="0.11949" by="0.157432" ay="0.157432" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-24T16:17:22" uniqueName="okular-{2bc10b94-85b5-4fc7-84fb-45e660d7b1c2}" author="zhangjun" modifyDate="2014-12-24T16:17:22" color="#ffff00">
+      <boundary l="0.127327" r="0.404319" b="0.311688" t="0.262564"/>
+     </base>
+     <hl>
+      <quad dx="0.12761" cx="0.404872" dy="0.262973" bx="0.404872" cy="0.262973" ax="0.12761" by="0.276165" ay="0.276165" feather="1"/>
+      <quad dx="0.12761" cx="0.332947" dy="0.280563" bx="0.332947" cy="0.280563" ax="0.12761" by="0.294635" ay="0.294635" feather="1"/>
+      <quad dx="0.12761" cx="0.306265" dy="0.299033" bx="0.306265" cy="0.299033" ax="0.12761" by="0.312225" ay="0.312225" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-24T16:20:31" uniqueName="okular-{007f152a-2165-4f10-b3c7-9eb695dbe9b3}" author="zhangjun" modifyDate="2014-12-24T16:20:31" color="#ffff00">
+      <boundary l="0.163068" r="0.537602" b="0.618859" t="0.604743"/>
+     </base>
+     <hl>
+      <quad dx="0.163573" cx="0.530162" dy="0.605101" bx="0.530162" cy="0.605101" ax="0.163573" by="0.619173" ay="0.619173" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="57">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-24T16:24:52" uniqueName="okular-{bf1eda60-bf11-492a-aea4-e8898ea8d49a}" author="zhangjun" modifyDate="2014-12-24T16:24:52" color="#ffff00">
+      <boundary l="0.154133" r="0.805659" b="0.391869" t="0.377753"/>
+     </base>
+     <hl>
+      <quad dx="0.163573" cx="0.798144" dy="0.378188" bx="0.798144" cy="0.378188" ax="0.163573" by="0.39226" ay="0.39226" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="155;C2:0.346288:0.707564:1"/>
+   <oldPage viewport="182;C2:0.499628:0.323546:1"/>
+   <oldPage viewport="185;C2:0.447216:0.83861:1"/>
+   <oldPage viewport="188;C2:0.852088:0.258135:1"/>
+   <oldPage viewport="192;C2:0.132831:0.670624:1"/>
+   <oldPage viewport="194;C2:0.132831:0.885224:1"/>
+   <oldPage viewport="195;C2:0.235499:0.692612:1"/>
+   <oldPage viewport="200;C2:0.132831:0.515831:1"/>
+   <oldPage viewport="202;C2:0.203596:0.762093:1"/>
+   <oldPage viewport="203;C2:0.499628:0.00225861:1"/>
+   <current viewport="202;C2:0.211717:0.413808:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.70865"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

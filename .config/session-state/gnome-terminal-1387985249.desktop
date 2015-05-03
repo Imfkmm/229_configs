@@ -1,0 +1,42 @@
+[Desktop Entry]
+Name=Terminal
+Comment=Use the command line
+TryExec=gnome-terminal
+Exec='gnome-terminal' '--sm-client-state-file' '%k'
+Icon=utilities-terminal
+Type=Application
+X-GNOME-DocPath=gnome-terminal/index.html
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnome-terminal
+X-GNOME-Bugzilla-Component=BugBuddyBugs
+X-GNOME-Bugzilla-Version=3.4.1.1
+Categories=GNOME;GTK;Utility;TerminalEmulator;
+StartupNotify=true
+OnlyShowIn=GNOME;Unity;
+Keywords=Run;
+Actions=New
+X-Ubuntu-Gettext-Domain=gnome-terminal
+
+[Desktop Action New]
+Name=New Terminal
+Exec=gnome-terminal
+OnlyShowIn=Unity
+
+[GNOME Terminal Configuration]
+Version=1
+CompatVersion=1
+Windows=Window0;
+
+[Window0]
+MenubarVisible=true
+Role=gnome-terminal-window-6193-1252180660-1387985241
+ActiveTerminal=Terminal0xafb260
+Geometry=80x22+446+177
+Terminals=Terminal0xafb260;
+
+[Terminal0xafb260]
+ProfileID=Default
+WorkingDirectory=/home/fighting
+Zoom=1
+Width=80
+Height=22

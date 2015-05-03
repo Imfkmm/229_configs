@@ -1,0 +1,32 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=1081
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+Width 1920=1921
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=TextOnly
+
+[Notification Messages]
+presentationInfo=false
+
+[Print Preview]
+Height 768=500
+Width 1366=600
+
+[Recent Files]
+File1[$e]=$HOME/tmp/test.pdf
+File2[$e]=$HOME/study/graduationproj/Driver's style classification using jerk analysis.pdf
+File3[$e]=$HOME/study/graduationproj/proposal/pic/driver-model.svg
+File4[$e]=$HOME/Documents/Musicianship/L01_Study-Guide.pdf
+File5[$e]=$HOME/Documents/sed.pdf
+Name1[$e]=test.pdf
+Name2[$e]=Driver's style classification using jerk analysis.pdf
+Name3[$e]=driver-model.svg
+Name4[$e]=L01_Study-Guide.pdf
+Name5[$e]=sed.pdf

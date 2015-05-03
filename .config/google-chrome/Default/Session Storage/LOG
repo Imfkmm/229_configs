@@ -1,0 +1,12 @@
+2015/05/03-08:43:02.448 3405 Reusing MANIFEST /home/fighting/.config/google-chrome/Default/Session Storage/MANIFEST-006229
+2015/05/03-08:43:02.448 3405 Recovering log #6608
+2015/05/03-08:43:02.448 3405 Level-0 table #6610: started
+2015/05/03-08:43:02.579 3405 Level-0 table #6610: 45767 bytes OK
+2015/05/03-08:43:02.722 3405 Delete type=0 #6608
+2015/05/03-09:47:25.670 3553 Compacting 2@0 + 1@1 files
+2015/05/03-09:47:25.714 3553 Generated table #6612: 2 keys, 148 bytes
+2015/05/03-09:47:25.714 3553 Compacted 2@0 + 1@1 files => 148 bytes
+2015/05/03-09:47:25.756 3553 compacted to: files[ 0 1 0 0 0 0 0 ]
+2015/05/03-09:47:25.756 3553 Delete type=2 #6610
+2015/05/03-09:47:25.756 3553 Delete type=2 #6607
+2015/05/03-09:47:25.756 3553 Delete type=2 #6605

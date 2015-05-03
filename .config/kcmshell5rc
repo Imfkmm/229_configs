@@ -1,0 +1,12 @@
+[DownloadDialog Settings]
+Height 768=468
+Width 1366=700
+Window-Maximized 768x1366=true
+
+[KPropertiesDialog]
+Height 768=419
+Width 1366=411
+
+[Open-with settings]
+CompletionMode=5
+History=/usr/lib/kde4/libexec/kdeconnectd,yakuake

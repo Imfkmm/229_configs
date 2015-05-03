@@ -1,0 +1,63 @@
+[Macrobull]
+Color Background=33,34,32
+Color Highlighted Bracket=45,73,62
+Color Highlighted Line=51,52,50
+Color Modified Lines=171,74,74
+Color Replace Highlight=39,89,62
+Color Saved Lines=70,129,50
+Font=Monospace,9,-1,5,50,0,0,0,0,0
+dummy=prevent-empty-group
+
+[Macrobull's Printing]
+Color Background=255,255,255
+dummy=prevent-empty-group
+
+[Macrobull2]
+Color Background=255,255,255
+dummy=prevent-empty-group
+
+[Normal]
+Color Background[$d]
+Color Code Folding[$d]
+Color Highlighted Bracket[$d]
+Color Highlighted Line[$d]
+Color Icon Bar[$d]
+Color Indentation Line[$d]
+Color Line Number[$d]
+Color MarkType 1[$d]
+Color MarkType 2[$d]
+Color MarkType 3[$d]
+Color MarkType 4[$d]
+Color MarkType 5[$d]
+Color MarkType 6[$d]
+Color MarkType 7[$d]
+Color Modified Lines[$d]
+Color Replace Highlight[$d]
+Color Saved Lines[$d]
+Color Search Highlight[$d]
+Color Selection[$d]
+Color Separator[$d]
+Color Spelling Mistake Line[$d]
+Color Tab Marker[$d]
+Color Template Background[$d]
+Color Template Editable Placeholder[$d]
+Color Template Focused Editable Placeholder[$d]
+Color Template Not Editable Placeholder[$d]
+Color Word Wrap Marker[$d]
+Font=Noto Sans CJK SC,13,-1,5,50,0,0,0,0,0
+dummy=prevent-empty-group
+
+[Printing]
+Font=Fantasque Sans Mono,10,-1,5,50,0,0,0,0,0
+dummy=prevent-empty-group
+
+[Solarized (dark)]
+Font=Droid Sans Mono,12,-1,5,50,0,0,0,0,0
+dummy=prevent-empty-group
+
+[Temp]
+Font=Noto Sans CJK SC,10,-1,5,25,0,0,0,0,0
+dummy=prevent-empty-group
+
+[Vim (dark)]
+dummy=prevent-empty-group

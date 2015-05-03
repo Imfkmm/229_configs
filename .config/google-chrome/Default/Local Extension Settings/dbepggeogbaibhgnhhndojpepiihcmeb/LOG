@@ -1,0 +1,14 @@
+2015/05/03-08:43:02.156 3407 Reusing MANIFEST /home/fighting/.config/google-chrome/Default/Local Extension Settings/dbepggeogbaibhgnhhndojpepiihcmeb/MANIFEST-000001
+2015/05/03-08:43:02.156 3407 Recovering log #49
+2015/05/03-08:43:02.156 3407 Level-0 table #51: started
+2015/05/03-08:43:02.225 3407 Level-0 table #51: 133 bytes OK
+2015/05/03-08:43:02.343 3407 Delete type=0 #49
+2015/05/03-08:43:02.347 3553 Compacting 4@0 + 1@1 files
+2015/05/03-08:43:02.410 3553 Generated table #53: 2 keys, 173 bytes
+2015/05/03-08:43:02.410 3553 Compacted 4@0 + 1@1 files => 173 bytes
+2015/05/03-08:43:02.612 3553 compacted to: files[ 0 1 0 0 0 0 0 ]
+2015/05/03-08:43:02.612 3553 Delete type=2 #42
+2015/05/03-08:43:02.612 3553 Delete type=2 #45
+2015/05/03-08:43:02.612 3553 Delete type=2 #40
+2015/05/03-08:43:02.612 3553 Delete type=2 #48
+2015/05/03-08:43:02.612 3553 Delete type=2 #51

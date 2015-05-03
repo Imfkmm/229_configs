@@ -1,0 +1,7 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.google.com]
+drive.google.com     ".google.com"        "/"          1437912947    0 NID                  6    67=oXqhVIltxjvo2W0Mpc26MmlZRqZzbPuhwITK4bSsuNQb_UOUqCPk08-DsAc9OeuYvpYZVMUdgivPoTSvf9qzhVd5DyUw5jRWhtfVpXL3_1oAXIl5_f5LdDyqSdrLIytY
+[.wikia.com]
+lyrics.wikia.com     ".wikia.com"         "/"          1441862410    0 wikia_beacon_id      4    mjjMqc2NDj

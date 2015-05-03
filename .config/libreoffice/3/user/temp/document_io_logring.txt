@@ -1,0 +1,61 @@
+350m1(Build:2)
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2207: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2553: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2207: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2553: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2207: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2553: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2207: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2553: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2207: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2553: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2207: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2553: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2642: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2728: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2207: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2553: Rethrow
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2207: 
+/build/buildd/libreoffice-3.5.7/package/source/xstor/xstorage.cxx:2553: Rethrow
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/sfxbasemodel.cxx:1751: storeToURL
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1087: Begin
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1289: SaveAs/Export
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1302: Locking
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1520: Storing in alien format.
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1642: Medium commit.
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1651: Storing is successful.
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/sfxbasemodel.cxx:2887: Storing succeeded!
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/sfxbasemodel.cxx:1751: storeToURL
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1087: Begin
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1289: SaveAs/Export
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1302: Locking
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1520: Storing in alien format.
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1642: Medium commit.
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:1651: Storing is successful.
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/sfxbasemodel.cxx:2887: Storing succeeded!
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/sfxbasemodel.cxx:1712: storeAsURL
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objstor.cxx:2559: 
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/objmisc.cxx:265: Resetting Error.
+/build/buildd/libreoffice-3.5.7/sfx2/source/doc/sfxbasemodel.cxx:2906: Storing failed!

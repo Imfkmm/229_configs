@@ -1,0 +1,9 @@
+2015/04/30-16:05:14.902 11071 Reusing MANIFEST /home/fighting/.config/google-chrome/Default/IndexedDB/http_maxiang.info_0.indexeddb.leveldb/MANIFEST-000001
+2015/04/30-16:05:18.463 11071 Current memtable full; waiting...
+2015/04/30-16:05:18.463 13477 Level-0 table #5: started
+2015/04/30-16:05:18.497 13477 Level-0 table #5: 1503 bytes OK
+2015/04/30-16:05:18.547 13477 Delete type=0 #3
+2015/04/30-16:05:18.547 13477 Level-0 table #7: started
+2015/04/30-16:05:18.547 13477 Level-0 table #7: 0 bytes OK
+2015/04/30-16:05:18.597 13477 Delete type=0 #4
+2015/04/30-16:05:18.597 13477 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

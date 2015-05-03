@@ -1,0 +1,26 @@
+[fontinst]
+InfoOutput=4
+
+[kcminit]
+InfoOutput=4
+
+[kcmshell5]
+InfoOutput=4
+
+[kded5]
+InfoOutput=4
+
+[kmenuedit]
+InfoOutput=4
+
+[ksmserver]
+InfoOutput=4
+
+[kwrited]
+InfoOutput=4
+
+[systemsettings]
+InfoOutput=4
+
+[unnamed app]
+InfoOutput=4

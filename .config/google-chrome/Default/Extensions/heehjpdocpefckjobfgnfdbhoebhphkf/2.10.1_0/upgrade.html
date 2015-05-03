@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>{{"upgrade.title" | translate}}</title>
+    <link rel="stylesheet" href="/css/bootstrap.css"/>
+    <link rel="stylesheet" href="/css/options.css"/>
+</head>
+<body>
+<div class="container" style="padding-top: 100px;" ng-cloak>
+    <div class="alert alert-danger">
+        <p>
+            {{"upgrade.p1.t1" | translate}}
+            <a target="_blank" href="https://chrome.google.com/webstore/detail/heehjpdocpefckjobfgnfdbhoebhphkf">chrome
+                Store</a>
+            {{"upgrade.p1.t2" | translate}}
+        </p>
+
+        <p>
+            {{"upgrade.if_trouble" | translate}} <a href="http://blog.honx.in/manual-install/" target="_blank">{{"upgrade.manual_install_tutorial"|translate}}</a>
+        </p>
+    </div>
+    <p class="alert alert-info">
+        {{"upgrade.uninstall_first" | translate}}
+    </p>
+</div>
+
+<script data-main="/js/upgrade/upgrade.js"
+        src="/js/libs/require.js"></script>
+</body>
+</html>

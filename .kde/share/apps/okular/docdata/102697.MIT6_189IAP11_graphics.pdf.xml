@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/fighting/study/python/6.189/homework4/MIT6_189IAP11_graphics.pdf">
+ <pageList>
+  <page number="0">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-09T09:06:55" uniqueName="okular-{29a95834-35f4-4467-a148-31b4b89b78ca}" author="zj" modifyDate="2014-12-09T09:06:55" color="#ffff00">
+      <boundary l="0.120625" r="0.906925" b="0.427743" t="0.402426"/>
+     </base>
+     <hl>
+      <quad dx="0.484922" cx="0.907117" dy="0.402564" bx="0.907117" cy="0.402564" ax="0.484922" by="0.413675" ay="0.413675" feather="1"/>
+      <quad dx="0.120627" cx="0.811821" dy="0.417094" bx="0.811821" cy="0.417094" ax="0.120627" by="0.428205" ay="0.428205" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2014-12-09T09:07:09" uniqueName="okular-{6da06202-0781-4cf8-9066-bd16720a69ae}" author="zj" modifyDate="2014-12-09T09:07:09" color="#ffff00">
+      <boundary l="0.41102" r="0.827252" b="0.441456" t="0.431435"/>
+     </base>
+     <hl>
+      <quad dx="0.411339" cx="0.827503" dy="0.431624" bx="0.827503" cy="0.431624" ax="0.411339" by="0.44188" ay="0.44188" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="2;C2:0.499628:0.0102848:1"/>
+   <oldPage viewport="1;C2:0.499628:0.0208333:1"/>
+   <oldPage viewport="0;C2:0.499628:0.995253:1"/>
+   <oldPage viewport="1;C2:0.499628:0.0205696:1"/>
+   <oldPage viewport="0;C2:0.499628:0.995253:1"/>
+   <oldPage viewport="1;C2:0.499628:1.00158:1"/>
+   <oldPage viewport="2;C2:0.499628:0.184863:1"/>
+   <oldPage viewport="0;C2:0.499628:0.984441:1"/>
+   <oldPage viewport="1;C2:0.133896:0.138889:1"/>
+   <oldPage viewport="2;C2:0.151387:0.744872:1"/>
+   <current viewport="3;C2:0.151387:0.342308:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.44665"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

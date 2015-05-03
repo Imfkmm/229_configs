@@ -1,0 +1,16 @@
+[ConfigDialog]
+Height 768=275
+Width 1366=379
+
+[DownloadDialog Settings]
+Height 768=468
+Width 1366=700
+
+[MainWindow]
+Height 768=512
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=841
+Window-Maximized 1080x1920=true
+Window-Maximized 768x1366=true

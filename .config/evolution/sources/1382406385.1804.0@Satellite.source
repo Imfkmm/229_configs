@@ -1,0 +1,27 @@
+[Mail Submission]
+TransportUid=1382406385.1804.1@Satellite
+SentFolder=folder://local/Sent
+
+[Data Source]
+DisplayName=651927693@qq.com
+Enabled=true
+Parent=1376571878.17636.19@Satellite
+
+[Mail Identity]
+Name=fighting
+Address=651927693@qq.com
+SignatureUid=
+
+[Mail Composition]
+DraftsFolder=folder://local/Drafts
+SignImip=true
+
+[Pretty Good Privacy (OpenPGP)]
+AlwaysSign=false
+AlwaysTrust=false
+EncryptToSelf=true
+
+[Secure MIME (S/MIME)]
+EncryptByDefault=false
+EncryptToSelf=true
+SignByDefault=false

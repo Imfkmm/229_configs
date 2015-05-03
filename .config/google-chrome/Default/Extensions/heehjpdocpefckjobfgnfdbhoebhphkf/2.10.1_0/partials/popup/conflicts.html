@@ -1,0 +1,26 @@
+<div class="conflict page">
+    <div class="block section">
+        <span class="section-title text-danger">{{'popup.conflict.title'|translate}}</span>
+        <hr>
+        <ul class="list-unstyled">
+            <li ng-repeat="ext in extensions()">
+                <img ng-src="{{ ext.iconUrl }}">
+                {{ext.icons}}
+                <a href="chrome://extensions/?id={{ ext.id }}"
+                   target="_blank"
+                   ng-click="openExtensionPage(ext.id)">
+                    {{ ext.name }}
+                </a>
+            </li>
+        </ul>
+        <p class="text-muted">
+            {{'popup.conflict.text.p1'|translate}}
+            <a href="chrome://extensions" ng-click="openExtensionPage()" translate="popup.conflict.text.p2"></a>
+            {{'popup.conflict.text.p3'|translate}}
+            <button class="disable-all btn btn-default btn-sm btn-block" ng-click="disableAll()">
+                <i class="glyphicon glyphicon-flash"></i>
+                {{"popup.conflict.disable_all" | translate}}
+            </button>
+        </p>
+    </div>
+</div>

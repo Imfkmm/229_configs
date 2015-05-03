@@ -1,0 +1,14 @@
+{
+   "background_page": "background.html",
+   "description": "可使用右键解析当前页面的视频",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnlVsffrcYj+Oq8+yOFbDp3flslLdO9ubV+eluhwJsQUE0CO/MJ5I2BYB+B9MBV8bx1YH4i8Y+R+b6AGvmIVXamwlWPWdGoH8lWjf+ga3gQTyAGiREpkQy5OCrAE2AlA0jmhM4LOJ4ubgECSXj/8l9ZDM5VjBqpJ+YlLPZnxVjxQIDAQAB",
+   "name": "FLVCD在线视频解析右键扩展",
+   "permissions": [ "contextMenus", "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.5"
+}

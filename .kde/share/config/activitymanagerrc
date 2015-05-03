@@ -1,0 +1,12 @@
+[activities]
+61a8dbd8-dffc-4efd-b977-afc0bba0eb0b=BalanceRobot
+6fc30888-8dc2-4469-a0a7-fdf6c72b4fec=New Activity
+de815999-e2d8-4d60-be81-3a1faf3af82c=ShiftSchedule
+
+[activities-icons]
+61a8dbd8-dffc-4efd-b977-afc0bba0eb0b=kdevgh
+de815999-e2d8-4d60-be81-3a1faf3af82c=
+
+[main]
+currentActivity=61a8dbd8-dffc-4efd-b977-afc0bba0eb0b
+runningActivities=de815999-e2d8-4d60-be81-3a1faf3af82c,61a8dbd8-dffc-4efd-b977-afc0bba0eb0b

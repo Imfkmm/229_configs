@@ -1,0 +1,20 @@
+=========================
+FCITX 4.2.8.5 -- Get Signal No.: 6
+Date: try "date -d @1429577861" if you are using GNU date ***
+ProcessID: 2066
+/usr/bin/fcitx[0x4015fb]
+/lib/x86_64-linux-gnu/libc.so.6(+0x36eb0)[0x7f76d9c7ceb0]
+/lib/x86_64-linux-gnu/libc.so.6(gsignal+0x37)[0x7f76d9c7ce37]
+/lib/x86_64-linux-gnu/libc.so.6(abort+0x148)[0x7f76d9c7e528]
+/lib/x86_64-linux-gnu/libc.so.6(+0x77f74)[0x7f76d9cbdf74]
+/lib/x86_64-linux-gnu/libc.so.6(+0x7f586)[0x7f76d9cc5586]
+/usr/lib/x86_64-linux-gnu/libX11.so.6(XFree+0x9)[0x7f76d8e29c69]
+/usr/lib/x86_64-linux-gnu/fcitx/fcitx-xim.so(+0x5672)[0x7f76ccedb672]
+/usr/lib/x86_64-linux-gnu/fcitx/fcitx-xim.so(+0x3db9)[0x7f76cced9db9]
+/usr/lib/x86_64-linux-gnu/libfcitx-core.so.0(FcitxModuleInvokeOnAddon+0x2c)[0x7f76da66c27c]
+/usr/lib/x86_64-linux-gnu/fcitx/fcitx-x11.so(+0x3c65)[0x7f76d9127c65]
+/usr/lib/x86_64-linux-gnu/libfcitx-core.so.0(+0x8d56)[0x7f76da65cd56]
+/usr/lib/x86_64-linux-gnu/libfcitx-core.so.0(FcitxInstanceRun+0x210)[0x7f76da65d480]
+/usr/bin/fcitx[0x400fb6]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf5)[0x7f76d9c67ec5]
+/usr/bin/fcitx[0x401029]

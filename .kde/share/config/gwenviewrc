@@ -1,0 +1,56 @@
+[General]
+SideBarPage=folders
+ViewBackgroundValue=243
+
+[ImageView]
+ThumbnailSplitterSizes=504,143
+
+[KFileDialog Settings]
+Height 1080=630
+Height 768=660
+Recent Files[$e]=$HOME/study/graduationproj/proposal/translation/pic1421.jpg,$HOME/tmp/test.jpg,$HOME/study/graduationproj/proposal/translation/pic1420.jpg,$HOME/study/graduationproj/proposal/translation/test.tiff
+Recent URLs[$e]=$HOME/Pictures/,$HOME/study/graduationproj/proposal/translation/,$HOME/tmp/
+Width 1366=1056
+Width 1920=1008
+
+[MainWindow]
+Height 1080=667
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABPwAAAJkAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+Width 1920=1276
+
+[Recent Dirs]
+<copyMoveOrLink>[$e]=file://$HOME/Pictures/test/,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/study/graduationproj/shibin/second/optimized_schedule/mod1.tif
+File10[$e]=$HOME/Downloads/宋冬野 - 安和桥北 2013 - FLAC 分轨/频谱图.jpg
+File2[$e]=$HOME/study/graduationproj/shibin/second/optimized_schedule/raw.tif
+File3[$e]=$HOME/study/graduationproj/shibin/second/optimized_schedule/agg1 .tif
+File4[$e]=$HOME/study/graduationproj/shibin/second/optimized_schedule/agg1-raw.tif
+File5[$e]=$HOME/study/graduationproj/notes/ControlBlock.png
+File6[$e]=$HOME/study/graduationproj/proposal/pic/vehicle-model-with-shift-schedule.png
+File7[$e]=$HOME/study/graduationproj/proposal/pic/自动挡换挡曲线.png
+File8[$e]=$HOME/Downloads/宋冬野 - 安和桥北 2013 - FLAC 分轨/PIC_20130902_210644_831.jpg
+File9[$e]=$HOME/Downloads/宋冬野 - 安和桥北 2013 - FLAC 分轨/PIC_20130902_210706_01E.jpg
+Name1[$e]=mod1.tif
+Name10[$e]=频谱图.jpg
+Name2[$e]=raw.tif
+Name3[$e]=agg1 .tif
+Name4[$e]=agg1-raw.tif
+Name5[$e]=ControlBlock.png
+Name6[$e]=vehicle-model-with-shift-schedule.png
+Name7[$e]=自动挡换挡曲线.png
+Name8[$e]=PIC_20130902_210644_831.jpg
+Name9[$e]=PIC_20130902_210706_01E.jpg
+
+[SideBar-BrowseMode]
+IsVisible=false
+
+[SideBar-FullScreenMode]
+IsVisible=false
+
+[SideBar-ViewMode]
+IsVisible=false

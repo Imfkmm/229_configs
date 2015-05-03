@@ -1,0 +1,42 @@
+<div class="page-header">
+    <h2 translate="options.order_history.title"></h2>
+
+    <div class="clearfix"></div>
+</div>
+
+<table class="orders table">
+    <thead>
+    <tr>
+        <th class="created-at" translate="options.order_history.order_time"></th>
+        <th class="order" translate="options.order_history.order_no"></th>
+        <th class="plan" translate="options.order_history.plan"></th>
+        <th class="price" translate="options.order_history.price"></th>
+        <th class="status" translate="options.order_history.status"></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="trade in trades" ng-class="trade.status == 'TRADE_FINISHED' ? '' : 'text-muted'">
+        <td class="created-at">{{trade.created_at * 1000 | date: 'yyyy-MM-dd HH:mm:ss'}}</td>
+        <td class="order">{{trade.out_no}}</td>
+        <td class="plan">{{trade.type + ('options.order_history.day'|translate)}}</td>
+        <td class="price">{{trade.total_fee | number: 2}}</td>
+        <td class="status" ng-switch="trade.status">
+            <span ng-switch-when="INIT" translate="options.order_history.status_name.init"></span>
+            <span ng-switch-when="WAIT_BUYER_PAY" translate="options.order_history.status_name.wait_buyer_pay"></span>
+            <span ng-switch-when="WAIT_SELLER_SEND_GOODS"
+                  translate="options.order_history.status_name.wait_seller_send_goods"></span>
+            <span ng-switch-when="WAIT_BUYER_CONFIRM_GOODS"
+                  translate="options.order_history.status_name.wait_buyer_confirm_goods"></span>
+            <span ng-switch-when="TRADE_FINISHED" translate="options.order_history.status_name.trade_finished"></span>
+            <span ng-switch-when="TRADE_CLOSED" translate="options.order_history.status_name.trade_closed"></span>
+            <span ng-switch-default>{{ 'options.order_history.status_name.unknown' | translate}}_{{ trade.status }}</span>
+        </td>
+    </tr>
+    <tr ng-show="trades && !trades.length">
+        <td colspan="5">
+            <span class="text-muted" translate="options.order_history.empty_order"></span>
+            <a href="{{$root.payUrl}}" target="_blank" translate="options.order_history.pay_now"></a>
+        </td>
+    </tr>
+    </tbody>
+</table>

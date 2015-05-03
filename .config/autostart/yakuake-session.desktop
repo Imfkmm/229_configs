@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=yakuake-session -e python ~/app/goagent/local/proxy.py --hold -t '0'; yakuake-session
+GenericName[en_US]=start goagent in yakuake
+GenericName=start goagent in yakuake
+Icon=system-run
+MimeType=
+Name[en_US]=yakuake-session-goagent
+Name=yakuake-session-goagent
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

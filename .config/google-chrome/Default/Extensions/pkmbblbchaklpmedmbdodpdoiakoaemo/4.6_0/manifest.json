@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://downnet2.info/archives/30"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiPiE/3ZhUnc4UH2LELiFkV8l9J4+ZDyQS/yumzlnrPOb3Nz3xORYH07sCB1XCCYWHNLfXQq+go0GqZzMLbzAu+TzA6/KjqG3shWmnYlxzkExE25rFfL1g0VFDPVpi6iHxRPST51JcXpEhtTvMSD9yesLkG5Bod/T0s4Oxo2j44l4OmvcSOLBwbXCbYtBx3zhgt+BoeSAKmn5AP1JOoNNWlNaBWYwqPz/dMdnh/aSon42JmmrISaXWkLIgJaKiLGdCU5JXAspBT01aatxh6jjhiyEfkfXXoxUd/VmYozfOiN6GhR89AGuk7CwVCbe0j6aFZU1PJUAqDpfk+U2hBCfMwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_application_title__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.6"
+}
